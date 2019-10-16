@@ -1,0 +1,382 @@
+### D01:
+	HARV:
+		No alerts
+
+	BART:
+	Single aspirated air temperature:
+		- Turbine broken or assembly inlet blocked at meas. level 1
+		- Assembly failure at meas. level 2
+
+	HOPB:
+		No alerts
+
+### D02:
+
+	SCBI:
+	Single aspirated air temperature:
+		- Turbine broken or assembly inlet blocked at meas. level 1
+		- Assembly failure at meas. level 4
+	Triple aspirated air temperature:
+		- Assembly failure at meas. level 6
+
+	SERC:
+	Single aspirated air temperature:
+		- Turbine broken or assembly inlet blocked at meas. level 1
+	Relative humidity:
+		- Assembly failure at soil plot 3
+
+	BLAN:
+	Single aspirated air temperature:
+		- Assembly failure at meas. level 2
+		- Turbine broken or assembly inlet blocked at meas. level 3
+
+	LEWI:
+		No alerts
+
+	POSE:
+		No alerts
+
+### D03:
+
+	OSBS:
+	Precipitation:
+		- Stream failure (inletTemp) at DFIR
+		- Stream failure (internalTemp) at DFIR
+
+	DSNY:
+	Single aspirated air temperature:
+		- Turbine broken or assembly inlet blocked at meas. level 1
+
+	JERC:
+	Triple aspirated air temperature:
+		- Assembly failure at meas. level 6
+
+	SUGG:
+	Single aspirated air temperature:
+		- Turbine broken or assembly inlet blocked at on-shore met station
+
+	BARC:
+		No alerts
+
+	FLNT:
+	Relative humidity:
+		- Stream failure (dewPoint) at on-shore met station
+
+### D04:
+
+	GUAN:
+	Single aspirated air temperature:
+		- Turbine broken or assembly inlet blocked at meas. level 4
+	Precipitation:
+		- Stream failure (inletTemp) at DFIR
+		- Stream failure (internalTemp) at DFIR
+
+	LAJA:
+		No alerts
+
+	CUPE:
+		No alerts
+
+	GUIL:
+	Single aspirated air temperature:
+		- Assembly failure at on-shore met station
+
+### D05:
+
+	UNDE:
+		No alerts
+
+	TREE:
+		No alerts
+
+	STEI:
+		No alerts
+
+	CRAM:
+		No alerts
+
+	LIRO:
+	Single aspirated air temperature:
+		- Assembly failure at on-shore met station
+	Relative humidity:
+		- Assembly failure at on-shore met station
+
+### D06:
+
+	UKFS:
+	Single aspirated air temperature:
+		- Fan broken at meas. level 2
+
+	KONZ:
+		No alerts
+
+	KONA:
+	Relative humidity:
+		- Assembly failure at meas. level 4
+
+	KING:
+		No alerts
+
+	MCDI:
+		No alerts
+
+### D07:
+
+	ORNL:
+	Relative humidity:
+		- Assembly failure at soil plot 3
+
+	MLBS:
+	Single aspirated air temperature:
+		- Stream failure (PRTResistance) at meas. level 1
+		- Assembly failure at meas. level 5
+	Triple aspirated air temperature:
+		- Assembly failure at meas. level 6
+
+	GRSM:
+	Single aspirated air temperature:
+		- Turbine broken or assembly inlet blocked at meas. level 1
+
+	LECO:
+		No alerts
+
+	WALK:
+	Single aspirated air temperature:
+		- Turbine broken or assembly inlet blocked at on-shore met station
+
+### D08:
+
+	TALL:
+	Single aspirated air temperature:
+		- Fan broken at meas. level 1
+		- Turbine broken or assembly inlet blocked at meas. level 2
+		- Fan broken at meas. level 3
+	Precipitation:
+		- Assembly failure at DFIR
+
+	LENO:
+	Single aspirated air temperature:
+		- Turbine broken or assembly inlet blocked at meas. level 1
+	Relative humidity:
+		- Assembly failure at meas. level 6
+		- Stream failure (dewPoint) at meas. level 6
+		- Stream failure (sensorTemp) at meas. level 6
+		- Stream failure (RH) at meas. level 6
+
+	DELA:
+	Single aspirated air temperature:
+		- Stream failure (fanSpeed) at meas. level 1
+		- Stream failure (turbineSpeed) at meas. level 1
+
+	BLWA:
+		No alerts
+
+	MAYF:
+	Single aspirated air temperature:
+		- Turbine broken or assembly inlet blocked at on-shore met station
+
+	TOMB:
+		No alerts
+
+### D09:
+
+	WOOD:
+		No alerts
+
+	NOGP:
+		No alerts
+
+	DCFS:
+	Single aspirated air temperature:
+		- Stream failure (fanSpeed) at meas. level 3
+		- Stream failure (turbineSpeed) at meas. level 3
+
+	PRLA:
+		No alerts
+
+	PRPO:
+		No alerts
+
+### D10:
+
+	STER:
+		No alerts
+
+	RMNP:
+		No alerts
+
+	CPER:
+	Triple aspirated air temperature:
+		- Assembly failure at meas. level 4
+	Relative humidity:
+		- Assembly failure at meas. level 4
+
+	ARIK:
+	Precipitation:
+		- Assembly failure at DFIR
+
+### D11:
+
+	OAES:
+		No alerts
+
+	CLBJ:
+	Single aspirated air temperature:
+		- Assembly failure at meas. level 1
+
+	BLUE:
+		No alerts
+
+	PRIN:
+		No alerts
+
+### D12:
+
+	YELL:
+	Single aspirated air temperature:
+		- Assembly failure at meas. level 2
+		- Fan broken at meas. level 2
+
+	BLDE:
+	Single aspirated air temperature:
+		- Assembly failure at on-shore met station
+	Relative humidity:
+		- Assembly failure at on-shore met station
+
+### D13:
+
+	NIWO:
+	Single aspirated air temperature:
+		- Assembly failure at meas. level 1
+		- Stream failure (PRTResistance) at meas. level 2
+	Precipitation:
+		- Assembly failure at DFIR
+	Relative humidity:
+		- Assembly failure at soil plot 3
+
+	MOAB:
+		No alerts
+
+	COMO:
+		No alerts
+
+	WLOU:
+	Single aspirated air temperature:
+		- Assembly failure at on-shore met station
+	Precipitation:
+		- Stream failure (secPrecipBucketTips) at on-shore met station
+	Relative humidity:
+		- Assembly failure at on-shore met station
+
+### D14:
+
+	SRER:
+	Precipitation:
+		- Stream failure (inletTemp) at DFIR
+		- Stream failure (internalTemp) at DFIR
+
+	JORN:
+		No alerts
+
+	SYCA:
+	Single aspirated air temperature:
+		- Assembly failure at on-shore met station
+	Relative humidity:
+		- Assembly failure at on-shore met station
+
+### D15:
+
+	ONAQ:
+	Single aspirated air temperature:
+		- Assembly failure at meas. level 2
+
+	REDB:
+	Single aspirated air temperature:
+		- Assembly failure at on-shore met station
+	Precipitation:
+		- Assembly failure at DFIR
+	Relative humidity:
+		- Assembly failure at on-shore met station
+
+### D16:
+
+	WREF:
+	Relative humidity:
+		- Assembly failure at meas. level 8
+
+	ABBY:
+	Single aspirated air temperature:
+		- Turbine broken or assembly inlet blocked at meas. level 1
+
+	MART:
+		No alerts
+
+	MCRA:
+	Single aspirated air temperature:
+		- Assembly failure at on-shore met station
+	Relative humidity:
+		- Assembly failure at on-shore met station
+
+### D17:
+
+	TEAK:
+		No alerts
+
+	SOAP:
+		No alerts
+
+	SJER:
+		No alerts
+
+	BIGC:
+	Single aspirated air temperature:
+		- Assembly failure at on-shore met station
+
+	TECR:
+	Single aspirated air temperature:
+		- Assembly failure at on-shore met station
+	Relative humidity:
+		- Assembly failure at on-shore met station
+
+### D18:
+
+	TOOL:
+	Single aspirated air temperature:
+		- Assembly failure at meas. level 3
+	Relative humidity:
+		- Assembly failure at meas. level 4
+
+	BARR:
+	Single aspirated air temperature:
+		- Assembly failure at meas. level 1
+		- Assembly failure at meas. level 2
+		- Assembly failure at meas. level 3
+	Triple aspirated air temperature:
+		- Assembly failure at meas. level 4
+	Precipitation:
+		- Stream failure (secPrecipBucketTips) at meas. level 4
+	Relative humidity:
+		- Assembly failure at soil plot 3
+		- Assembly failure at meas. level 4
+
+	TOOK:
+		No alerts
+
+### D19:
+
+	HEAL:
+		No alerts
+
+	DEJU:
+		No alerts
+
+	BONA:
+		No alerts
+
+	CARI:
+		No alerts
+
+### D20:
+
+	PUUM:
+		No alerts
