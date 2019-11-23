@@ -68,7 +68,7 @@
 "NEON.D17.TECR.DP0.20016.001.01378.102.100.000",NA,NA,NA,"TECR","Elevation of surface water","surfaceWaterTemperature","Stream sensor location 2"
 "NEON.D17.TECR.DP0.20016.001.01379.101.100.000",NA,NA,NA,"TECR","Elevation of surface water","surfaceWaterPressure","Stream sensor location 1"
 "NEON.D17.TECR.DP0.20016.001.01379.102.100.000",NA,NA,NA,"TECR","Elevation of surface water","surfaceWaterPressure","Stream sensor location 2"
-"NEON.D17.TECR.DP0.20033.001.02242.102.100.000",NA,NA,NA,"TECR","Nitrate in surface water","rawNitrateSingleCompressedStream","Stream sensor location 2"
+"NEON.D17.TECR.DP0.20033.001.02242.102.100.000",Inf,NA,-Inf,"TECR","Nitrate in surface water","rawNitrateSingleCompressedStream","Stream sensor location 2"
 "NEON.D17.TECR.DP0.20042.001.01320.101.100.000",NA,NA,NA,"TECR","Photosynthetically active radiation at water surface","inPAR","Stream sensor location 1"
 "NEON.D17.TECR.DP0.20042.001.01320.102.100.000",NA,NA,NA,"TECR","Photosynthetically active radiation at water surface","inPAR","Stream sensor location 2"
 "NEON.D17.TECR.DP0.20053.001.01325.101.100.000",NA,NA,NA,"TECR","Temperature (PRT) in surface water","PRTResistance","Stream sensor location 1"

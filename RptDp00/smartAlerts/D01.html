@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 
-<title>Domain Report for August 12, 2019</title>
+<title>Domain Report for November 22, 2019</title>
 
 <script type="text/javascript">
 window.onload = function() {
@@ -163,48 +163,64 @@ hr {
 </head>
 
 <body>
-<h2>Domain Report for August 12, 2019</h2>
+<h2>Domain Report for November 22, 2019</h2>
 
 <h3>NOTE: These reports are still being developed!</h3>
 
 <p>There may be errors or inconsistencies in these reports&ndash; verify sensor issues with the SOM or other monitoring tools before putting in a trouble ticket. What are displayed as sensor failures or intermittent failures may instead be transient issues in streaming data.
 Please provide feedback on the reports on the <a href="https://neon.service-now.com/community?id=community_blog&amp;sys_id=9b4fbe8adbed734017ecf9041d9619be">ServiceNow Blog</a>.</p>
 
+<h4>Future Improvements:</h4>
+
+<ul>
+<li>The option to filter reports by system type </li>
+<li>Domain Reports currently have limited logic for uptime. Enhancements to detect issues based on coefficient of variation and range values are planned in the near future.</li>
+<li>Inclusion of graphs to help with diagnosing issues is also planned.</li>
+</ul>
+
+<hr/>
+
+<p><em>* Last date working</em></p>
+
+<hr/>
+
 <h2>D01</h2>
 
-<pre><code>HARV:
- Single aspirated air temperature:
-    - Turbine broken or assembly inlet blocked at meas. level 1
- Soil Heat Flux:
-    - Stream failure (SHFVoltage) at soil plot 1, depth 1
+<h3>HARV:</h3>
 
-BART:
-    No alerts
+<p><em>No alerts</em></p>
 
-HOPB:
- Surface Water Elevation:
-    - Assembly failure at stream sensor location 2
- Nitrate in Surface Water:
-    - Assembly failure at stream sensor location 2
- Water Quality:
-    - Stream failure (specificConductance) at stream sensor location 1
-    - Stream failure (dissolvedOxygen) at stream sensor location 1
-    - Stream failure (dissolvedOxygenSaturation) at stream sensor location 1
-    - Stream failure (turbidityRaw) at stream sensor location 1
-    - Stream failure (wiperPosition) at stream sensor location 1
-    - Stream failure (wiperPosition) at stream sensor location 2
-    - Stream failure (pH) at stream sensor location 1
-    - Stream failure (chlorophyll) at stream sensor location 2
-    - Stream failure (specificConductance) at stream sensor location 2
-    - Stream failure (dissolvedOxygen) at stream sensor location 2
-    - Stream failure (dissolvedOxygenSaturation) at stream sensor location 2
-    - Stream failure (turbidity) at stream sensor location 2
-    - Stream failure (sondeSurfaceWaterPressure) at stream sensor location 2
-    - Stream failure (sensorDepth) at stream sensor location 2
-    - Stream failure (fDOMRaw) at stream sensor location 2
-</code></pre>
+<h3>BART:</h3>
 
-<p><em>To unsubscribe from these reports, please navigate to the Sensor health tab on <a href="http://10.206.27.32:3838/is-som/">Blizzard</a>. Go to the Domain Reports tab, and fill out the fields under &#39;Unsubscribe from domain reports&#39;. This will stop <strong>all</strong> domain reports for the email entered.</em></p>
+<p><strong>Soil CO2 Concentration</strong>:</p>
+
+<ul>
+<li>Assembly failure at soil plot 3, depth 3</li>
+</ul>
+
+<h3>HOPB:</h3>
+
+<p><strong>Photosynthetically Active Radiation at Water Surface</strong>:</p>
+
+<ul>
+<li>Stream failure (<em>inPAR</em>) at stream sensor location 2</li>
+</ul>
+
+<p><strong>Temperature (PRT) in surface water</strong>:</p>
+
+<ul>
+<li>Assembly failure at stream sensor location 2</li>
+</ul>
+
+<p><strong>Specific Conductivity, Temperature, and Elevation of Groundwater</strong>:</p>
+
+<ul>
+<li>Assembly failure at ground water well 4</li>
+</ul>
+
+<hr/>
+
+<p><em>To unsubscribe from these reports, please email Robert Lee at <a href="mailto:rlee@battelleecology.org">rlee@battelleecology.org</a>. Please specify if you&#39;d like to modify your subscription or completely unsubscribe.</em></p>
 
 </body>
 

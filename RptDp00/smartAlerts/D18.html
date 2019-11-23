@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 
-<title>Domain Report for August 12, 2019</title>
+<title>Domain Report for November 22, 2019</title>
 
 <script type="text/javascript">
 window.onload = function() {
@@ -163,62 +163,113 @@ hr {
 </head>
 
 <body>
-<h2>Domain Report for August 12, 2019</h2>
+<h2>Domain Report for November 22, 2019</h2>
 
 <h3>NOTE: These reports are still being developed!</h3>
 
 <p>There may be errors or inconsistencies in these reports&ndash; verify sensor issues with the SOM or other monitoring tools before putting in a trouble ticket. What are displayed as sensor failures or intermittent failures may instead be transient issues in streaming data.
 Please provide feedback on the reports on the <a href="https://neon.service-now.com/community?id=community_blog&amp;sys_id=9b4fbe8adbed734017ecf9041d9619be">ServiceNow Blog</a>.</p>
 
+<h4>Future Improvements:</h4>
+
+<ul>
+<li>The option to filter reports by system type </li>
+<li>Domain Reports currently have limited logic for uptime. Enhancements to detect issues based on coefficient of variation and range values are planned in the near future.</li>
+<li>Inclusion of graphs to help with diagnosing issues is also planned.</li>
+</ul>
+
+<hr/>
+
+<p><em>* Last date working</em></p>
+
+<hr/>
+
 <h2>D18</h2>
 
-<pre><code>TOOL:
- Precipitation:
-    - Assembly failure at DFIR
- Phenocams:
-    - Assembly failure at meas. level 2
-    - Assembly failure at meas. level 4
- ECSE Profile Sampling Pump:
-    - Assembly failure at hut, ml-2
- Soil Temperature:
-    - Assembly failure at soil plot 3, depth 1
+<h3>TOOL:</h3>
 
-BARR:
- Single aspirated air temperature:
-    - Fan broken at meas. level 2
- Triple aspirated air temperature:
-    - Assembly failure at meas. level 4
- Phenocams:
-    - Assembly failure at meas. level 2
-    - Assembly failure at meas. level 4
- Photosynthetically Active Radiation:
-    - Assembly failure at meas. level 4
- Atmospheric CO2 Isotope Concentration:
-    - Stream failure (fwMoleCO2) at hut
-    - Stream failure (d13CO2) at hut
- ECSE Profile Sampling Pump:
-    - Assembly failure at hut, ml-1
- Soil Heat Flux:
-    - Stream failure (SHFVoltage) at soil plot 1, depth 1
- Soil Temperature:
-    - Assembly failure at soil plot 5, depth 1
+<p><strong>Site outage or communications error</strong>:</p>
 
-TOOK:
- Atmospheric Pressure on Buoy:
-    - Stream failure (sensorTemp) at buoy
-    - Stream failure (rawBarometricPressure) at buoy
- Surface Water Elevation:
-    - Assembly failure at lake inlet
-    - Assembly failure at lake outlet
- Photosynthetically Active Radiation at Water Surface:
-    - Stream failure (inPAR) at buoy
- Wind Speed and Direction on Lakes On-Buoy:
-    - Assembly failure at buoy
- Temperature at Specific Depth in Lakes:
-    - Assembly failure at buoy
-</code></pre>
+<ul>
+<li>Check site status with the LC SoH tool: <a href="http://10.123.20.2/">http://10.123.20.2/</a></li>
+</ul>
 
-<p><em>To unsubscribe from these reports, please navigate to the Sensor health tab on <a href="http://10.206.27.32:3838/is-som/">Blizzard</a>. Go to the Domain Reports tab, and fill out the fields under &#39;Unsubscribe from domain reports&#39;. This will stop <strong>all</strong> domain reports for the email entered.</em></p>
+<h3>BARR:</h3>
+
+<p><strong>Single Aspirated Air Temperature</strong>:</p>
+
+<ul>
+<li>Assembly failure at meas. level 2</li>
+</ul>
+
+<p><strong>Photosynthetically Active Radiation</strong>:</p>
+
+<ul>
+<li>Assembly failure at meas. level 2</li>
+</ul>
+
+<p><strong>2D Wind Speed and Direction</strong>:</p>
+
+<ul>
+<li>Assembly failure at meas. level 2</li>
+</ul>
+
+<p><strong>ECSE profile CO2 &amp; H2O concentration (storage)</strong>:</p>
+
+<ul>
+<li>Assembly failure at hut</li>
+</ul>
+
+<p><strong>IR Biological Temperature</strong>:</p>
+
+<ul>
+<li>Assembly failure at meas. level 2</li>
+</ul>
+
+<p><strong>ECSE profile inlet pressure</strong>:</p>
+
+<ul>
+<li>Assembly failure at meas. level 2</li>
+</ul>
+
+<p><strong>ECSE profile sampling pump</strong>:</p>
+
+<ul>
+<li>Assembly failure at hut</li>
+<li>Assembly failure at hut, ml-1</li>
+<li>Assembly failure at hut, ml-2</li>
+</ul>
+
+<p><strong>Soil Heat Flux</strong>:</p>
+
+<ul>
+<li>Assembly failure at soil plot 1, depth 1</li>
+</ul>
+
+<p><strong>Soil CO2 Concentration</strong>:</p>
+
+<ul>
+<li>Assembly failure at soil plot 3, depth 3</li>
+</ul>
+
+<h3>TOOK:</h3>
+
+<p><strong>2D Wind Speed and Direction</strong>:</p>
+
+<ul>
+<li>Assembly failure at on-shore met station</li>
+</ul>
+
+<p><strong>Specific Conductivity, Temperature, and Elevation of Groundwater</strong>:</p>
+
+<ul>
+<li>Assembly failure at lake inlet</li>
+<li>Assembly failure at lake outlet</li>
+</ul>
+
+<hr/>
+
+<p><em>To unsubscribe from these reports, please email Robert Lee at <a href="mailto:rlee@battelleecology.org">rlee@battelleecology.org</a>. Please specify if you&#39;d like to modify your subscription or completely unsubscribe.</em></p>
 
 </body>
 
