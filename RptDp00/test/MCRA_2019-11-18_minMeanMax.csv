@@ -5,7 +5,7 @@
 "NEON.D16.MCRA.DP0.00001.001.01309.200.000.000",6.23000002,8.94357020591881,12.2299995,"MCRA","2D Wind Speed and Direction","sensorTemp","On-shore MET station"
 "NEON.D16.MCRA.DP0.00001.001.01310.200.000.000",65,65,65,"MCRA","2D Wind Speed and Direction","2dWindSensorStatus","On-shore MET station"
 "NEON.D16.MCRA.DP0.00002.001.01325.200.000.000",101.337807,102.640535099357,103.769936,"MCRA","Single Aspirated Air Temperature","PRTResistance","On-shore MET station"
-"NEON.D16.MCRA.DP0.00002.001.01326.200.000.000",0,4185.55862772001,4230.01953,"MCRA","Single Aspirated Air Temperature","fanSpeed","On-shore MET station"
+"NEON.D16.MCRA.DP0.00002.001.01326.200.000.000",0,4185.55862772,4230.01953,"MCRA","Single Aspirated Air Temperature","fanSpeed","On-shore MET station"
 "NEON.D16.MCRA.DP0.00002.001.01330.200.000.000",4.52099407e-08,617.761612955919,660.021423,"MCRA","Single Aspirated Air Temperature","turbineSpeed","On-shore MET station"
 "NEON.D16.MCRA.DP0.00004.001.01309.200.000.000",5.36000013,8.40471007011644,10.79,"MCRA","Barometric Pressure","sensorTemp","On-shore MET station"
 "NEON.D16.MCRA.DP0.00004.001.01311.200.000.000",91.1100006,91.8876231004308,92.3700027,"MCRA","Barometric Pressure","rawBarometricPressure","On-shore MET station"

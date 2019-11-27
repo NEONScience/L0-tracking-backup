@@ -17,7 +17,7 @@
 "NEON.D05.CRAM.DP0.00023.001.01318.200.000.000",-1.1563131e-05,3.04063329275439e-06,1.5701944e-05,"CRAM","Shortwave/Longwave Net Radiation","outNetRadPyrgeometer","On-shore MET station"
 "NEON.D05.CRAM.DP0.00024.001.01320.200.000.000",-3.0234296e-06,0.000157421098771154,0.000958555436,"CRAM","Photosynthetically Active Radiation","inPAR","On-shore MET station"
 "NEON.D05.CRAM.DP0.00098.001.01309.200.000.000",-1.78999996,-0.89891058597822,0.319999993,"CRAM","Relative Humidity","sensorTemp","On-shore MET station"
-"NEON.D05.CRAM.DP0.00098.001.01357.200.000.000",85.5100021,94.0604143313898,97.3600006,"CRAM","Relative Humidity","RH","On-shore MET station"
+"NEON.D05.CRAM.DP0.00098.001.01357.200.000.000",85.5100021,94.0604143313897,97.3600006,"CRAM","Relative Humidity","RH","On-shore MET station"
 "NEON.D05.CRAM.DP0.00098.001.01358.200.000.000",-2.70000005,-1.57933325064725,-0.100000001,"CRAM","Relative Humidity","dewPoint","On-shore MET station"
 "NEON.D05.CRAM.DP0.00098.001.01359.200.000.000",0,0,0,"CRAM","Relative Humidity","RHStatus","On-shore MET station"
 "NEON.D05.CRAM.DP0.20015.001.01371.301.000.000",49.4360123,49.7893350385417,50.2742844,"CRAM","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Ground water well 1"

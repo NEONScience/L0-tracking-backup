@@ -120,7 +120,7 @@
 "NEON.D13.WLOU.DP0.20016.001.01375.102.100.000",0,0,0,"WLOU","Elevation of surface water","tempDataQualityID","Stream sensor location 2"
 "NEON.D13.WLOU.DP0.20016.001.01377.101.100.000",0,0,0,"WLOU","Elevation of surface water","pressureDataQualityID","Stream sensor location 1"
 "NEON.D13.WLOU.DP0.20016.001.01377.102.100.000",0,0,0,"WLOU","Elevation of surface water","pressureDataQualityID","Stream sensor location 2"
-"NEON.D13.WLOU.DP0.20016.001.01378.101.100.000",0.209289551,0.466757633075231,0.612197876,"WLOU","Elevation of surface water","surfaceWaterTemperature","Stream sensor location 1"
+"NEON.D13.WLOU.DP0.20016.001.01378.101.100.000",0.209289551,0.466757633075232,0.612197876,"WLOU","Elevation of surface water","surfaceWaterTemperature","Stream sensor location 1"
 "NEON.D13.WLOU.DP0.20016.001.01378.102.100.000",0.55128479,0.753770701118056,0.873703003,"WLOU","Elevation of surface water","surfaceWaterTemperature","Stream sensor location 2"
 "NEON.D13.WLOU.DP0.20016.001.01379.101.100.000",2.246696,2.26025771979398,2.27264571,"WLOU","Elevation of surface water","surfaceWaterPressure","Stream sensor location 1"
 "NEON.D13.WLOU.DP0.20016.001.01379.102.100.000",3.2304616,3.25250731597222,3.26410699,"WLOU","Elevation of surface water","surfaceWaterPressure","Stream sensor location 2"

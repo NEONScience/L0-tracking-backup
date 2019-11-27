@@ -12,7 +12,7 @@
 "NEON.D14.SYCA.DP0.00004.001.01312.200.000.000",0,0,0,"SYCA","Barometric Pressure","sensorStatus","On-shore MET station"
 "NEON.D14.SYCA.DP0.00013.001.01818.210.000.000",6.33653259,14.583364207375,27.0148621,"SYCA","Wet deposition","chamberTemperature","On-shore MET station"
 "NEON.D14.SYCA.DP0.00023.001.01314.200.000.000",101.912453,105.264550648198,111.11248,"SYCA","Shortwave/Longwave Net Radiation","sensorResistance","On-shore MET station"
-"NEON.D14.SYCA.DP0.00023.001.01315.200.000.000",-0.000261283974,0.000878382369950792,0.0151846213,"SYCA","Shortwave/Longwave Net Radiation","inNetRadPyranometer","On-shore MET station"
+"NEON.D14.SYCA.DP0.00023.001.01315.200.000.000",-0.000261283974,0.000878382369950793,0.0151846213,"SYCA","Shortwave/Longwave Net Radiation","inNetRadPyranometer","On-shore MET station"
 "NEON.D14.SYCA.DP0.00023.001.01316.200.000.000",-1.37268216e-05,0.000138478480904059,0.00199393509,"SYCA","Shortwave/Longwave Net Radiation","outNetRadPyranometer","On-shore MET station"
 "NEON.D14.SYCA.DP0.00023.001.01317.200.000.000",-0.0013360153,-0.000392681757921326,8.81575033e-05,"SYCA","Shortwave/Longwave Net Radiation","inNetRadPyrgeometer","On-shore MET station"
 "NEON.D14.SYCA.DP0.00023.001.01318.200.000.000",-4.72216307e-05,7.79519474334452e-05,0.000367453991,"SYCA","Shortwave/Longwave Net Radiation","outNetRadPyrgeometer","On-shore MET station"

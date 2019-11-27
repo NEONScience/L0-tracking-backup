@@ -69,7 +69,7 @@
 "NEON.D04.CUPE.DP0.20016.001.01378.132.100.000",22.2599945,22.8983893201394,23.7166443,"CUPE","Elevation of surface water","surfaceWaterTemperature","Stream sensor location 2"
 "NEON.D04.CUPE.DP0.20016.001.01379.131.100.000",1.18572676,1.27281811667596,1.36077416,"CUPE","Elevation of surface water","surfaceWaterPressure","Stream sensor location 1"
 "NEON.D04.CUPE.DP0.20016.001.01379.132.100.000",2.47390866,2.53085363981185,2.57549787,"CUPE","Elevation of surface water","surfaceWaterPressure","Stream sensor location 2"
-"NEON.D04.CUPE.DP0.20033.001.02242.102.100.000",NA,NA,NA,"CUPE","Nitrate in surface water","rawNitrateSingleCompressedStream","Stream sensor location 2"
+"NEON.D04.CUPE.DP0.20033.001.02242.102.100.000",Inf,NA,-Inf,"CUPE","Nitrate in surface water","rawNitrateSingleCompressedStream","Stream sensor location 2"
 "NEON.D04.CUPE.DP0.20042.001.01320.111.100.000",-2.49229174e-06,1.85394012583658e-05,0.000503315998,"CUPE","Photosynthetically active radiation at water surface","inPAR","Stream sensor location 1"
 "NEON.D04.CUPE.DP0.20042.001.01320.112.100.000",-1.74783531e-06,5.55939741196391e-05,0.0063313162,"CUPE","Photosynthetically active radiation at water surface","inPAR","Stream sensor location 2"
 "NEON.D04.CUPE.DP0.20053.001.01325.101.100.000",108.644974,108.885174005797,109.20726,"CUPE","Temperature (PRT) in surface water","PRTResistance","Stream sensor location 1"
