@@ -31,7 +31,7 @@
 "NEON.D01.HOPB.DP0.20005.001.01372.111.100.000",5.96000004,5.96504508412787,5.96999979,"HOPB","Water Quality","batteryVoltage","Stream sensor location 1"
 "NEON.D01.HOPB.DP0.20005.001.01372.112.100.000",0.00999999978,5.8757053680539,5.88999987,"HOPB","Water Quality","batteryVoltage","Stream sensor location 2"
 "NEON.D01.HOPB.DP0.20005.001.01378.111.100.000",2.96000004,4.89200835101459,5.28999996,"HOPB","Water Quality","surfaceWaterTemperature","Stream sensor location 1"
-"NEON.D01.HOPB.DP0.20005.001.01378.112.100.000",2.8900001,4.89168643668989,5.32000017,"HOPB","Water Quality","surfaceWaterTemperature","Stream sensor location 2"
+"NEON.D01.HOPB.DP0.20005.001.01378.112.100.000",2.8900001,4.8916864366899,5.32000017,"HOPB","Water Quality","surfaceWaterTemperature","Stream sensor location 2"
 "NEON.D01.HOPB.DP0.20005.001.01647.111.100.000",11.8999996,11.9087350081306,11.9200001,"HOPB","Water Quality","sensorVoltage","Stream sensor location 1"
 "NEON.D01.HOPB.DP0.20005.001.01647.112.100.000",0.850000024,11.8243643147672,11.8500004,"HOPB","Water Quality","sensorVoltage","Stream sensor location 2"
 "NEON.D01.HOPB.DP0.20005.001.01657.111.100.000",6.92999983,6.96190400707436,7.01000023,"HOPB","Water Quality","pH","Stream sensor location 1"

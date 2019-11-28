@@ -100,4 +100,4 @@
 "NEON.D13.COMO.DP0.20042.001.01320.101.100.000",1.0722944e-07,3.33960105638966e-05,0.000994718168,"COMO","Photosynthetically active radiation at water surface","inPAR","Stream sensor location 1"
 "NEON.D13.COMO.DP0.20042.001.01320.102.100.000",-9.7296936e-07,7.61332008810201e-05,0.00249551795,"COMO","Photosynthetically active radiation at water surface","inPAR","Stream sensor location 2"
 "NEON.D13.COMO.DP0.20053.001.01325.101.100.000",99.1392136,99.178215351742,99.2005997,"COMO","Temperature (PRT) in surface water","PRTResistance","Stream sensor location 1"
-"NEON.D13.COMO.DP0.20053.001.01325.102.100.000",100.175209,100.186418948715,100.192039,"COMO","Temperature (PRT) in surface water","PRTResistance","Stream sensor location 2"
+"NEON.D13.COMO.DP0.20053.001.01325.102.100.000",100.175209,100.186418948716,100.192039,"COMO","Temperature (PRT) in surface water","PRTResistance","Stream sensor location 2"

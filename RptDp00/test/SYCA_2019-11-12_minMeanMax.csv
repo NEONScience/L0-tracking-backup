@@ -59,7 +59,7 @@
 "NEON.D14.SYCA.DP0.20005.001.01669.102.100.000",0,0.15291666565907,16.4200001,"SYCA","Water Quality","turbidityRaw","Stream sensor location 2"
 "NEON.D14.SYCA.DP0.20005.001.01670.101.100.000",-2.51999998,1.21349794522949,1.23000002,"SYCA","Water Quality","wiperPosition","Stream sensor location 1"
 "NEON.D14.SYCA.DP0.20005.001.01670.102.100.000",NA,NA,NA,"SYCA","Water Quality","wiperPosition","Stream sensor location 2"
-"NEON.D14.SYCA.DP0.20015.001.01371.301.000.000",522.331482,523.763366256944,525.094238,"SYCA","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Ground water well 1"
+"NEON.D14.SYCA.DP0.20015.001.01371.301.000.000",522.331482,523.763366256945,525.094238,"SYCA","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Ground water well 1"
 "NEON.D14.SYCA.DP0.20015.001.01371.302.000.000",507.38797,508.876876850694,511.766876,"SYCA","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Ground water well 2"
 "NEON.D14.SYCA.DP0.20015.001.01371.303.000.000",505.417389,506.021930291667,506.505219,"SYCA","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Ground water well 3"
 "NEON.D14.SYCA.DP0.20015.001.01371.304.000.000",535.196289,536.159499038195,537.628296,"SYCA","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Ground water well 4"

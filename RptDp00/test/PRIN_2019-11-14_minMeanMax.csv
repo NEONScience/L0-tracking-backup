@@ -41,7 +41,7 @@
 "NEON.D11.PRIN.DP0.00098.001.01357.200.000.000",32.6819992,61.1840248097793,96.3150024,"PRIN","Relative Humidity","RH","On-shore MET station"
 "NEON.D11.PRIN.DP0.00098.001.01358.200.000.000",-5.82499981,-2.13475814201225,0.823000014,"PRIN","Relative Humidity","dewPoint","On-shore MET station"
 "NEON.D11.PRIN.DP0.00098.001.01359.200.000.000",0,0,0,"PRIN","Relative Humidity","RHStatus","On-shore MET station"
-"NEON.D11.PRIN.DP0.20005.001.01093.101.100.000",731.059998,750.902608334996,763.070007,"PRIN","Water Quality","specificConductance","Stream sensor location 1"
+"NEON.D11.PRIN.DP0.20005.001.01093.101.100.000",731.059998,750.902608334997,763.070007,"PRIN","Water Quality","specificConductance","Stream sensor location 1"
 "NEON.D11.PRIN.DP0.20005.001.01093.102.100.000",866.48999,875.941229117143,901.51001,"PRIN","Water Quality","specificConductance","Stream sensor location 2"
 "NEON.D11.PRIN.DP0.20005.001.01151.101.100.000",10.4700003,11.0688025676408,11.9700003,"PRIN","Water Quality","dissolvedOxygen","Stream sensor location 1"
 "NEON.D11.PRIN.DP0.20005.001.01151.102.100.000",10.8900003,11.1091714210714,11.5699997,"PRIN","Water Quality","dissolvedOxygen","Stream sensor location 2"

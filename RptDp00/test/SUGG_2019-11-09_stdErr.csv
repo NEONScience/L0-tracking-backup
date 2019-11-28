@@ -4,7 +4,7 @@
 "NEON.D03.SUGG.DP0.00001.001.01308.200.000.000",0.00485297193363349,"SUGG","2D Wind Speed and Direction","soundSpeed","On-shore MET station"
 "NEON.D03.SUGG.DP0.00001.001.01309.200.000.000",0.192761832439792,"SUGG","2D Wind Speed and Direction","sensorTemp","On-shore MET station"
 "NEON.D03.SUGG.DP0.00001.001.01310.200.000.000",NA,"SUGG","2D Wind Speed and Direction","2dWindSensorStatus","On-shore MET station"
-"NEON.D03.SUGG.DP0.00002.001.01325.200.000.000",0.00981912089582152,"SUGG","Single Aspirated Air Temperature","PRTResistance","On-shore MET station"
+"NEON.D03.SUGG.DP0.00002.001.01325.200.000.000",0.00981912089582157,"SUGG","Single Aspirated Air Temperature","PRTResistance","On-shore MET station"
 "NEON.D03.SUGG.DP0.00002.001.01326.200.000.000",0.00695795754885125,"SUGG","Single Aspirated Air Temperature","fanSpeed","On-shore MET station"
 "NEON.D03.SUGG.DP0.00002.001.01330.200.000.000",1.58205009618823,"SUGG","Single Aspirated Air Temperature","turbineSpeed","On-shore MET station"
 "NEON.D03.SUGG.DP0.00004.001.01309.200.000.000",0.182265750375618,"SUGG","Barometric Pressure","sensorTemp","On-shore MET station"

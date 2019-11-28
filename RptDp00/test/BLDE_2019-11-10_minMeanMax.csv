@@ -25,7 +25,7 @@
 "NEON.D12.BLDE.DP0.20005.001.01151.101.100.000",11.6700001,11.7177654560028,11.8000002,"BLDE","Water Quality","dissolvedOxygen","Stream sensor location 1"
 "NEON.D12.BLDE.DP0.20005.001.01151.102.100.000",11.5100002,11.5851597398611,11.7399998,"BLDE","Water Quality","dissolvedOxygen","Stream sensor location 2"
 "NEON.D12.BLDE.DP0.20005.001.01360.101.100.000",79.9700012,80.3314503733518,81.2200012,"BLDE","Water Quality","dissolvedOxygenSaturation","Stream sensor location 1"
-"NEON.D12.BLDE.DP0.20005.001.01360.102.100.000",78.8199997,79.3507848949305,80.5699997,"BLDE","Water Quality","dissolvedOxygenSaturation","Stream sensor location 2"
+"NEON.D12.BLDE.DP0.20005.001.01360.102.100.000",78.8199997,79.3507848949306,80.5699997,"BLDE","Water Quality","dissolvedOxygenSaturation","Stream sensor location 2"
 "NEON.D12.BLDE.DP0.20005.001.01371.101.100.000",55.7700005,56.8630972215278,57.2400017,"BLDE","Water Quality","conductance","Stream sensor location 1"
 "NEON.D12.BLDE.DP0.20005.001.01371.102.100.000",55.7999992,56.9565833940972,57.4700012,"BLDE","Water Quality","conductance","Stream sensor location 2"
 "NEON.D12.BLDE.DP0.20005.001.01372.101.100.000",6.44000006,6.449909597127,6.44999981,"BLDE","Water Quality","batteryVoltage","Stream sensor location 1"

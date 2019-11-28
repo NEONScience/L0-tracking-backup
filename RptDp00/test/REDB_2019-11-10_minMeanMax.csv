@@ -2,7 +2,7 @@
 "NEON.D15.REDB.DP0.00001.001.01306.200.000.000",-3.63000011,0.189243929593557,5.84000015,"REDB","2D Wind Speed and Direction","uVectorComponent","On-shore MET station"
 "NEON.D15.REDB.DP0.00001.001.01307.200.000.000",-6.21000004,0.544135239751931,5.25,"REDB","2D Wind Speed and Direction","vVectorComponent","On-shore MET station"
 "NEON.D15.REDB.DP0.00001.001.01308.200.000.000",330.899994,334.858120448781,338.769989,"REDB","2D Wind Speed and Direction","soundSpeed","On-shore MET station"
-"NEON.D15.REDB.DP0.00001.001.01309.200.000.000",-1.30999994,5.23878221716147,11.7700005,"REDB","2D Wind Speed and Direction","sensorTemp","On-shore MET station"
+"NEON.D15.REDB.DP0.00001.001.01309.200.000.000",-1.30999994,5.23878221716148,11.7700005,"REDB","2D Wind Speed and Direction","sensorTemp","On-shore MET station"
 "NEON.D15.REDB.DP0.00001.001.01310.200.000.000",60,60,60,"REDB","2D Wind Speed and Direction","2dWindSensorStatus","On-shore MET station"
 "NEON.D15.REDB.DP0.00002.001.01325.200.000.000",101.492981,103.311718888137,105.314697,"REDB","Single Aspirated Air Temperature","PRTResistance","On-shore MET station"
 "NEON.D15.REDB.DP0.00002.001.01326.200.000.000",0,4191.92676508414,4215.02539,"REDB","Single Aspirated Air Temperature","fanSpeed","On-shore MET station"

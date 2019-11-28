@@ -12,7 +12,7 @@
 "NEON.D16.MART.DP0.00004.001.01312.200.000.000",0,0,0,"MART","Barometric Pressure","sensorStatus","On-shore MET station"
 "NEON.D16.MART.DP0.00023.001.01314.200.000.000",101.063164,102.735685832535,104.664886,"MART","Shortwave/Longwave Net Radiation","sensorResistance","On-shore MET station"
 "NEON.D16.MART.DP0.00023.001.01315.200.000.000",-6.02092477e-05,0.000624844308004585,0.00851339288,"MART","Shortwave/Longwave Net Radiation","inNetRadPyranometer","On-shore MET station"
-"NEON.D16.MART.DP0.00023.001.01316.200.000.000",-2.48169581e-05,8.36240798629835e-05,0.000875213183,"MART","Shortwave/Longwave Net Radiation","outNetRadPyranometer","On-shore MET station"
+"NEON.D16.MART.DP0.00023.001.01316.200.000.000",-2.48169581e-05,8.36240798629836e-05,0.000875213183,"MART","Shortwave/Longwave Net Radiation","outNetRadPyranometer","On-shore MET station"
 "NEON.D16.MART.DP0.00023.001.01317.200.000.000",-0.000275966799,-3.94090317093516e-05,1.41111004e-05,"MART","Shortwave/Longwave Net Radiation","inNetRadPyrgeometer","On-shore MET station"
 "NEON.D16.MART.DP0.00023.001.01318.200.000.000",-0.000134464368,-2.79186304868159e-05,4.14893111e-05,"MART","Shortwave/Longwave Net Radiation","outNetRadPyrgeometer","On-shore MET station"
 "NEON.D16.MART.DP0.00024.001.01320.200.000.000",-1.0046474e-05,0.000333068141960916,0.00450484222,"MART","Photosynthetically Active Radiation","inPAR","On-shore MET station"

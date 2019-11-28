@@ -7,7 +7,7 @@
 "NEON.D12.BLDE.DP0.00002.001.01325.200.000.000",96.8088531,99.6929365312882,101.04007,"BLDE","Single Aspirated Air Temperature","PRTResistance","On-shore MET station"
 "NEON.D12.BLDE.DP0.00002.001.01326.200.000.000",4229.98291,4261.35714453635,4290.02539,"BLDE","Single Aspirated Air Temperature","fanSpeed","On-shore MET station"
 "NEON.D12.BLDE.DP0.00002.001.01330.200.000.000",0,907.399997592711,960.041199,"BLDE","Single Aspirated Air Temperature","turbineSpeed","On-shore MET station"
-"NEON.D12.BLDE.DP0.00004.001.01309.200.000.000",-6.73000002,-0.0449363613361027,3.98000002,"BLDE","Barometric Pressure","sensorTemp","On-shore MET station"
+"NEON.D12.BLDE.DP0.00004.001.01309.200.000.000",-6.73000002,-0.0449363613361028,3.98000002,"BLDE","Barometric Pressure","sensorTemp","On-shore MET station"
 "NEON.D12.BLDE.DP0.00004.001.01311.200.000.000",79.8399963,80.0709474209674,80.1699982,"BLDE","Barometric Pressure","rawBarometricPressure","On-shore MET station"
 "NEON.D12.BLDE.DP0.00004.001.01312.200.000.000",0,0,0,"BLDE","Barometric Pressure","sensorStatus","On-shore MET station"
 "NEON.D12.BLDE.DP0.00023.001.01314.200.000.000",96.8133316,99.4323104858576,100.961853,"BLDE","Shortwave/Longwave Net Radiation","sensorResistance","On-shore MET station"

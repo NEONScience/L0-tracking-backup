@@ -15,7 +15,7 @@
 "NEON.D18.TOOK.DP0.00023.001.01318.200.000.000",-0.218589106071438,"TOOK","Shortwave/Longwave Net Radiation","outNetRadPyrgeometer","On-shore MET station"
 "NEON.D18.TOOK.DP0.00024.001.01320.200.000.000",2.17609513644154,"TOOK","Photosynthetically Active Radiation","inPAR","On-shore MET station"
 "NEON.D18.TOOK.DP0.00098.001.01309.200.000.000",-0.105292001855895,"TOOK","Relative Humidity","sensorTemp","On-shore MET station"
-"NEON.D18.TOOK.DP0.00098.001.01357.200.000.000",0.0278575669463234,"TOOK","Relative Humidity","RH","On-shore MET station"
+"NEON.D18.TOOK.DP0.00098.001.01357.200.000.000",0.0278575669463235,"TOOK","Relative Humidity","RH","On-shore MET station"
 "NEON.D18.TOOK.DP0.00098.001.01358.200.000.000",-0.104728434329113,"TOOK","Relative Humidity","dewPoint","On-shore MET station"
 "NEON.D18.TOOK.DP0.00098.001.01359.200.000.000",NA,"TOOK","Relative Humidity","RHStatus","On-shore MET station"
 "NEON.D18.TOOK.DP0.20015.001.01371.130.100.000",NA,"TOOK","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Lake inlet"

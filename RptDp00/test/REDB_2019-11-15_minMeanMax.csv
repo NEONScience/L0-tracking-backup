@@ -47,7 +47,7 @@
 "NEON.D15.REDB.DP0.20005.001.01151.102.100.000",10.2299995,10.6318529010409,10.9099998,"REDB","Water Quality","dissolvedOxygen","Stream sensor location 2"
 "NEON.D15.REDB.DP0.20005.001.01360.101.100.000",81.1500015,81.8788263545833,82.8700027,"REDB","Water Quality","dissolvedOxygenSaturation","Stream sensor location 1"
 "NEON.D15.REDB.DP0.20005.001.01360.102.100.000",81.8799973,82.1760860561415,82.7799988,"REDB","Water Quality","dissolvedOxygenSaturation","Stream sensor location 2"
-"NEON.D15.REDB.DP0.20005.001.01371.101.100.000",391.809998,401.102617988194,416.220001,"REDB","Water Quality","conductance","Stream sensor location 1"
+"NEON.D15.REDB.DP0.20005.001.01371.101.100.000",391.809998,401.102617988195,416.220001,"REDB","Water Quality","conductance","Stream sensor location 1"
 "NEON.D15.REDB.DP0.20005.001.01371.102.100.000",393.029999,403.000236215278,418.160004,"REDB","Water Quality","conductance","Stream sensor location 2"
 "NEON.D15.REDB.DP0.20005.001.01372.101.100.000",6.05999994,6.079513886375,6.09000015,"REDB","Water Quality","batteryVoltage","Stream sensor location 1"
 "NEON.D15.REDB.DP0.20005.001.01372.102.100.000",5.65999985,5.69934763777238,5.71999979,"REDB","Water Quality","batteryVoltage","Stream sensor location 2"

@@ -18,7 +18,7 @@
 "NEON.D19.CARI.DP0.00098.001.01357.200.000.000",0.143077725982632,"CARI","Relative Humidity","RH","On-shore MET station"
 "NEON.D19.CARI.DP0.00098.001.01358.200.000.000",-0.0817948296162643,"CARI","Relative Humidity","dewPoint","On-shore MET station"
 "NEON.D19.CARI.DP0.00098.001.01359.200.000.000",NA,"CARI","Relative Humidity","RHStatus","On-shore MET station"
-"NEON.D19.CARI.DP0.20016.001.01372.101.100.000",0.000634097542370597,"CARI","Elevation of surface water","batteryVoltage","Stream sensor location 1"
+"NEON.D19.CARI.DP0.20016.001.01372.101.100.000",0.00063409754237059,"CARI","Elevation of surface water","batteryVoltage","Stream sensor location 1"
 "NEON.D19.CARI.DP0.20016.001.01372.102.100.000",0.000856480938433963,"CARI","Elevation of surface water","batteryVoltage","Stream sensor location 2"
 "NEON.D19.CARI.DP0.20016.001.01375.101.100.000",NA,"CARI","Elevation of surface water","tempDataQualityID","Stream sensor location 1"
 "NEON.D19.CARI.DP0.20016.001.01375.102.100.000",NA,"CARI","Elevation of surface water","tempDataQualityID","Stream sensor location 2"

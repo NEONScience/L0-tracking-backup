@@ -2,7 +2,7 @@
 "NEON.D14.SYCA.DP0.00001.001.01306.200.000.000",-2.02999997,0.175739402973307,3.30999994,"SYCA","2D Wind Speed and Direction","uVectorComponent","On-shore MET station"
 "NEON.D14.SYCA.DP0.00001.001.01307.200.000.000",-2.31999993,0.269684005585062,5.51999998,"SYCA","2D Wind Speed and Direction","vVectorComponent","On-shore MET station"
 "NEON.D14.SYCA.DP0.00001.001.01308.200.000.000",337.01001,341.774132413039,347.75,"SYCA","2D Wind Speed and Direction","soundSpeed","On-shore MET station"
-"NEON.D14.SYCA.DP0.00001.001.01309.200.000.000",8.81999969,16.8644376249219,27.0699997,"SYCA","2D Wind Speed and Direction","sensorTemp","On-shore MET station"
+"NEON.D14.SYCA.DP0.00001.001.01309.200.000.000",8.81999969,16.8644376249218,27.0699997,"SYCA","2D Wind Speed and Direction","sensorTemp","On-shore MET station"
 "NEON.D14.SYCA.DP0.00001.001.01310.200.000.000",0,0,0,"SYCA","2D Wind Speed and Direction","2dWindSensorStatus","On-shore MET station"
 "NEON.D14.SYCA.DP0.00002.001.01325.200.000.000",104.084877,107.467630858993,111.024017,"SYCA","Single Aspirated Air Temperature","PRTResistance","On-shore MET station"
 "NEON.D14.SYCA.DP0.00002.001.01326.200.000.000",0,4085.16736231204,4110.04248,"SYCA","Single Aspirated Air Temperature","fanSpeed","On-shore MET station"

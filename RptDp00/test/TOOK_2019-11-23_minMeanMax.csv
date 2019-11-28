@@ -10,7 +10,7 @@
 "NEON.D18.TOOK.DP0.00004.001.01312.200.000.000",0,0,0,"TOOK","Barometric Pressure","sensorStatus","On-shore MET station"
 "NEON.D18.TOOK.DP0.00023.001.01314.200.000.000",92.9148331,93.9281133753808,95.2826996,"TOOK","Shortwave/Longwave Net Radiation","sensorResistance","On-shore MET station"
 "NEON.D18.TOOK.DP0.00023.001.01315.200.000.000",-4.16120383e-05,-4.42239050514475e-06,0.00010767686,"TOOK","Shortwave/Longwave Net Radiation","inNetRadPyranometer","On-shore MET station"
-"NEON.D18.TOOK.DP0.00023.001.01316.200.000.000",-5.82125249e-05,-2.94151281682964e-06,0.000156483453,"TOOK","Shortwave/Longwave Net Radiation","outNetRadPyranometer","On-shore MET station"
+"NEON.D18.TOOK.DP0.00023.001.01316.200.000.000",-5.82125249e-05,-2.94151281682965e-06,0.000156483453,"TOOK","Shortwave/Longwave Net Radiation","outNetRadPyranometer","On-shore MET station"
 "NEON.D18.TOOK.DP0.00023.001.01317.200.000.000",-3.68026085e-05,-8.23274907823445e-06,4.43973731e-05,"TOOK","Shortwave/Longwave Net Radiation","inNetRadPyrgeometer","On-shore MET station"
 "NEON.D18.TOOK.DP0.00023.001.01318.200.000.000",-0.000208098965,-6.13562869239585e-05,4.19076896e-05,"TOOK","Shortwave/Longwave Net Radiation","outNetRadPyrgeometer","On-shore MET station"
 "NEON.D18.TOOK.DP0.00024.001.01320.200.000.000",-6.37515768e-06,6.04062225429054e-06,5.38171553e-05,"TOOK","Photosynthetically Active Radiation","inPAR","On-shore MET station"

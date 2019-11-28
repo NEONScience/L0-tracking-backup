@@ -55,7 +55,7 @@
 "NEON.D02.LEWI.DP0.20005.001.01667.102.100.000",0.0399999991,0.398960756872674,14.6400003,"LEWI","Water Quality","blueGreenAlgaeRaw","Stream sensor location 2"
 "NEON.D02.LEWI.DP0.20005.001.01668.102.100.000",0.0799999982,8.49485466511395,9.90999985,"LEWI","Water Quality","fDOMRaw","Stream sensor location 2"
 "NEON.D02.LEWI.DP0.20005.001.01669.101.100.000",0.0399999991,0.0600138794266482,0.479999989,"LEWI","Water Quality","turbidityRaw","Stream sensor location 1"
-"NEON.D02.LEWI.DP0.20005.001.01669.102.100.000",-67.9400024,-1.12984011405909,0.0900000036,"LEWI","Water Quality","turbidityRaw","Stream sensor location 2"
+"NEON.D02.LEWI.DP0.20005.001.01669.102.100.000",-67.9400024,-1.12984011405908,0.0900000036,"LEWI","Water Quality","turbidityRaw","Stream sensor location 2"
 "NEON.D02.LEWI.DP0.20005.001.01670.101.100.000",1.16999996,1.20090913875087,1.22000003,"LEWI","Water Quality","wiperPosition","Stream sensor location 1"
 "NEON.D02.LEWI.DP0.20005.001.01670.102.100.000",0.649999976,1.19640266172384,1.22000003,"LEWI","Water Quality","wiperPosition","Stream sensor location 2"
 "NEON.D02.LEWI.DP0.20015.001.01371.301.000.000",490.302917,490.482871361111,490.668243,"LEWI","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Ground water well 1"

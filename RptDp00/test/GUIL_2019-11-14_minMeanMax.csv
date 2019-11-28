@@ -24,7 +24,7 @@
 "NEON.D04.GUIL.DP0.20005.001.01093.101.100.000",160.25,199.420083191667,206.100006,"GUIL","Water Quality","specificConductance","Stream sensor location 1"
 "NEON.D04.GUIL.DP0.20005.001.01093.102.100.000",161.619995,200.775468913829,207.720001,"GUIL","Water Quality","specificConductance","Stream sensor location 2"
 "NEON.D04.GUIL.DP0.20005.001.01151.101.100.000",7.86999989,8.0763055295625,8.43999958,"GUIL","Water Quality","dissolvedOxygen","Stream sensor location 1"
-"NEON.D04.GUIL.DP0.20005.001.01151.102.100.000",7.88999987,8.15408746970853,8.61999989,"GUIL","Water Quality","dissolvedOxygen","Stream sensor location 2"
+"NEON.D04.GUIL.DP0.20005.001.01151.102.100.000",7.88999987,8.15408746970854,8.61999989,"GUIL","Water Quality","dissolvedOxygen","Stream sensor location 2"
 "NEON.D04.GUIL.DP0.20005.001.01360.101.100.000",88.9400024,90.9119999279167,96.0599976,"GUIL","Water Quality","dissolvedOxygenSaturation","Stream sensor location 1"
 "NEON.D04.GUIL.DP0.20005.001.01360.102.100.000",89.5999985,91.9071895149202,98.6900024,"GUIL","Water Quality","dissolvedOxygenSaturation","Stream sensor location 2"
 "NEON.D04.GUIL.DP0.20005.001.01371.101.100.000",149.75,184.757764075694,194.770004,"GUIL","Water Quality","conductance","Stream sensor location 1"

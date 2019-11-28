@@ -5,7 +5,7 @@
 "NEON.D08.MAYF.DP0.00001.001.01309.200.000.000",5.5999999,8.06018090125959,11.4499998,"MAYF","2D Wind Speed and Direction","sensorTemp","On-shore MET station"
 "NEON.D08.MAYF.DP0.00001.001.01310.200.000.000",0,0,0,"MAYF","2D Wind Speed and Direction","2dWindSensorStatus","On-shore MET station"
 "NEON.D08.MAYF.DP0.00002.001.01325.200.000.000",101.527763,102.774465097338,104.517944,"MAYF","Single Aspirated Air Temperature","PRTResistance","On-shore MET station"
-"NEON.D08.MAYF.DP0.00002.001.01326.200.000.000",0,3931.8185912015,3975,"MAYF","Single Aspirated Air Temperature","fanSpeed","On-shore MET station"
+"NEON.D08.MAYF.DP0.00002.001.01326.200.000.000",0,3931.81859120151,3975,"MAYF","Single Aspirated Air Temperature","fanSpeed","On-shore MET station"
 "NEON.D08.MAYF.DP0.00002.001.01330.200.000.000",599.979736,639.752083518507,720.010864,"MAYF","Single Aspirated Air Temperature","turbineSpeed","On-shore MET station"
 "NEON.D08.MAYF.DP0.00004.001.01309.200.000.000",5.82000017,8.66347025534135,12.8699999,"MAYF","Barometric Pressure","sensorTemp","On-shore MET station"
 "NEON.D08.MAYF.DP0.00004.001.01311.200.000.000",101.25,101.466912510646,101.669998,"MAYF","Barometric Pressure","rawBarometricPressure","On-shore MET station"

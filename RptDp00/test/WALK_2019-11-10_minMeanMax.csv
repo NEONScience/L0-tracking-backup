@@ -8,7 +8,7 @@
 "NEON.D07.WALK.DP0.00002.001.01326.200.000.000",3854.90479,3874.82814234686,3900.05811,"WALK","Single Aspirated Air Temperature","fanSpeed","On-shore MET station"
 "NEON.D07.WALK.DP0.00002.001.01330.200.000.000",329.997345,379.937152288148,420.011719,"WALK","Single Aspirated Air Temperature","turbineSpeed","On-shore MET station"
 "NEON.D07.WALK.DP0.00004.001.01309.200.000.000",3.04999995,8.42920158482296,18.1800003,"WALK","Barometric Pressure","sensorTemp","On-shore MET station"
-"NEON.D07.WALK.DP0.00004.001.01311.200.000.000",98.7200012,98.9686311955679,99.1600037,"WALK","Barometric Pressure","rawBarometricPressure","On-shore MET station"
+"NEON.D07.WALK.DP0.00004.001.01311.200.000.000",98.7200012,98.968631195568,99.1600037,"WALK","Barometric Pressure","rawBarometricPressure","On-shore MET station"
 "NEON.D07.WALK.DP0.00004.001.01312.200.000.000",0,0,0,"WALK","Barometric Pressure","sensorStatus","On-shore MET station"
 "NEON.D07.WALK.DP0.00023.001.01314.200.000.000",100.507965,102.663985735208,106.622208,"WALK","Shortwave/Longwave Net Radiation","sensorResistance","On-shore MET station"
 "NEON.D07.WALK.DP0.00023.001.01315.200.000.000",-2.98686264e-05,0.000417020816985337,0.00967952143,"WALK","Shortwave/Longwave Net Radiation","inNetRadPyranometer","On-shore MET station"

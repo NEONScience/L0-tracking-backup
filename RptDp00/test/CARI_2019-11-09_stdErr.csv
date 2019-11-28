@@ -30,5 +30,5 @@
 "NEON.D19.CARI.DP0.20016.001.01379.102.100.000",0.0213779702008175,"CARI","Elevation of surface water","surfaceWaterPressure","Stream sensor location 2"
 "NEON.D19.CARI.DP0.20042.001.01320.101.100.000",NA,"CARI","Photosynthetically active radiation at water surface","inPAR","Stream sensor location 1"
 "NEON.D19.CARI.DP0.20042.001.01320.102.100.000",NA,"CARI","Photosynthetically active radiation at water surface","inPAR","Stream sensor location 2"
-"NEON.D19.CARI.DP0.20053.001.01325.101.100.000",6.46382171028887e-06,"CARI","Temperature (PRT) in surface water","PRTResistance","Stream sensor location 1"
-"NEON.D19.CARI.DP0.20053.001.01325.102.100.000",4.51168420881328e-06,"CARI","Temperature (PRT) in surface water","PRTResistance","Stream sensor location 2"
+"NEON.D19.CARI.DP0.20053.001.01325.101.100.000",6.46382171028831e-06,"CARI","Temperature (PRT) in surface water","PRTResistance","Stream sensor location 1"
+"NEON.D19.CARI.DP0.20053.001.01325.102.100.000",4.51168420884165e-06,"CARI","Temperature (PRT) in surface water","PRTResistance","Stream sensor location 2"

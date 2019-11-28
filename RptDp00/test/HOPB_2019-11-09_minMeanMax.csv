@@ -57,7 +57,7 @@
 "NEON.D01.HOPB.DP0.20005.001.01668.111.100.000",0.689999998,1.35186110492708,16.6299992,"HOPB","Water Quality","fDOMRaw","Stream sensor location 1"
 "NEON.D01.HOPB.DP0.20005.001.01668.112.100.000",-0.280000001,13.8754065402279,15.5,"HOPB","Water Quality","fDOMRaw","Stream sensor location 2"
 "NEON.D01.HOPB.DP0.20005.001.01669.111.100.000",0,0.000861111091972222,0.0299999993,"HOPB","Water Quality","turbidityRaw","Stream sensor location 1"
-"NEON.D01.HOPB.DP0.20005.001.01669.112.100.000",-18.3899994,-0.00514245990562893,0.0500000007,"HOPB","Water Quality","turbidityRaw","Stream sensor location 2"
+"NEON.D01.HOPB.DP0.20005.001.01669.112.100.000",-18.3899994,-0.00514245990562892,0.0500000007,"HOPB","Water Quality","turbidityRaw","Stream sensor location 2"
 "NEON.D01.HOPB.DP0.20005.001.01670.111.100.000",1.22000003,1.24714286,1.25999999,"HOPB","Water Quality","wiperPosition","Stream sensor location 1"
 "NEON.D01.HOPB.DP0.20005.001.01670.112.100.000",0.74000001,1.18706048249896,1.20000005,"HOPB","Water Quality","wiperPosition","Stream sensor location 2"
 "NEON.D01.HOPB.DP0.20015.001.01371.301.000.000",0,0,0,"HOPB","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Ground water well 1"

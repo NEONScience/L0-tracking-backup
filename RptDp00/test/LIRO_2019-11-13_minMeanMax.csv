@@ -83,5 +83,5 @@
 "NEON.D05.LIRO.DP0.20054.001.01376.140.100.000",14.654458,14.6985449424031,14.7318077,"LIRO","c(""Specific Conductivity, Temperature, and Elevation of Surface Water"", ""Temperature (digital thermistor) of surface water"")","groundwaterPressure","Lake outlet"
 "NEON.D05.LIRO.DP0.20054.001.01377.130.100.000",NA,NA,NA,"LIRO","c(""Specific Conductivity, Temperature, and Elevation of Surface Water"", ""Temperature (digital thermistor) of surface water"")","pressureDataQualityID","Lake inlet"
 "NEON.D05.LIRO.DP0.20054.001.01377.140.100.000",0,0,0,"LIRO","c(""Specific Conductivity, Temperature, and Elevation of Surface Water"", ""Temperature (digital thermistor) of surface water"")","pressureDataQualityID","Lake outlet"
-"NEON.D05.LIRO.DP0.20261.001.01320.130.100.000",-2.74242648e-05,-9.80905522717331e-06,-4.77317417e-06,"LIRO","Photosynthetically Active Radiation","inPAR","Lake inlet"
+"NEON.D05.LIRO.DP0.20261.001.01320.130.100.000",-2.74242648e-05,-9.80905522717332e-06,-4.77317417e-06,"LIRO","Photosynthetically Active Radiation","inPAR","Lake inlet"
 "NEON.D05.LIRO.DP0.20261.001.01320.140.100.000",-1.5862563e-06,8.27812006354906e-06,3.6561607e-05,"LIRO","Photosynthetically Active Radiation","inPAR","Lake outlet"

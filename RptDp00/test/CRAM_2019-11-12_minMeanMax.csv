@@ -14,7 +14,7 @@
 "NEON.D05.CRAM.DP0.00023.001.01315.200.000.000",-4.22715093e-05,0.000373848837079293,0.00403604284,"CRAM","Shortwave/Longwave Net Radiation","inNetRadPyranometer","On-shore MET station"
 "NEON.D05.CRAM.DP0.00023.001.01316.200.000.000",-1.74573579e-05,0.000362993018518064,0.00326181995,"CRAM","Shortwave/Longwave Net Radiation","outNetRadPyranometer","On-shore MET station"
 "NEON.D05.CRAM.DP0.00023.001.01317.200.000.000",-2.18853329e-05,-3.43155577718427e-06,1.9235973e-05,"CRAM","Shortwave/Longwave Net Radiation","inNetRadPyrgeometer","On-shore MET station"
-"NEON.D05.CRAM.DP0.00023.001.01318.200.000.000",-8.91869058e-05,-4.9859378817543e-06,6.23359374e-05,"CRAM","Shortwave/Longwave Net Radiation","outNetRadPyrgeometer","On-shore MET station"
+"NEON.D05.CRAM.DP0.00023.001.01318.200.000.000",-8.91869058e-05,-4.98593788175431e-06,6.23359374e-05,"CRAM","Shortwave/Longwave Net Radiation","outNetRadPyrgeometer","On-shore MET station"
 "NEON.D05.CRAM.DP0.00024.001.01320.200.000.000",-2.12951272e-06,0.000146116786386849,0.00140836404,"CRAM","Photosynthetically Active Radiation","inPAR","On-shore MET station"
 "NEON.D05.CRAM.DP0.00098.001.01309.200.000.000",-16.5699997,-13.5693408969434,-8.56999969,"CRAM","Relative Humidity","sensorTemp","On-shore MET station"
 "NEON.D05.CRAM.DP0.00098.001.01357.200.000.000",58.4399986,79.2907275932853,86.7200012,"CRAM","Relative Humidity","RH","On-shore MET station"
