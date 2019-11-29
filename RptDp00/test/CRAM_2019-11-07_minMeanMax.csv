@@ -8,7 +8,7 @@
 "NEON.D05.CRAM.DP0.00002.001.01326.200.000.000",4019.89111,4029.26423506725,4050.02417,"CRAM","Single Aspirated Air Temperature","fanSpeed","On-shore MET station"
 "NEON.D05.CRAM.DP0.00002.001.01330.200.000.000",629.999939,714.663542783172,750.006348,"CRAM","Single Aspirated Air Temperature","turbineSpeed","On-shore MET station"
 "NEON.D05.CRAM.DP0.00004.001.01309.200.000.000",-8.86999989,-6.55000580816036,-2.38000011,"CRAM","Barometric Pressure","sensorTemp","On-shore MET station"
-"NEON.D05.CRAM.DP0.00004.001.01311.200.000.000",96.4899979,96.6164545983802,96.7600021,"CRAM","Barometric Pressure","rawBarometricPressure","On-shore MET station"
+"NEON.D05.CRAM.DP0.00004.001.01311.200.000.000",96.4899979,96.6164545983801,96.7600021,"CRAM","Barometric Pressure","rawBarometricPressure","On-shore MET station"
 "NEON.D05.CRAM.DP0.00004.001.01312.200.000.000",0,0,0,"CRAM","Barometric Pressure","sensorStatus","On-shore MET station"
 "NEON.D05.CRAM.DP0.00023.001.01314.200.000.000",95.7520218,96.8395023718727,98.4072723,"CRAM","Shortwave/Longwave Net Radiation","sensorResistance","On-shore MET station"
 "NEON.D05.CRAM.DP0.00023.001.01315.200.000.000",-6.20871069e-05,0.000772135982365798,0.0114504946,"CRAM","Shortwave/Longwave Net Radiation","inNetRadPyranometer","On-shore MET station"

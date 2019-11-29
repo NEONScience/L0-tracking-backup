@@ -31,7 +31,7 @@
 "NEON.D16.MCRA.DP0.20005.001.01372.101.100.000",6.28000021,6.2883541678125,6.28999996,"MCRA","Water Quality","batteryVoltage","Stream sensor location 1"
 "NEON.D16.MCRA.DP0.20005.001.01372.102.100.000",6.44999981,6.44999981000001,6.44999981,"MCRA","Water Quality","batteryVoltage","Stream sensor location 2"
 "NEON.D16.MCRA.DP0.20005.001.01378.101.100.000",5.80000019,6.07098611717361,6.36000013,"MCRA","Water Quality","surfaceWaterTemperature","Stream sensor location 1"
-"NEON.D16.MCRA.DP0.20005.001.01378.102.100.000",5.82000017,6.07504517678943,6.34000015,"MCRA","Water Quality","surfaceWaterTemperature","Stream sensor location 2"
+"NEON.D16.MCRA.DP0.20005.001.01378.102.100.000",5.82000017,6.07504517678944,6.34000015,"MCRA","Water Quality","surfaceWaterTemperature","Stream sensor location 2"
 "NEON.D16.MCRA.DP0.20005.001.01647.101.100.000",11.8000002,11.8275485614583,11.8500004,"MCRA","Water Quality","sensorVoltage","Stream sensor location 1"
 "NEON.D16.MCRA.DP0.20005.001.01647.102.100.000",11.6700001,11.714368244375,11.7299995,"MCRA","Water Quality","sensorVoltage","Stream sensor location 2"
 "NEON.D16.MCRA.DP0.20005.001.01657.101.100.000",7.42000008,7.44040967097917,7.44999981,"MCRA","Water Quality","pH","Stream sensor location 1"
