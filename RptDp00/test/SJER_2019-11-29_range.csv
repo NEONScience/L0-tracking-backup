@@ -65,7 +65,7 @@
 "NEON.D17.SJER.DP0.00006.001.01904.900.000.000",100,"SJER","Precipitation","totalPrecipDepth","DFIR"
 "NEON.D17.SJER.DP0.00006.001.01905.900.000.000",100,"SJER","Precipitation","inletTemp","DFIR"
 "NEON.D17.SJER.DP0.00006.001.01906.900.000.000",100,"SJER","Precipitation","internalTemp","DFIR"
-"NEON.D17.SJER.DP0.00006.001.01907.900.000.000",5,"SJER","Precipitation","precipAccumulationRate","DFIR"
+"NEON.D17.SJER.DP0.00006.001.01907.900.000.000",10,"SJER","Precipitation","precipAccumulationRate","DFIR"
 "NEON.D17.SJER.DP0.00006.001.01999.900.000.000",100,"SJER","Precipitation","strainGauge1FreqComp","DFIR"
 "NEON.D17.SJER.DP0.00006.001.02068.900.000.000",0,"SJER","Precipitation","strainGauge2Stability","DFIR"
 "NEON.D17.SJER.DP0.00006.001.02069.900.000.000",0,"SJER","Precipitation","strainGauge3Stability","DFIR"

@@ -45,7 +45,7 @@
 "NEON.D06.KONZ.DP0.00006.001.01904.900.000.000",100,"KONZ","Precipitation","totalPrecipDepth","DFIR"
 "NEON.D06.KONZ.DP0.00006.001.01905.900.000.000",100,"KONZ","Precipitation","inletTemp","DFIR"
 "NEON.D06.KONZ.DP0.00006.001.01906.900.000.000",100,"KONZ","Precipitation","internalTemp","DFIR"
-"NEON.D06.KONZ.DP0.00006.001.01907.900.000.000",20,"KONZ","Precipitation","precipAccumulationRate","DFIR"
+"NEON.D06.KONZ.DP0.00006.001.01907.900.000.000",30,"KONZ","Precipitation","precipAccumulationRate","DFIR"
 "NEON.D06.KONZ.DP0.00006.001.01999.900.000.000",100,"KONZ","Precipitation","strainGauge1FreqComp","DFIR"
 "NEON.D06.KONZ.DP0.00006.001.02068.900.000.000",0,"KONZ","Precipitation","strainGauge2Stability","DFIR"
 "NEON.D06.KONZ.DP0.00006.001.02069.900.000.000",0,"KONZ","Precipitation","strainGauge3Stability","DFIR"

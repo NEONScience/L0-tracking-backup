@@ -55,7 +55,7 @@
 "NEON.D11.CLBJ.DP0.00006.001.01904.900.000.000",0,"CLBJ","Precipitation","totalPrecipDepth","DFIR"
 "NEON.D11.CLBJ.DP0.00006.001.01905.900.000.000",100,"CLBJ","Precipitation","inletTemp","DFIR"
 "NEON.D11.CLBJ.DP0.00006.001.01906.900.000.000",100,"CLBJ","Precipitation","internalTemp","DFIR"
-"NEON.D11.CLBJ.DP0.00006.001.01907.900.000.000",30,"CLBJ","Precipitation","precipAccumulationRate","DFIR"
+"NEON.D11.CLBJ.DP0.00006.001.01907.900.000.000",35,"CLBJ","Precipitation","precipAccumulationRate","DFIR"
 "NEON.D11.CLBJ.DP0.00006.001.01999.900.000.000",100,"CLBJ","Precipitation","strainGauge1FreqComp","DFIR"
 "NEON.D11.CLBJ.DP0.00006.001.02068.900.000.000",0,"CLBJ","Precipitation","strainGauge2Stability","DFIR"
 "NEON.D11.CLBJ.DP0.00006.001.02069.900.000.000",0,"CLBJ","Precipitation","strainGauge3Stability","DFIR"

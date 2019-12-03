@@ -38,7 +38,7 @@
 "NEON.D10.ARIK.DP0.00023.001.01318.200.000.000",100,"ARIK","Shortwave/Longwave Net Radiation","outNetRadPyrgeometer","On-shore MET station"
 "NEON.D10.ARIK.DP0.00024.001.01320.200.000.000",100,"ARIK","Photosynthetically Active Radiation","inPAR","On-shore MET station"
 "NEON.D10.ARIK.DP0.00098.001.01309.200.000.000",100,"ARIK","Relative Humidity","sensorTemp","On-shore MET station"
-"NEON.D10.ARIK.DP0.00098.001.01357.200.000.000",100,"ARIK","Relative Humidity","RH","On-shore MET station"
+"NEON.D10.ARIK.DP0.00098.001.01357.200.000.000",90,"ARIK","Relative Humidity","RH","On-shore MET station"
 "NEON.D10.ARIK.DP0.00098.001.01358.200.000.000",100,"ARIK","Relative Humidity","dewPoint","On-shore MET station"
 "NEON.D10.ARIK.DP0.00098.001.01359.200.000.000",NA,"ARIK","Relative Humidity","RHStatus","On-shore MET station"
 "NEON.D10.ARIK.DP0.20005.001.01093.101.100.000",NA,"ARIK","Water Quality","specificConductance","Stream sensor location 1"

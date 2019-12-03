@@ -109,7 +109,7 @@
 "NEON.D05.STEI.DP0.00041.001.01728.001.509.000",100,"STEI","Soil temperature","soilPRTResistance","Soil Plot 1, depth 9"
 "NEON.D05.STEI.DP0.00041.001.01728.002.501.000",100,"STEI","Soil temperature","soilPRTResistance","Soil Plot 2, depth 1"
 "NEON.D05.STEI.DP0.00041.001.01728.002.502.000",100,"STEI","Soil temperature","soilPRTResistance","Soil Plot 2, depth 2"
-"NEON.D05.STEI.DP0.00041.001.01728.002.503.000",75,"STEI","Soil temperature","soilPRTResistance","Soil Plot 2, depth 3"
+"NEON.D05.STEI.DP0.00041.001.01728.002.503.000",80,"STEI","Soil temperature","soilPRTResistance","Soil Plot 2, depth 3"
 "NEON.D05.STEI.DP0.00041.001.01728.002.504.000",100,"STEI","Soil temperature","soilPRTResistance","Soil Plot 2, depth 4"
 "NEON.D05.STEI.DP0.00041.001.01728.002.505.000",100,"STEI","Soil temperature","soilPRTResistance","Soil Plot 2, depth 5"
 "NEON.D05.STEI.DP0.00041.001.01728.002.506.000",100,"STEI","Soil temperature","soilPRTResistance","Soil Plot 2, depth 6"

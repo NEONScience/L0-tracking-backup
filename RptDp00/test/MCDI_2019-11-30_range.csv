@@ -24,7 +24,7 @@
 "NEON.D06.MCDI.DP0.20005.001.01093.102.100.000",NA,"MCDI","Water Quality","specificConductance","Stream sensor location 2"
 "NEON.D06.MCDI.DP0.20005.001.01151.101.100.000",100,"MCDI","Water Quality","dissolvedOxygen","Stream sensor location 1"
 "NEON.D06.MCDI.DP0.20005.001.01151.102.100.000",100,"MCDI","Water Quality","dissolvedOxygen","Stream sensor location 2"
-"NEON.D06.MCDI.DP0.20005.001.01360.101.100.000",80,"MCDI","Water Quality","dissolvedOxygenSaturation","Stream sensor location 1"
+"NEON.D06.MCDI.DP0.20005.001.01360.101.100.000",85,"MCDI","Water Quality","dissolvedOxygenSaturation","Stream sensor location 1"
 "NEON.D06.MCDI.DP0.20005.001.01360.102.100.000",90,"MCDI","Water Quality","dissolvedOxygenSaturation","Stream sensor location 2"
 "NEON.D06.MCDI.DP0.20005.001.01371.101.100.000",100,"MCDI","Water Quality","conductance","Stream sensor location 1"
 "NEON.D06.MCDI.DP0.20005.001.01371.102.100.000",100,"MCDI","Water Quality","conductance","Stream sensor location 2"

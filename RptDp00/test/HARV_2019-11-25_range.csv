@@ -65,7 +65,7 @@
 "NEON.D01.HARV.DP0.00006.001.01904.900.000.000",100,"HARV","Precipitation","totalPrecipDepth","DFIR"
 "NEON.D01.HARV.DP0.00006.001.01905.900.000.000",100,"HARV","Precipitation","inletTemp","DFIR"
 "NEON.D01.HARV.DP0.00006.001.01906.900.000.000",100,"HARV","Precipitation","internalTemp","DFIR"
-"NEON.D01.HARV.DP0.00006.001.01907.900.000.000",10,"HARV","Precipitation","precipAccumulationRate","DFIR"
+"NEON.D01.HARV.DP0.00006.001.01907.900.000.000",5,"HARV","Precipitation","precipAccumulationRate","DFIR"
 "NEON.D01.HARV.DP0.00006.001.01999.900.000.000",100,"HARV","Precipitation","strainGauge1FreqComp","DFIR"
 "NEON.D01.HARV.DP0.00006.001.02068.900.000.000",0,"HARV","Precipitation","strainGauge2Stability","DFIR"
 "NEON.D01.HARV.DP0.00006.001.02069.900.000.000",0,"HARV","Precipitation","strainGauge3Stability","DFIR"

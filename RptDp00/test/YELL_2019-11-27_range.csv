@@ -55,7 +55,7 @@
 "NEON.D12.YELL.DP0.00006.001.01904.900.000.000",100,"YELL","Precipitation","totalPrecipDepth","DFIR"
 "NEON.D12.YELL.DP0.00006.001.01905.900.000.000",0,"YELL","Precipitation","inletTemp","DFIR"
 "NEON.D12.YELL.DP0.00006.001.01906.900.000.000",100,"YELL","Precipitation","internalTemp","DFIR"
-"NEON.D12.YELL.DP0.00006.001.01907.900.000.000",30,"YELL","Precipitation","precipAccumulationRate","DFIR"
+"NEON.D12.YELL.DP0.00006.001.01907.900.000.000",35,"YELL","Precipitation","precipAccumulationRate","DFIR"
 "NEON.D12.YELL.DP0.00006.001.01999.900.000.000",100,"YELL","Precipitation","strainGauge1FreqComp","DFIR"
 "NEON.D12.YELL.DP0.00006.001.02068.900.000.000",0,"YELL","Precipitation","strainGauge2Stability","DFIR"
 "NEON.D12.YELL.DP0.00006.001.02069.900.000.000",0,"YELL","Precipitation","strainGauge3Stability","DFIR"

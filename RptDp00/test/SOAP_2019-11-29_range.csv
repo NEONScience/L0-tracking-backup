@@ -36,7 +36,7 @@
 "NEON.D17.SOAP.DP0.00002.001.01326.000.050.000",100,"SOAP","Single Aspirated Air Temperature","fanSpeed","Meas. Level 5"
 "NEON.D17.SOAP.DP0.00002.001.01330.000.010.000",100,"SOAP","Single Aspirated Air Temperature","turbineSpeed","Meas. Level 1"
 "NEON.D17.SOAP.DP0.00002.001.01330.000.020.000",100,"SOAP","Single Aspirated Air Temperature","turbineSpeed","Meas. Level 2"
-"NEON.D17.SOAP.DP0.00002.001.01330.000.030.000",100,"SOAP","Single Aspirated Air Temperature","turbineSpeed","Meas. Level 3"
+"NEON.D17.SOAP.DP0.00002.001.01330.000.030.000",90,"SOAP","Single Aspirated Air Temperature","turbineSpeed","Meas. Level 3"
 "NEON.D17.SOAP.DP0.00002.001.01330.000.040.000",100,"SOAP","Single Aspirated Air Temperature","turbineSpeed","Meas. Level 4"
 "NEON.D17.SOAP.DP0.00002.001.01330.000.050.000",80,"SOAP","Single Aspirated Air Temperature","turbineSpeed","Meas. Level 5"
 "NEON.D17.SOAP.DP0.00003.001.01325.000.060.101",100,"SOAP","Triple Aspirated Air Temperature","PRTResistance","Meas. Level 6"

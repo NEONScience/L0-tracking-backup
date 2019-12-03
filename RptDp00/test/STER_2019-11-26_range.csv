@@ -48,7 +48,7 @@
 "NEON.D10.STER.DP0.00010.001.02226.000.040.000",NA,"STER","3D Wind Attitude and Motion Reference","diag32","Meas. Level 4"
 "NEON.D10.STER.DP0.00013.001.01818.000.040.000",NA,"STER","Wet deposition","chamberTemperature","Meas. Level 4"
 "NEON.D10.STER.DP0.00014.001.01332.000.040.000",70,"STER","Shortwave Radiation (Direct and Diffuse Pyranometer)","rawShortwaveRadiationGlobal","Meas. Level 4"
-"NEON.D10.STER.DP0.00014.001.01333.000.040.000",40,"STER","Shortwave Radiation (Direct and Diffuse Pyranometer)","rawShortwaveRadiationDiffuse","Meas. Level 4"
+"NEON.D10.STER.DP0.00014.001.01333.000.040.000",35,"STER","Shortwave Radiation (Direct and Diffuse Pyranometer)","rawShortwaveRadiationDiffuse","Meas. Level 4"
 "NEON.D10.STER.DP0.00014.001.01334.000.040.000",0,"STER","Shortwave Radiation (Direct and Diffuse Pyranometer)","sunPresence","Meas. Level 4"
 "NEON.D10.STER.DP0.00016.001.01931.000.040.000",NA,"STER","ECTE Infrared Gas Analzer (Turbulent CO2 & H2O)","diag","Meas. Level 4"
 "NEON.D10.STER.DP0.00016.001.02181.000.040.000",NA,"STER","ECTE Infrared Gas Analzer (Turbulent CO2 & H2O)","presGageCell","Meas. Level 4"

@@ -97,7 +97,7 @@
 "NEON.D14.SYCA.DP0.20016.001.01378.132.100.000",7.88446045,9.76829235808955,13.0606537,"SYCA","Elevation of surface water","surfaceWaterTemperature","Stream sensor location 2"
 "NEON.D14.SYCA.DP0.20016.001.01379.131.100.000",5.63106632,6.21199999393247,6.72320271,"SYCA","Elevation of surface water","surfaceWaterPressure","Stream sensor location 1"
 "NEON.D14.SYCA.DP0.20016.001.01379.132.100.000",5.04872322,5.46103257424875,5.86135292,"SYCA","Elevation of surface water","surfaceWaterPressure","Stream sensor location 2"
-"NEON.D14.SYCA.DP0.20033.001.02242.102.100.000",30,335.216491477273,355.12,"SYCA","Nitrate in surface water","rawNitrateSingleCompressedStream","Stream sensor location 2"
+"NEON.D14.SYCA.DP0.20033.001.02242.102.100.000",0,48.2562642045455,55.12,"SYCA","Nitrate in surface water","rawNitrateSingleCompressedStream","Stream sensor location 2"
 "NEON.D14.SYCA.DP0.20042.001.01320.111.100.000",-9.56521717e-07,0.00122035195135302,0.00641310913,"SYCA","Photosynthetically active radiation at water surface","inPAR","Stream sensor location 1"
 "NEON.D14.SYCA.DP0.20042.001.01320.112.100.000",-9.55965675e-07,0.00112162140870441,0.00624094717,"SYCA","Photosynthetically active radiation at water surface","inPAR","Stream sensor location 2"
 "NEON.D14.SYCA.DP0.20053.001.01325.101.100.000",102.941292,103.693175689732,104.975822,"SYCA","Temperature (PRT) in surface water","PRTResistance","Stream sensor location 1"

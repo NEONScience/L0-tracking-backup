@@ -30,7 +30,7 @@
 "NEON.D12.YELL.DP0.00002.001.01330.000.010.000",100,"YELL","Single Aspirated Air Temperature","turbineSpeed","Meas. Level 1"
 "NEON.D12.YELL.DP0.00002.001.01330.000.020.000",60,"YELL","Single Aspirated Air Temperature","turbineSpeed","Meas. Level 2"
 "NEON.D12.YELL.DP0.00002.001.01330.000.030.000",55,"YELL","Single Aspirated Air Temperature","turbineSpeed","Meas. Level 3"
-"NEON.D12.YELL.DP0.00002.001.01330.000.040.000",45,"YELL","Single Aspirated Air Temperature","turbineSpeed","Meas. Level 4"
+"NEON.D12.YELL.DP0.00002.001.01330.000.040.000",50,"YELL","Single Aspirated Air Temperature","turbineSpeed","Meas. Level 4"
 "NEON.D12.YELL.DP0.00003.001.01325.000.050.101",100,"YELL","Triple Aspirated Air Temperature","PRTResistance","Meas. Level 5"
 "NEON.D12.YELL.DP0.00003.001.01325.000.050.102",100,"YELL","Triple Aspirated Air Temperature","PRTResistance","Meas. Level 5"
 "NEON.D12.YELL.DP0.00003.001.01325.000.050.103",100,"YELL","Triple Aspirated Air Temperature","PRTResistance","Meas. Level 5"
