@@ -3,7 +3,7 @@
 "NEON.D18.TOOK.DP0.00001.001.01307.200.000.000",-1.33362054624288,"TOOK","2D Wind Speed and Direction","vVectorComponent","On-shore MET station"
 "NEON.D18.TOOK.DP0.00001.001.01310.200.000.000",0,"TOOK","2D Wind Speed and Direction","2dWindSensorStatus","On-shore MET station"
 "NEON.D18.TOOK.DP0.00002.001.01325.200.000.000",0.00837866316641883,"TOOK","Single Aspirated Air Temperature","PRTResistance","On-shore MET station"
-"NEON.D18.TOOK.DP0.00002.001.01326.200.000.000",0.00550600653805202,"TOOK","Single Aspirated Air Temperature","fanSpeed","On-shore MET station"
+"NEON.D18.TOOK.DP0.00002.001.01326.200.000.000",0.00550600653805199,"TOOK","Single Aspirated Air Temperature","fanSpeed","On-shore MET station"
 "NEON.D18.TOOK.DP0.00002.001.01330.200.000.000",0.0792294915091771,"TOOK","Single Aspirated Air Temperature","turbineSpeed","On-shore MET station"
 "NEON.D18.TOOK.DP0.00004.001.01309.200.000.000",-0.173782259749108,"TOOK","Barometric Pressure","sensorTemp","On-shore MET station"
 "NEON.D18.TOOK.DP0.00004.001.01311.200.000.000",0.00347872332479921,"TOOK","Barometric Pressure","rawBarometricPressure","On-shore MET station"

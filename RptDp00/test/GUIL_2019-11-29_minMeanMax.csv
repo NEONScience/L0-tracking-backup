@@ -23,7 +23,7 @@
 "NEON.D04.GUIL.DP0.00098.001.01359.200.000.000",0,0,0,"GUIL","Relative Humidity","RHStatus","On-shore MET station"
 "NEON.D04.GUIL.DP0.20005.001.01093.101.100.000",218.800003,224.560979320139,226.160004,"GUIL","Water Quality","specificConductance","Stream sensor location 1"
 "NEON.D04.GUIL.DP0.20005.001.01093.102.100.000",218.759995,224.604294677554,226.479996,"GUIL","Water Quality","specificConductance","Stream sensor location 2"
-"NEON.D04.GUIL.DP0.20005.001.01151.101.100.000",7.8499999,8.11354860479167,8.56000042,"GUIL","Water Quality","dissolvedOxygen","Stream sensor location 1"
+"NEON.D04.GUIL.DP0.20005.001.01151.101.100.000",7.8499999,8.11354860479166,8.56000042,"GUIL","Water Quality","dissolvedOxygen","Stream sensor location 1"
 "NEON.D04.GUIL.DP0.20005.001.01151.102.100.000",7.88999987,8.21335183774462,8.77999973,"GUIL","Water Quality","dissolvedOxygen","Stream sensor location 2"
 "NEON.D04.GUIL.DP0.20005.001.01360.101.100.000",88.8899994,90.7580348100694,96.4199982,"GUIL","Water Quality","dissolvedOxygenSaturation","Stream sensor location 1"
 "NEON.D04.GUIL.DP0.20005.001.01360.102.100.000",89.3700027,91.9640458939625,98.8300018,"GUIL","Water Quality","dissolvedOxygenSaturation","Stream sensor location 2"

@@ -59,7 +59,7 @@
 "NEON.D11.BLUE.DP0.20005.001.01666.112.100.000",-0.200000003,-0.117649634172321,0.730000019,"BLUE","Water Quality","chlorophyllRaw","Stream sensor location 2"
 "NEON.D11.BLUE.DP0.20005.001.01667.112.100.000",-0.800000012,-0.739897814108759,-0.620000005,"BLUE","Water Quality","blueGreenAlgaeRaw","Stream sensor location 2"
 "NEON.D11.BLUE.DP0.20005.001.01668.112.100.000",-0.449999988,3.32345986120753,4.19999981,"BLUE","Water Quality","fDOMRaw","Stream sensor location 2"
-"NEON.D11.BLUE.DP0.20005.001.01669.112.100.000",0,0.131423358165255,1.41999996,"BLUE","Water Quality","turbidityRaw","Stream sensor location 2"
+"NEON.D11.BLUE.DP0.20005.001.01669.112.100.000",0,0.131423358165256,1.41999996,"BLUE","Water Quality","turbidityRaw","Stream sensor location 2"
 "NEON.D11.BLUE.DP0.20005.001.01670.112.100.000",0.600000024,1.5435137677075,1.79999995,"BLUE","Water Quality","wiperPosition","Stream sensor location 2"
 "NEON.D11.BLUE.DP0.20015.001.01371.302.000.000",672.860901,675.041908072917,676.541504,"BLUE","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Ground water well 2"
 "NEON.D11.BLUE.DP0.20015.001.01371.303.000.000",605.97052,606.846605090278,607.400879,"BLUE","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Ground water well 3"

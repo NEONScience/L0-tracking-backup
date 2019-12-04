@@ -43,7 +43,7 @@
 "NEON.D10.ARIK.DP0.00098.001.01359.200.000.000",0,0,0,"ARIK","Relative Humidity","RHStatus","On-shore MET station"
 "NEON.D10.ARIK.DP0.20005.001.01093.101.100.000",547.700012,555.260401872917,565.440002,"ARIK","Water Quality","specificConductance","Stream sensor location 1"
 "NEON.D10.ARIK.DP0.20005.001.01093.102.100.000",549.700012,555.543804596528,561.929993,"ARIK","Water Quality","specificConductance","Stream sensor location 2"
-"NEON.D10.ARIK.DP0.20005.001.01151.101.100.000",8.97999954,9.45302779429167,9.85999966,"ARIK","Water Quality","dissolvedOxygen","Stream sensor location 1"
+"NEON.D10.ARIK.DP0.20005.001.01151.101.100.000",8.97999954,9.45302779429166,9.85999966,"ARIK","Water Quality","dissolvedOxygen","Stream sensor location 1"
 "NEON.D10.ARIK.DP0.20005.001.01151.102.100.000",9.23999977,9.51360416536111,9.65999985,"ARIK","Water Quality","dissolvedOxygen","Stream sensor location 2"
 "NEON.D10.ARIK.DP0.20005.001.01360.101.100.000",64.4100037,67.2111528075694,70.8399963,"ARIK","Water Quality","dissolvedOxygenSaturation","Stream sensor location 1"
 "NEON.D10.ARIK.DP0.20005.001.01360.102.100.000",65.5999985,67.0928194888889,69.75,"ARIK","Water Quality","dissolvedOxygenSaturation","Stream sensor location 2"

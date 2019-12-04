@@ -13,7 +13,7 @@
 "NEON.D13.COMO.DP0.00023.001.01314.200.000.000",95.8345947,97.9519198681146,102.169518,"COMO","Shortwave/Longwave Net Radiation","sensorResistance","On-shore MET station"
 "NEON.D13.COMO.DP0.00023.001.01315.200.000.000",-4.91166647e-05,0.000436066984935116,0.00978574436,"COMO","Shortwave/Longwave Net Radiation","inNetRadPyranometer","On-shore MET station"
 "NEON.D13.COMO.DP0.00023.001.01316.200.000.000",-2.12327068e-05,0.000244408128268081,0.00298982463,"COMO","Shortwave/Longwave Net Radiation","outNetRadPyranometer","On-shore MET station"
-"NEON.D13.COMO.DP0.00023.001.01317.200.000.000",-0.000841788598,-0.000395951003361731,-4.63673387e-05,"COMO","Shortwave/Longwave Net Radiation","inNetRadPyrgeometer","On-shore MET station"
+"NEON.D13.COMO.DP0.00023.001.01317.200.000.000",-0.000841788598,-0.000395951003361732,-4.63673387e-05,"COMO","Shortwave/Longwave Net Radiation","inNetRadPyrgeometer","On-shore MET station"
 "NEON.D13.COMO.DP0.00023.001.01318.200.000.000",-0.00037468606,-8.5269179264674e-05,1.87023452e-05,"COMO","Shortwave/Longwave Net Radiation","outNetRadPyrgeometer","On-shore MET station"
 "NEON.D13.COMO.DP0.00024.001.01320.200.000.000",-7.73020838e-06,0.000424680059251118,0.0080897985,"COMO","Photosynthetically Active Radiation","inPAR","On-shore MET station"
 "NEON.D13.COMO.DP0.00098.001.01309.200.000.000",-10.6040001,-5.38803604690614,2.10100007,"COMO","Relative Humidity","sensorTemp","On-shore MET station"

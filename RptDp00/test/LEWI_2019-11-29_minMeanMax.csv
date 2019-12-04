@@ -22,7 +22,7 @@
 "NEON.D02.LEWI.DP0.00098.001.01359.200.000.000",0,0,0,"LEWI","Relative Humidity","RHStatus","On-shore MET station"
 "NEON.D02.LEWI.DP0.20005.001.01093.101.100.000",591.530029,606.027206202919,615.130005,"LEWI","Water Quality","specificConductance","Stream sensor location 1"
 "NEON.D02.LEWI.DP0.20005.001.01093.102.100.000",593.98999,606.465352361253,614.679993,"LEWI","Water Quality","specificConductance","Stream sensor location 2"
-"NEON.D02.LEWI.DP0.20005.001.01151.101.100.000",9.18999958,9.8884663399306,10.8800001,"LEWI","Water Quality","dissolvedOxygen","Stream sensor location 1"
+"NEON.D02.LEWI.DP0.20005.001.01151.101.100.000",9.18999958,9.88846633993061,10.8800001,"LEWI","Water Quality","dissolvedOxygen","Stream sensor location 1"
 "NEON.D02.LEWI.DP0.20005.001.01151.102.100.000",9.35999966,19.2840961871377,614.669983,"LEWI","Water Quality","dissolvedOxygen","Stream sensor location 2"
 "NEON.D02.LEWI.DP0.20005.001.01360.101.100.000",79.2099991,83.3767244751561,92.2399979,"LEWI","Water Quality","dissolvedOxygenSaturation","Stream sensor location 1"
 "NEON.D02.LEWI.DP0.20005.001.01360.102.100.000",79.4300003,91.0994189241033,413.720001,"LEWI","Water Quality","dissolvedOxygenSaturation","Stream sensor location 2"

@@ -6,7 +6,7 @@
 "NEON.D03.BARC.DP0.00001.001.01310.200.000.000",0,0,0,"BARC","2D Wind Speed and Direction","2dWindSensorStatus","On-shore MET station"
 "NEON.D03.BARC.DP0.00002.001.01325.200.000.000",103.530708,106.599240956249,109.089447,"BARC","Single Aspirated Air Temperature","PRTResistance","On-shore MET station"
 "NEON.D03.BARC.DP0.00002.001.01326.200.000.000",2.08530969e-06,4077.13341354725,4170.00586,"BARC","Single Aspirated Air Temperature","fanSpeed","On-shore MET station"
-"NEON.D03.BARC.DP0.00002.001.01330.200.000.000",300,428.164438344123,480.007263,"BARC","Single Aspirated Air Temperature","turbineSpeed","On-shore MET station"
+"NEON.D03.BARC.DP0.00002.001.01330.200.000.000",300,428.164438344122,480.007263,"BARC","Single Aspirated Air Temperature","turbineSpeed","On-shore MET station"
 "NEON.D03.BARC.DP0.00004.001.01309.200.000.000",9.77000046,18.2331706235379,24.0400009,"BARC","Barometric Pressure","sensorTemp","On-shore MET station"
 "NEON.D03.BARC.DP0.00004.001.01311.200.000.000",100.580002,100.779789601475,101.190002,"BARC","Barometric Pressure","rawBarometricPressure","On-shore MET station"
 "NEON.D03.BARC.DP0.00004.001.01312.200.000.000",0,0,0,"BARC","Barometric Pressure","sensorStatus","On-shore MET station"

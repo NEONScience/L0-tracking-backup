@@ -58,7 +58,7 @@
 "NEON.D12.BLDE.DP0.20005.001.01669.102.100.000",0.0299999993,0.04664583260875,0.180000007,"BLDE","Water Quality","turbidityRaw","Stream sensor location 2"
 "NEON.D12.BLDE.DP0.20005.001.01670.101.100.000",1.16999996,1.19675699435417,1.22000003,"BLDE","Water Quality","wiperPosition","Stream sensor location 1"
 "NEON.D12.BLDE.DP0.20005.001.01670.102.100.000",1.19000006,1.2200764188125,1.24000001,"BLDE","Water Quality","wiperPosition","Stream sensor location 2"
-"NEON.D12.BLDE.DP0.20015.001.01371.301.000.000",15.2417612,74.2214464399306,107.856682,"BLDE","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Ground water well 1"
+"NEON.D12.BLDE.DP0.20015.001.01371.301.000.000",15.2417612,74.2214464399305,107.856682,"BLDE","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Ground water well 1"
 "NEON.D12.BLDE.DP0.20015.001.01371.302.000.000",67.2516556,68.9869791104167,71.5785294,"BLDE","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Ground water well 2"
 "NEON.D12.BLDE.DP0.20015.001.01371.303.000.000",0,0,0,"BLDE","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Ground water well 3"
 "NEON.D12.BLDE.DP0.20015.001.01371.304.000.000",98.4259949,99.1731518621528,99.5823212,"BLDE","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Ground water well 4"

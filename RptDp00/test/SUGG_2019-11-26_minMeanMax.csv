@@ -132,6 +132,6 @@
 "NEON.D03.SUGG.DP0.20264.001.02890.103.100.000",16.4979992,16.7365008660377,17.3540001,"SUGG","Temperature at specific depth in lakes","depth3WaterTemp","Buoy"
 "NEON.D03.SUGG.DP0.20264.001.02891.103.100.000",16.4960003,16.6372195720412,16.8889999,"SUGG","Temperature at specific depth in lakes","depth4WaterTemp","Buoy"
 "NEON.D03.SUGG.DP0.20271.001.01309.103.100.000",11.2320004,18.040869638422,21.9799995,"SUGG","Relative Humidity of the air above lakes on buoy","sensorTemp","Buoy"
-"NEON.D03.SUGG.DP0.20271.001.01357.103.100.000",36.762001,60.5304734300171,96.8300018,"SUGG","Relative Humidity of the air above lakes on buoy","RH","Buoy"
+"NEON.D03.SUGG.DP0.20271.001.01357.103.100.000",36.762001,60.5304734300172,96.8300018,"SUGG","Relative Humidity of the air above lakes on buoy","RH","Buoy"
 "NEON.D03.SUGG.DP0.20271.001.01358.103.100.000",5.66400003,9.60650773408233,13.3070002,"SUGG","Relative Humidity of the air above lakes on buoy","dewPoint","Buoy"
 "NEON.D03.SUGG.DP0.20271.001.01359.103.100.000",-1,-1,-1,"SUGG","Relative Humidity of the air above lakes on buoy","RHStatus","Buoy"

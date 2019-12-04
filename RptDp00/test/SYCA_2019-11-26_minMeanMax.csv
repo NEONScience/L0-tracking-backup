@@ -30,7 +30,7 @@
 "NEON.D14.SYCA.DP0.20005.001.01371.101.100.000",518.599976,532.664592231733,572.22998,"SYCA","Water Quality","conductance","Stream sensor location 1"
 "NEON.D14.SYCA.DP0.20005.001.01371.102.100.000",527.549988,534.984083319444,552.130005,"SYCA","Water Quality","conductance","Stream sensor location 2"
 "NEON.D14.SYCA.DP0.20005.001.01372.101.100.000",-0.0900000036,6.34456876950376,6.3499999,"SYCA","Water Quality","batteryVoltage","Stream sensor location 1"
-"NEON.D14.SYCA.DP0.20005.001.01372.102.100.000",6.07999992,6.08013168447295,6.09000015,"SYCA","Water Quality","batteryVoltage","Stream sensor location 2"
+"NEON.D14.SYCA.DP0.20005.001.01372.102.100.000",6.07999992,6.08013168447296,6.09000015,"SYCA","Water Quality","batteryVoltage","Stream sensor location 2"
 "NEON.D14.SYCA.DP0.20005.001.01378.101.100.000",15.3000002,16.4946763806541,19.6299992,"SYCA","Water Quality","surfaceWaterTemperature","Stream sensor location 1"
 "NEON.D14.SYCA.DP0.20005.001.01378.102.100.000",17.8899994,18.5273315174427,19.8600006,"SYCA","Water Quality","surfaceWaterTemperature","Stream sensor location 2"
 "NEON.D14.SYCA.DP0.20005.001.01647.101.100.000",0.709999979,11.8395274111815,11.8599997,"SYCA","Water Quality","sensorVoltage","Stream sensor location 1"
