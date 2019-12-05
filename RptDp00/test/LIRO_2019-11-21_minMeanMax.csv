@@ -5,7 +5,7 @@
 "NEON.D05.LIRO.DP0.00001.001.01309.200.000.000",3.68000007,8.11614977360028,11.7700005,"LIRO","2D Wind Speed and Direction","sensorTemp","On-shore MET station"
 "NEON.D05.LIRO.DP0.00001.001.01310.200.000.000",65,65,65,"LIRO","2D Wind Speed and Direction","2dWindSensorStatus","On-shore MET station"
 "NEON.D05.LIRO.DP0.00002.001.01325.200.000.000",98.4582901,100.402714263719,101.382721,"LIRO","Single Aspirated Air Temperature","PRTResistance","On-shore MET station"
-"NEON.D05.LIRO.DP0.00002.001.01326.200.000.000",0,4046.38767078172,4065.07642,"LIRO","Single Aspirated Air Temperature","fanSpeed","On-shore MET station"
+"NEON.D05.LIRO.DP0.00002.001.01326.200.000.000",0,4046.38767078171,4065.07642,"LIRO","Single Aspirated Air Temperature","fanSpeed","On-shore MET station"
 "NEON.D05.LIRO.DP0.00002.001.01330.200.000.000",419.997711,602.631250910996,660.012573,"LIRO","Single Aspirated Air Temperature","turbineSpeed","On-shore MET station"
 "NEON.D05.LIRO.DP0.00004.001.01309.200.000.000",-2.04999995,2.50703308172889,4.46999979,"LIRO","Barometric Pressure","sensorTemp","On-shore MET station"
 "NEON.D05.LIRO.DP0.00004.001.01311.200.000.000",94.5100021,94.9564567586786,95.7600021,"LIRO","Barometric Pressure","rawBarometricPressure","On-shore MET station"

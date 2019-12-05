@@ -90,5 +90,5 @@
 "NEON.D05.CRAM.DP0.20054.001.01376.140.100.000",NA,NA,NA,"CRAM","c(""Specific Conductivity, Temperature, and Elevation of Surface Water"", ""Temperature (digital thermistor) of surface water"")","groundwaterPressure","Lake outlet"
 "NEON.D05.CRAM.DP0.20054.001.01377.130.100.000",NA,NA,NA,"CRAM","c(""Specific Conductivity, Temperature, and Elevation of Surface Water"", ""Temperature (digital thermistor) of surface water"")","pressureDataQualityID","Lake inlet"
 "NEON.D05.CRAM.DP0.20054.001.01377.140.100.000",NA,NA,NA,"CRAM","c(""Specific Conductivity, Temperature, and Elevation of Surface Water"", ""Temperature (digital thermistor) of surface water"")","pressureDataQualityID","Lake outlet"
-"NEON.D05.CRAM.DP0.20261.001.01320.130.100.000",-4.4559456e-06,9.46377116514623e-05,0.000564481714,"CRAM","Photosynthetically Active Radiation","inPAR","Lake inlet"
+"NEON.D05.CRAM.DP0.20261.001.01320.130.100.000",-4.4559456e-06,9.46377116514624e-05,0.000564481714,"CRAM","Photosynthetically Active Radiation","inPAR","Lake inlet"
 "NEON.D05.CRAM.DP0.20261.001.01320.140.100.000",4.51335927e-06,0.000229122478204502,0.000924066931,"CRAM","Photosynthetically Active Radiation","inPAR","Lake outlet"

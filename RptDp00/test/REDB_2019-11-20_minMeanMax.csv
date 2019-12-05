@@ -124,7 +124,7 @@
 "NEON.D15.REDB.DP0.20016.001.01378.102.100.000",4.51937866,5.13470339265972,6.00901794,"REDB","Elevation of surface water","surfaceWaterTemperature","Stream sensor location 2"
 "NEON.D15.REDB.DP0.20016.001.01379.101.100.000",2.52094078,2.56073168567361,2.60218596,"REDB","Elevation of surface water","surfaceWaterPressure","Stream sensor location 1"
 "NEON.D15.REDB.DP0.20016.001.01379.102.100.000",4.62846041,4.71102869970833,4.79670382,"REDB","Elevation of surface water","surfaceWaterPressure","Stream sensor location 2"
-"NEON.D15.REDB.DP0.20033.001.02242.102.100.000",30,34.0790922619048,35.38,"REDB","Nitrate in surface water","rawNitrateSingleCompressedStream","Stream sensor location 2"
+"NEON.D15.REDB.DP0.20033.001.02242.102.100.000",0,4.07909226190476,5.38,"REDB","Nitrate in surface water","rawNitrateSingleCompressedStream","Stream sensor location 2"
 "NEON.D15.REDB.DP0.20042.001.01320.101.100.000",-1.27455723e-06,0.000256443403649598,0.00244483561,"REDB","Photosynthetically active radiation at water surface","inPAR","Stream sensor location 1"
 "NEON.D15.REDB.DP0.20042.001.01320.102.100.000",-6.68053553e-06,0.000205557112198822,0.00132674398,"REDB","Photosynthetically active radiation at water surface","inPAR","Stream sensor location 2"
 "NEON.D15.REDB.DP0.20053.001.01325.101.100.000",101.798401,102.028816619525,102.370285,"REDB","Temperature (PRT) in surface water","PRTResistance","Stream sensor location 1"

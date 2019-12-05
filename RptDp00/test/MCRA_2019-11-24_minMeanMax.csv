@@ -68,7 +68,7 @@
 "NEON.D16.MCRA.DP0.20016.001.01378.132.100.000",4.75138855,4.91329671031944,5.15301514,"MCRA","Elevation of surface water","surfaceWaterTemperature","Stream sensor location 2"
 "NEON.D16.MCRA.DP0.20016.001.01379.131.100.000",3.35196829,3.36348197811806,3.37667847,"MCRA","Elevation of surface water","surfaceWaterPressure","Stream sensor location 1"
 "NEON.D16.MCRA.DP0.20016.001.01379.132.100.000",1.88322246,1.91766015633333,1.94110572,"MCRA","Elevation of surface water","surfaceWaterPressure","Stream sensor location 2"
-"NEON.D16.MCRA.DP0.20033.001.02242.102.100.000",30,296.978416289593,3128.23,"MCRA","Nitrate in surface water","rawNitrateSingleCompressedStream","Stream sensor location 2"
+"NEON.D16.MCRA.DP0.20033.001.02242.102.100.000",-334.83,1.74350694444444,128.23,"MCRA","Nitrate in surface water","rawNitrateSingleCompressedStream","Stream sensor location 2"
 "NEON.D16.MCRA.DP0.20042.001.01320.111.100.000",-3.24535267e-06,1.31627140479273e-05,0.000189979619,"MCRA","Photosynthetically active radiation at water surface","inPAR","Stream sensor location 1"
 "NEON.D16.MCRA.DP0.20042.001.01320.112.100.000",-2.23813208e-06,6.40809035846814e-06,8.01269853e-05,"MCRA","Photosynthetically active radiation at water surface","inPAR","Stream sensor location 2"
 "NEON.D16.MCRA.DP0.20053.001.01325.101.100.000",101.894585,101.9632754375,102.065567,"MCRA","Temperature (PRT) in surface water","PRTResistance","Stream sensor location 1"

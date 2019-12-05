@@ -68,7 +68,7 @@
 "NEON.D07.LECO.DP0.20016.001.01378.132.100.000",7.92156982,8.69128465599306,10.661087,"LECO","Elevation of surface water","surfaceWaterTemperature","Stream sensor location 2"
 "NEON.D07.LECO.DP0.20016.001.01379.131.100.000",7.00304031,7.90163980956944,9.08998108,"LECO","Elevation of surface water","surfaceWaterPressure","Stream sensor location 1"
 "NEON.D07.LECO.DP0.20016.001.01379.132.100.000",5.17811489,5.79523003145833,6.98408127,"LECO","Elevation of surface water","surfaceWaterPressure","Stream sensor location 2"
-"NEON.D07.LECO.DP0.20033.001.02242.112.100.000",30,318.310783730159,336.71,"LECO","Nitrate in surface water","rawNitrateSingleCompressedStream","Stream sensor location 2"
+"NEON.D07.LECO.DP0.20033.001.02242.112.100.000",0,31.1679265873016,36.71,"LECO","Nitrate in surface water","rawNitrateSingleCompressedStream","Stream sensor location 2"
 "NEON.D07.LECO.DP0.20042.001.01320.111.100.000",-6.23011601e-07,0.000276614574802927,0.00647598598,"LECO","Photosynthetically active radiation at water surface","inPAR","Stream sensor location 1"
 "NEON.D07.LECO.DP0.20042.001.01320.112.100.000",-9.55866881e-07,0.000233656763739157,0.00323756645,"LECO","Photosynthetically active radiation at water surface","inPAR","Stream sensor location 2"
 "NEON.D07.LECO.DP0.20053.001.01325.101.100.000",102.819778,103.107937631686,103.869728,"LECO","Temperature (PRT) in surface water","PRTResistance","Stream sensor location 1"

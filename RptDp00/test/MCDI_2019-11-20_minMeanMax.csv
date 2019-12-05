@@ -124,7 +124,7 @@
 "NEON.D06.MCDI.DP0.20016.001.01378.132.100.000",8.75505066,9.56180678490487,10.9703979,"MCDI","Elevation of surface water","surfaceWaterTemperature","Stream sensor location 2"
 "NEON.D06.MCDI.DP0.20016.001.01379.131.100.000",6.96396875,6.98673094500389,7.08661556,"MCDI","Elevation of surface water","surfaceWaterPressure","Stream sensor location 1"
 "NEON.D06.MCDI.DP0.20016.001.01379.132.100.000",6.00324583,6.13364084914729,6.38900185,"MCDI","Elevation of surface water","surfaceWaterPressure","Stream sensor location 2"
-"NEON.D06.MCDI.DP0.20033.001.02242.102.100.000",30,299.513242147923,314.94,"MCDI","Nitrate in surface water","rawNitrateSingleCompressedStream","Stream sensor location 2"
+"NEON.D06.MCDI.DP0.20033.001.02242.102.100.000",0,12.3703850050659,14.94,"MCDI","Nitrate in surface water","rawNitrateSingleCompressedStream","Stream sensor location 2"
 "NEON.D06.MCDI.DP0.20042.001.01320.111.100.000",-2.28912904e-06,0.000151917423312238,0.0023383575,"MCDI","Photosynthetically active radiation at water surface","inPAR","Stream sensor location 1"
 "NEON.D06.MCDI.DP0.20042.001.01320.112.100.000",-3.63972299e-06,0.000275975182184709,0.00380731421,"MCDI","Photosynthetically active radiation at water surface","inPAR","Stream sensor location 2"
 "NEON.D06.MCDI.DP0.20053.001.01325.101.100.000",103.369835,103.722899200934,104.449654,"MCDI","Temperature (PRT) in surface water","PRTResistance","Stream sensor location 1"

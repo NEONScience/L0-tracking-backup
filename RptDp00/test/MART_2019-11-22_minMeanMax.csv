@@ -110,7 +110,7 @@
 "NEON.D16.MART.DP0.20016.001.01378.131.100.000",5.28794861,5.6929461795625,6.36071777,"MART","Elevation of surface water","surfaceWaterTemperature","Stream sensor location 1"
 "NEON.D16.MART.DP0.20016.001.01379.110.100.000",5.01795244,5.03985836882639,5.05917788,"MART","Elevation of surface water","surfaceWaterPressure","Staff gauge"
 "NEON.D16.MART.DP0.20016.001.01379.131.100.000",5.80965042,5.8309529795,5.85427284,"MART","Elevation of surface water","surfaceWaterPressure","Stream sensor location 1"
-"NEON.D16.MART.DP0.20033.001.02242.102.100.000",3.75,24.3521527777778,31.62,"MART","Nitrate in surface water","rawNitrateSingleCompressedStream","Stream sensor location 2"
+"NEON.D16.MART.DP0.20033.001.02242.102.100.000",0,1.19590277777778,1.62,"MART","Nitrate in surface water","rawNitrateSingleCompressedStream","Stream sensor location 2"
 "NEON.D16.MART.DP0.20042.001.01320.111.100.000",3.04101775e-07,6.43762016137756e-05,0.00146166165,"MART","Photosynthetically active radiation at water surface","inPAR","Stream sensor location 1"
 "NEON.D16.MART.DP0.20042.001.01320.112.100.000",3.9708716e-06,0.000103358580072799,0.00130150479,"MART","Photosynthetically active radiation at water surface","inPAR","Stream sensor location 2"
 "NEON.D16.MART.DP0.20053.001.01325.101.100.000",100.505241,100.663470562315,100.907654,"MART","Temperature (PRT) in surface water","PRTResistance","Stream sensor location 1"

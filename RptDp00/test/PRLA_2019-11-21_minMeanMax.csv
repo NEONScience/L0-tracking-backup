@@ -14,7 +14,7 @@
 "NEON.D09.PRLA.DP0.00023.001.01315.200.000.000",-6.55629483e-05,0.00144502352341487,0.00998829491,"PRLA","Shortwave/Longwave Net Radiation","inNetRadPyranometer","On-shore MET station"
 "NEON.D09.PRLA.DP0.00023.001.01316.200.000.000",-1.83670763e-05,0.000451568548729595,0.0034203378,"PRLA","Shortwave/Longwave Net Radiation","outNetRadPyranometer","On-shore MET station"
 "NEON.D09.PRLA.DP0.00023.001.01317.200.000.000",-0.00117730966,-0.000466707022926113,-7.72140847e-05,"PRLA","Shortwave/Longwave Net Radiation","inNetRadPyrgeometer","On-shore MET station"
-"NEON.D09.PRLA.DP0.00023.001.01318.200.000.000",-0.000286932132,-8.58436271684356e-05,5.05616299e-05,"PRLA","Shortwave/Longwave Net Radiation","outNetRadPyrgeometer","On-shore MET station"
+"NEON.D09.PRLA.DP0.00023.001.01318.200.000.000",-0.000286932132,-8.58436271684357e-05,5.05616299e-05,"PRLA","Shortwave/Longwave Net Radiation","outNetRadPyrgeometer","On-shore MET station"
 "NEON.D09.PRLA.DP0.00024.001.01320.200.000.000",-1.11549234e-05,0.000767130135765977,0.00524747418,"PRLA","Photosynthetically Active Radiation","inPAR","On-shore MET station"
 "NEON.D09.PRLA.DP0.00098.001.01309.200.000.000",-11.79,-7.51569548284364,-1.03999996,"PRLA","Relative Humidity","sensorTemp","On-shore MET station"
 "NEON.D09.PRLA.DP0.00098.001.01357.200.000.000",68.4700012,90.3639016010356,101.43,"PRLA","Relative Humidity","RH","On-shore MET station"

@@ -2,7 +2,7 @@
 "NEON.D16.MCRA.DP0.00001.001.01306.200.000.000",-0.550000012,-0.0554573348416447,0.670000017,"MCRA","2D Wind Speed and Direction","uVectorComponent","On-shore MET station"
 "NEON.D16.MCRA.DP0.00001.001.01307.200.000.000",-0.519999981,0.048558278931763,0.800000012,"MCRA","2D Wind Speed and Direction","vVectorComponent","On-shore MET station"
 "NEON.D16.MCRA.DP0.00001.001.01308.200.000.000",333.149994,333.944508003491,336.540009,"MCRA","2D Wind Speed and Direction","soundSpeed","On-shore MET station"
-"NEON.D16.MCRA.DP0.00001.001.01309.200.000.000",2.4000001,3.71745947125599,8.03999996,"MCRA","2D Wind Speed and Direction","sensorTemp","On-shore MET station"
+"NEON.D16.MCRA.DP0.00001.001.01309.200.000.000",2.4000001,3.717459471256,8.03999996,"MCRA","2D Wind Speed and Direction","sensorTemp","On-shore MET station"
 "NEON.D16.MCRA.DP0.00001.001.01310.200.000.000",65,65,65,"MCRA","2D Wind Speed and Direction","2dWindSensorStatus","On-shore MET station"
 "NEON.D16.MCRA.DP0.00002.001.01325.200.000.000",99.7823334,100.177832448421,101.606865,"MCRA","Single Aspirated Air Temperature","PRTResistance","On-shore MET station"
 "NEON.D16.MCRA.DP0.00002.001.01326.200.000.000",0,4171.7969097914,4245.00586,"MCRA","Single Aspirated Air Temperature","fanSpeed","On-shore MET station"

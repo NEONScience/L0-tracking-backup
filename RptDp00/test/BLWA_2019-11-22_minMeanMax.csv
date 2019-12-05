@@ -53,7 +53,7 @@
 "NEON.D08.BLWA.DP0.20032.001.01316.103.100.000",-2.62959074e-05,0.000128912177714949,0.00138876925,"BLWA","Shortwave/Longwave Net Radiation","outNetRadPyranometer","Buoy"
 "NEON.D08.BLWA.DP0.20032.001.01317.103.100.000",-0.00081212353,-0.000343629837598525,5.98311544e-06,"BLWA","Shortwave/Longwave Net Radiation","inNetRadPyrgeometer","Buoy"
 "NEON.D08.BLWA.DP0.20032.001.01318.103.100.000",-0.000333168922,-2.85699730230137e-05,0.000134687754,"BLWA","Shortwave/Longwave Net Radiation","outNetRadPyrgeometer","Buoy"
-"NEON.D08.BLWA.DP0.20033.001.02242.103.100.000",30,320.745543912176,336.02,"BLWA","Nitrate in surface water","rawNitrateSingleCompressedStream","Buoy"
+"NEON.D08.BLWA.DP0.20033.001.02242.103.100.000",0,33.6796756487026,36.02,"BLWA","Nitrate in surface water","rawNitrateSingleCompressedStream","Buoy"
 "NEON.D08.BLWA.DP0.20042.001.01320.103.100.000",0,0.000691385833342423,0.00683678035,"BLWA","Photosynthetically active radiation at water surface","inPAR","Buoy"
 "NEON.D08.BLWA.DP0.20059.001.00340.103.100.000",0,0.622978099242507,6.55362797,"BLWA","Windspeed and direction on lakes on-buoy","windSpeedMean","Buoy"
 "NEON.D08.BLWA.DP0.20059.001.00380.103.100.000",0,86.4282296300149,357.630646,"BLWA","Windspeed and direction on lakes on-buoy","windDirMean","Buoy"
