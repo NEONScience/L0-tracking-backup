@@ -4,7 +4,7 @@
 "NEON.D19.CARI.DP0.00001.001.01310.200.000.000",60,60,60,"CARI","2D Wind Speed and Direction","2dWindSensorStatus","On-shore MET station"
 "NEON.D19.CARI.DP0.00002.001.01325.200.000.000",93.7667923,94.5659137995755,95.1429596,"CARI","Single Aspirated Air Temperature","PRTResistance","On-shore MET station"
 "NEON.D19.CARI.DP0.00002.001.01326.200.000.000",0,4022.39765813153,4050.00586,"CARI","Single Aspirated Air Temperature","fanSpeed","On-shore MET station"
-"NEON.D19.CARI.DP0.00002.001.01330.200.000.000",480,729.132125994827,780.010132,"CARI","Single Aspirated Air Temperature","turbineSpeed","On-shore MET station"
+"NEON.D19.CARI.DP0.00002.001.01330.200.000.000",480,729.132125994826,780.010132,"CARI","Single Aspirated Air Temperature","turbineSpeed","On-shore MET station"
 "NEON.D19.CARI.DP0.00004.001.01309.200.000.000",-14.9200001,-12.9681312618362,-11.6700001,"CARI","Barometric Pressure","sensorTemp","On-shore MET station"
 "NEON.D19.CARI.DP0.00004.001.01311.200.000.000",97.1399994,97.7571207615229,98.5699997,"CARI","Barometric Pressure","rawBarometricPressure","On-shore MET station"
 "NEON.D19.CARI.DP0.00004.001.01312.200.000.000",0,0,0,"CARI","Barometric Pressure","sensorStatus","On-shore MET station"

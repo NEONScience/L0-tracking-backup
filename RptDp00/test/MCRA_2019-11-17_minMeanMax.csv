@@ -13,7 +13,7 @@
 "NEON.D16.MCRA.DP0.00023.001.01314.200.000.000",103.214371,104.084343121794,105.203133,"MCRA","Shortwave/Longwave Net Radiation","sensorResistance","On-shore MET station"
 "NEON.D16.MCRA.DP0.00023.001.01315.200.000.000",-4.94682936e-05,2.05579438941875e-05,0.000476328132,"MCRA","Shortwave/Longwave Net Radiation","inNetRadPyranometer","On-shore MET station"
 "NEON.D16.MCRA.DP0.00023.001.01316.200.000.000",-3.8639344e-05,-2.45861793140673e-05,3.52402494e-05,"MCRA","Shortwave/Longwave Net Radiation","outNetRadPyranometer","On-shore MET station"
-"NEON.D16.MCRA.DP0.00023.001.01317.200.000.000",-0.000264524599,-0.000217534897685637,-8.92098979e-05,"MCRA","Shortwave/Longwave Net Radiation","inNetRadPyrgeometer","On-shore MET station"
+"NEON.D16.MCRA.DP0.00023.001.01317.200.000.000",-0.000264524599,-0.000217534897685638,-8.92098979e-05,"MCRA","Shortwave/Longwave Net Radiation","inNetRadPyrgeometer","On-shore MET station"
 "NEON.D16.MCRA.DP0.00023.001.01318.200.000.000",-0.000255501946,-0.00020977784354062,-0.000109529916,"MCRA","Shortwave/Longwave Net Radiation","outNetRadPyrgeometer","On-shore MET station"
 "NEON.D16.MCRA.DP0.00024.001.01320.200.000.000",0.000497067347,0.000538453857670384,0.000725411111,"MCRA","Photosynthetically Active Radiation","inPAR","On-shore MET station"
 "NEON.D16.MCRA.DP0.00098.001.01309.200.000.000",4.7579999,6.76672990488268,9.66399956,"MCRA","Relative Humidity","sensorTemp","On-shore MET station"

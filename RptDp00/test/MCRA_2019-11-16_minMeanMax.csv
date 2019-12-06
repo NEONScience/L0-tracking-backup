@@ -1,7 +1,7 @@
 "streams","minimum","mean","maximum","site","dp.name","term.name","location"
 "NEON.D16.MCRA.DP0.00001.001.01306.200.000.000",-0.540000021,-0.158869953774637,0.469999999,"MCRA","2D Wind Speed and Direction","uVectorComponent","On-shore MET station"
 "NEON.D16.MCRA.DP0.00001.001.01307.200.000.000",-0.310000002,0.105477767949601,0.479999989,"MCRA","2D Wind Speed and Direction","vVectorComponent","On-shore MET station"
-"NEON.D16.MCRA.DP0.00001.001.01308.200.000.000",334.980011,336.383966641359,338.170013,"MCRA","2D Wind Speed and Direction","soundSpeed","On-shore MET station"
+"NEON.D16.MCRA.DP0.00001.001.01308.200.000.000",334.980011,336.383966641358,338.170013,"MCRA","2D Wind Speed and Direction","soundSpeed","On-shore MET station"
 "NEON.D16.MCRA.DP0.00001.001.01309.200.000.000",5.44000006,7.77612472842556,10.7600002,"MCRA","2D Wind Speed and Direction","sensorTemp","On-shore MET station"
 "NEON.D16.MCRA.DP0.00001.001.01310.200.000.000",65,65,65,"MCRA","2D Wind Speed and Direction","2dWindSensorStatus","On-shore MET station"
 "NEON.D16.MCRA.DP0.00002.001.01325.200.000.000",101.126511,102.209470329111,103.396126,"MCRA","Single Aspirated Air Temperature","PRTResistance","On-shore MET station"

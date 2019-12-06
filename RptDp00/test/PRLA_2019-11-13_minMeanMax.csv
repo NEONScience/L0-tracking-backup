@@ -7,7 +7,7 @@
 "NEON.D09.PRLA.DP0.00002.001.01325.200.000.000",96.1797028,98.0783560314629,99.1892319,"PRLA","Single Aspirated Air Temperature","PRTResistance","On-shore MET station"
 "NEON.D09.PRLA.DP0.00002.001.01326.200.000.000",3929.96851,3958.61407610104,3975.08423,"PRLA","Single Aspirated Air Temperature","fanSpeed","On-shore MET station"
 "NEON.D09.PRLA.DP0.00002.001.01330.200.000.000",360,590.324653752975,780.001892,"PRLA","Single Aspirated Air Temperature","turbineSpeed","On-shore MET station"
-"NEON.D09.PRLA.DP0.00004.001.01309.200.000.000",-9.09000015,-4.00218352473039,-1.51999998,"PRLA","Barometric Pressure","sensorTemp","On-shore MET station"
+"NEON.D09.PRLA.DP0.00004.001.01309.200.000.000",-9.09000015,-4.00218352473038,-1.51999998,"PRLA","Barometric Pressure","sensorTemp","On-shore MET station"
 "NEON.D09.PRLA.DP0.00004.001.01311.200.000.000",94.0299988,94.4633671645915,95.1299973,"PRLA","Barometric Pressure","rawBarometricPressure","On-shore MET station"
 "NEON.D09.PRLA.DP0.00004.001.01312.200.000.000",0,0,0,"PRLA","Barometric Pressure","sensorStatus","On-shore MET station"
 "NEON.D09.PRLA.DP0.00023.001.01314.200.000.000",96.7605972,98.844966447176,99.8981094,"PRLA","Shortwave/Longwave Net Radiation","sensorResistance","On-shore MET station"

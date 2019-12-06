@@ -5,7 +5,7 @@
 "NEON.D05.CRAM.DP0.00001.001.01309.200.000.000",-5.78999996,-2.4747971433157,0.920000017,"CRAM","2D Wind Speed and Direction","sensorTemp","On-shore MET station"
 "NEON.D05.CRAM.DP0.00001.001.01310.200.000.000",65,65,65,"CRAM","2D Wind Speed and Direction","2dWindSensorStatus","On-shore MET station"
 "NEON.D05.CRAM.DP0.00002.001.01325.200.000.000",94.1628189,95.5692745274837,96.910347,"CRAM","Single Aspirated Air Temperature","PRTResistance","On-shore MET station"
-"NEON.D05.CRAM.DP0.00002.001.01326.200.000.000",0,4037.19446848899,4065.00537,"CRAM","Single Aspirated Air Temperature","fanSpeed","On-shore MET station"
+"NEON.D05.CRAM.DP0.00002.001.01326.200.000.000",0,4037.19446848898,4065.00537,"CRAM","Single Aspirated Air Temperature","fanSpeed","On-shore MET station"
 "NEON.D05.CRAM.DP0.00002.001.01330.200.000.000",599.994812,708.488889641841,780.006165,"CRAM","Single Aspirated Air Temperature","turbineSpeed","On-shore MET station"
 "NEON.D05.CRAM.DP0.00004.001.01309.200.000.000",-13.75,-10.4138609148374,-6.92999983,"CRAM","Barometric Pressure","sensorTemp","On-shore MET station"
 "NEON.D05.CRAM.DP0.00004.001.01311.200.000.000",95.0199966,95.3979162361679,96.0999985,"CRAM","Barometric Pressure","rawBarometricPressure","On-shore MET station"

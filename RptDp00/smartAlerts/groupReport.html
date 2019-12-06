@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 
-<title>Aquatic Instrument Systems Report for December 03, 2019</title>
+<title>Aquatic Instrument Systems Report for December 05, 2019</title>
 
 <script type="text/javascript">
 window.onload = function() {
@@ -163,7 +163,7 @@ hr {
 </head>
 
 <body>
-<h2>Aquatic Instrument Systems Report for December 03, 2019</h2>
+<h2>Aquatic Instrument Systems Report for December 05, 2019</h2>
 
 <h3>NOTE: These reports are still being developed!</h3>
 
@@ -174,13 +174,18 @@ Please provide feedback on the reports on the <a href="https://neon.service-now.
 
 <ul>
 <li>The option to filter reports by system type </li>
-<li>Aquatic Instrument Systems Reports currently have limited logic for uptime. Enhancements to detect issues based on coefficient of variation and range values are planned in the near future.</li>
-<li>Inclusion of graphs to help with diagnosing issues is also planned.</li>
+<li>Enhancements to detect issues based on coefficient of variation and range values are planned in the near future.</li>
 </ul>
 
 <hr/>
 
-<p><em>* Last date working</em></p>
+<p><strong>KEY</strong>:</p>
+
+<ul>
+<li>[Last date working*]; applicable only to assembly/sensor fails</li>
+<li>Assembly/Sensor Fail:&nbsp;&nbsp;&lt;=5% uptime</li>
+<li>Intermittent Fail:&nbsp;&nbsp;&gt;5% &amp; &lt;80% uptime</li>
+</ul>
 
 <hr/>
 
@@ -188,18 +193,18 @@ Please provide feedback on the reports on the <a href="https://neon.service-now.
 
 <h3>HOPB:</h3>
 
-<p><strong>2D Wind Speed and Direction</strong>:</p>
+<p><strong>Nitrate in Surface Water</strong>:</p>
 
 <ul>
-<li>Intermittent assembly failure (15.3%) at on-shore met station</li>
+<li>Intermittent stream failure (<em>rawNitrateSingleCompressedStream</em> at 6.7% uptime) at stream sensor location 2</li>
 </ul>
 
 <p><strong>Specific Conductivity, Temperature, and Elevation of Groundwater</strong>:</p>
 
 <ul>
-<li>Assembly failure at ground water well 1 [2019-08-29*]</li>
-<li>Assembly failure at ground water well 3 [2019-08-29*]</li>
-<li>Assembly failure at ground water well 4 [2019-08-29*]</li>
+<li>Assembly failure at ground water well 1</li>
+<li>Assembly failure at ground water well 3</li>
+<li>Assembly failure at ground water well 4</li>
 </ul>
 
 <hr/>
@@ -208,16 +213,10 @@ Please provide feedback on the reports on the <a href="https://neon.service-now.
 
 <h3>LEWI:</h3>
 
-<p><strong>Photosynthetically Active Radiation at Water Surface</strong>:</p>
+<p><strong>Specific Conductivity, Temperature, and Elevation of Groundwater</strong>:</p>
 
 <ul>
-<li>Intermittent stream failure (<em>inPAR</em> at 60.3% uptime) at stream sensor location 1</li>
-</ul>
-
-<p><strong>Water Quality</strong>:</p>
-
-<ul>
-<li>Intermittent assembly failure (63.3%) at stream sensor location 1</li>
+<li>Assembly failure at ground water well 5</li>
 </ul>
 
 <h3>POSE:</h3>
@@ -225,7 +224,13 @@ Please provide feedback on the reports on the <a href="https://neon.service-now.
 <p><strong>Nitrate in Surface Water</strong>:</p>
 
 <ul>
-<li>Stream failure (<em>rawNitrateSingleCompressedStream</em>) at stream sensor location 2 [2019-11-29*]</li>
+<li>Excessive data&ndash; possible configuration error at stream sensor location 2</li>
+</ul>
+
+<p><strong>Specific Conductivity, Temperature, and Elevation of Groundwater</strong>:</p>
+
+<ul>
+<li>Assembly failure at ground water well 6</li>
 </ul>
 
 <hr/>
@@ -241,26 +246,13 @@ Please provide feedback on the reports on the <a href="https://neon.service-now.
 <p><strong>Nitrate in Surface Water</strong>:</p>
 
 <ul>
-<li>Stream failure (<em>rawNitrateSingleCompressedStream</em>) at buoy [2019-11-04*]</li>
-</ul>
-
-<p><strong>Water Quality</strong>:</p>
-
-<ul>
-<li>Intermittent assembly failure (72.3%) at buoy</li>
+<li>Stream failure (<em>rawNitrateSingleCompressedStream</em>) at buoy</li>
 </ul>
 
 <p><strong>Temperature at Specific Depth in Lakes</strong>:</p>
 
 <ul>
-<li>Assembly failure at buoy [&gt;6 months ago*]</li>
-</ul>
-
-<p><strong>Specific Conductivity, Temperature, and Elevation of Groundwater</strong>:</p>
-
-<ul>
-<li>Intermittent assembly failure (78.4%) at ground water well 3</li>
-<li>Intermittent assembly failure (78.4%) at ground water well 6</li>
+<li>Assembly failure at buoy</li>
 </ul>
 
 <h3>FLNT:</h3>
@@ -276,13 +268,13 @@ Please provide feedback on the reports on the <a href="https://neon.service-now.
 <p><strong>Nitrate in Surface Water</strong>:</p>
 
 <ul>
-<li>Stream failure (<em>rawNitrateSingleCompressedStream</em>) at stream sensor location 2 [2019-10-13*]</li>
+<li>Stream failure (<em>rawNitrateSingleCompressedStream</em>) at stream sensor location 2</li>
 </ul>
 
 <p><strong>Water Quality</strong>:</p>
 
 <ul>
-<li>Assembly failure at stream sensor location 1 [2019-10-20*]</li>
+<li>Assembly failure at stream sensor location 1</li>
 </ul>
 
 <h3>GUIL:</h3>
@@ -295,7 +287,11 @@ Please provide feedback on the reports on the <a href="https://neon.service-now.
 
 <h3>CRAM:</h3>
 
-<p><em>No alerts</em></p>
+<p><strong>Specific Conductivity, Temperature, and Elevation of Groundwater</strong>:</p>
+
+<ul>
+<li>Intermittent assembly failure (1.6%) at ground water well 8</li>
+</ul>
 
 <h3>LIRO:</h3>
 
@@ -310,7 +306,7 @@ Please provide feedback on the reports on the <a href="https://neon.service-now.
 <p><strong>Water Quality</strong>:</p>
 
 <ul>
-<li>Assembly failure at stream sensor location 1 [2019-11-01*]</li>
+<li>Assembly failure at stream sensor location 1</li>
 </ul>
 
 <h3>MCDI:</h3>
@@ -318,14 +314,14 @@ Please provide feedback on the reports on the <a href="https://neon.service-now.
 <p><strong>Specific Conductivity, Temperature, and Elevation of Groundwater</strong>:</p>
 
 <ul>
-<li>Assembly failure at ground water well 1 [2019-10-31*]</li>
+<li>Assembly failure at ground water well 1</li>
 <li>Intermittent assembly failure (2.8%) at ground water well 2</li>
-<li>Assembly failure at ground water well 3 [2019-10-31*]</li>
-<li>Assembly failure at ground water well 4 [2019-10-31*]</li>
-<li>Assembly failure at ground water well 5 [2019-10-31*]</li>
-<li>Assembly failure at ground water well 6 [2019-10-31*]</li>
-<li>Assembly failure at ground water well 7 [2019-10-31*]</li>
-<li>Assembly failure at ground water well 8 [2019-10-31*]</li>
+<li>Assembly failure at ground water well 3</li>
+<li>Assembly failure at ground water well 4</li>
+<li>Assembly failure at ground water well 5</li>
+<li>Assembly failure at ground water well 6</li>
+<li>Assembly failure at ground water well 7</li>
+<li>Assembly failure at ground water well 8</li>
 </ul>
 
 <hr/>
@@ -341,14 +337,14 @@ Please provide feedback on the reports on the <a href="https://neon.service-now.
 <p><strong>Nitrate in Surface Water</strong>:</p>
 
 <ul>
-<li>Stream failure (<em>rawNitrateSingleCompressedStream</em>) at stream sensor location 2 [2019-10-17*]</li>
+<li>Stream failure (<em>rawNitrateSingleCompressedStream</em>) at stream sensor location 2</li>
 </ul>
 
 <p><strong>Specific Conductivity, Temperature, and Elevation of Groundwater</strong>:</p>
 
 <ul>
-<li>Assembly failure at ground water well 2 [2019-10-01*]</li>
-<li>Assembly failure at ground water well 3 [2019-10-01*]</li>
+<li>Assembly failure at ground water well 2</li>
+<li>Assembly failure at ground water well 3</li>
 </ul>
 
 <hr/>
@@ -366,13 +362,13 @@ Please provide feedback on the reports on the <a href="https://neon.service-now.
 <p><strong>Temperature at Specific Depth in Lakes</strong>:</p>
 
 <ul>
-<li>Assembly failure at buoy [&gt;6 months ago*]</li>
+<li>Assembly failure at buoy</li>
 </ul>
 
 <p><strong>Specific Conductivity, Temperature, and Elevation of Groundwater</strong>:</p>
 
 <ul>
-<li>Assembly failure at ground water well 2 [2019-11-11*]</li>
+<li>Assembly failure at ground water well 2</li>
 </ul>
 
 <h3>MAYF:</h3>
@@ -380,13 +376,13 @@ Please provide feedback on the reports on the <a href="https://neon.service-now.
 <p><strong>Specific Conductivity, Temperature, and Elevation of Groundwater</strong>:</p>
 
 <ul>
-<li>Intermittent assembly failure (6.2%) at ground water well 1</li>
-<li>Assembly failure at ground water well 2 [2019-07-20*]</li>
-<li>Assembly failure at ground water well 3 [2019-07-20*]</li>
-<li>Assembly failure at ground water well 4 [2019-07-20*]</li>
-<li>Assembly failure at ground water well 6 [2019-07-20*]</li>
-<li>Assembly failure at ground water well 7 [2019-07-20*]</li>
-<li>Assembly failure at ground water well 8 [2019-07-20*]</li>
+<li>Intermittent assembly failure (13.9%) at ground water well 1</li>
+<li>Assembly failure at ground water well 2</li>
+<li>Assembly failure at ground water well 3</li>
+<li>Assembly failure at ground water well 4</li>
+<li>Assembly failure at ground water well 6</li>
+<li>Assembly failure at ground water well 7</li>
+<li>Assembly failure at ground water well 8</li>
 </ul>
 
 <h3>TOMB:</h3>
@@ -394,25 +390,25 @@ Please provide feedback on the reports on the <a href="https://neon.service-now.
 <p><strong>Photosynthetically Active Radiation at Water Surface</strong>:</p>
 
 <ul>
-<li>Stream failure (<em>inPAR</em>) at buoy [2019-10-04*]</li>
+<li>Stream failure (<em>inPAR</em>) at buoy</li>
 </ul>
 
 <p><strong>Nitrate in Surface Water</strong>:</p>
 
 <ul>
-<li>Stream failure (<em>rawNitrateSingleCompressedStream</em>) at buoy [2019-10-11*]</li>
+<li>Stream failure (<em>rawNitrateSingleCompressedStream</em>) at buoy</li>
 </ul>
 
 <p><strong>Water Quality</strong>:</p>
 
 <ul>
-<li>Assembly failure at buoy [2019-11-02*]</li>
+<li>Assembly failure at buoy</li>
 </ul>
 
 <p><strong>Temperature at Specific Depth in Lakes</strong>:</p>
 
 <ul>
-<li>Assembly failure at buoy [2019-10-04*]</li>
+<li>Assembly failure at buoy</li>
 </ul>
 
 <hr/>
@@ -456,7 +452,7 @@ Please provide feedback on the reports on the <a href="https://neon.service-now.
 <p><strong>Specific Conductivity, Temperature, and Elevation of Groundwater</strong>:</p>
 
 <ul>
-<li>Assembly failure at ground water well 8 [2019-11-02*]</li>
+<li>Assembly failure at ground water well 8</li>
 </ul>
 
 <hr/>
@@ -468,13 +464,7 @@ Please provide feedback on the reports on the <a href="https://neon.service-now.
 <p><strong>Nitrate in Surface Water</strong>:</p>
 
 <ul>
-<li>Stream failure (<em>rawNitrateSingleCompressedStream</em>) at stream sensor location 2 [2019-10-22*]</li>
-</ul>
-
-<p><strong>Specific Conductivity, Temperature, and Elevation of Groundwater</strong>:</p>
-
-<ul>
-<li>Assembly failure at ground water well 3 [2019-11-19*]</li>
+<li>Stream failure (<em>rawNitrateSingleCompressedStream</em>) at stream sensor location 2</li>
 </ul>
 
 <h3>WLOU:</h3>
@@ -487,10 +477,76 @@ Please provide feedback on the reports on the <a href="https://neon.service-now.
 
 <h3>SYCA:</h3>
 
+<p><strong>Single Aspirated Air Temperature</strong>:</p>
+
+<ul>
+<li>Intermittent assembly failure (41.6%) at on-shore met station</li>
+</ul>
+
+<p><strong>2D Wind Speed and Direction</strong>:</p>
+
+<ul>
+<li>Intermittent assembly failure (41.8%) at on-shore met station</li>
+</ul>
+
+<p><strong>Photosynthetically Active Radiation at Water Surface</strong>:</p>
+
+<ul>
+<li>Intermittent stream failure (<em>inPAR</em> at 42% uptime) at stream sensor location 1</li>
+<li>Intermittent stream failure (<em>inPAR</em> at 41.9% uptime) at stream sensor location 1</li>
+<li>Intermittent stream failure (<em>inPAR</em> at 42% uptime) at stream sensor location 2</li>
+<li>Intermittent stream failure (<em>inPAR</em> at 41.9% uptime) at stream sensor location 2</li>
+</ul>
+
+<p><strong>Nitrate in Surface Water</strong>:</p>
+
+<ul>
+<li>Intermittent stream failure (<em>rawNitrateSingleCompressedStream</em> at 41.7% uptime) at stream sensor location 2</li>
+</ul>
+
 <p><strong>Water Quality</strong>:</p>
 
 <ul>
-<li>Assembly failure at stream sensor location 2 [2019-11-29*]</li>
+<li>Intermittent assembly failure (40.8%) at stream sensor location 1</li>
+<li>Stream failure (<em>wiperPosition</em>) at stream sensor location 2</li>
+<li>Intermittent stream failure (<em>specificConductance</em> at 41% uptime) at stream sensor location 2</li>
+<li>Intermittent stream failure (<em>dissolvedOxygen</em> at 42% uptime) at stream sensor location 2</li>
+<li>Intermittent stream failure (<em>dissolvedOxygenSaturation</em> at 42% uptime) at stream sensor location 2</li>
+<li>Intermittent stream failure (<em>conductance</em> at 41% uptime) at stream sensor location 2</li>
+<li>Intermittent stream failure (<em>conductance</em> at 42% uptime) at stream sensor location 2</li>
+<li>Intermittent stream failure (<em>batteryVoltage</em> at 41% uptime) at stream sensor location 2</li>
+<li>Intermittent stream failure (<em>batteryVoltage</em> at 41.9% uptime) at stream sensor location 2</li>
+<li>Intermittent stream failure (<em>batteryVoltage</em> at 42% uptime) at stream sensor location 2</li>
+<li>Intermittent stream failure (<em>surfaceWaterTemperature</em> at 41% uptime) at stream sensor location 2</li>
+<li>Intermittent stream failure (<em>surfaceWaterTemperature</em> at 41.9% uptime) at stream sensor location 2</li>
+<li>Intermittent stream failure (<em>sensorVoltage</em> at 42% uptime) at stream sensor location 2</li>
+<li>Intermittent stream failure (<em>pH</em> at 42% uptime) at stream sensor location 2</li>
+<li>Intermittent stream failure (<em>pHvoltage</em> at 42% uptime) at stream sensor location 2</li>
+<li>Intermittent stream failure (<em>blueGreenAlgaePhycocyanin</em> at 42% uptime) at stream sensor location 2</li>
+<li>Intermittent stream failure (<em>blueGreenAlgaePhycocyanin</em> at 41% uptime) at stream sensor location 2</li>
+<li>Intermittent stream failure (<em>chlorophyll</em> at 42% uptime) at stream sensor location 2</li>
+<li>Intermittent stream failure (<em>chlorophyll</em> at 41% uptime) at stream sensor location 2</li>
+<li>Intermittent stream failure (<em>turbidity</em> at 42% uptime) at stream sensor location 2</li>
+<li>Intermittent stream failure (<em>sondeSurfaceWaterPressure</em> at 41% uptime) at stream sensor location 2</li>
+<li>Intermittent stream failure (<em>sondeSurfaceWaterPressure</em> at 42% uptime) at stream sensor location 2</li>
+<li>Intermittent stream failure (<em>sensorDepth</em> at 41% uptime) at stream sensor location 2</li>
+<li>Intermittent stream failure (<em>sensorDepth</em> at 42% uptime) at stream sensor location 2</li>
+<li>Intermittent stream failure (<em>chlorophyllRaw</em> at 42% uptime) at stream sensor location 2</li>
+<li>Intermittent stream failure (<em>chlorophyllRaw</em> at 41% uptime) at stream sensor location 2</li>
+<li>Intermittent stream failure (<em>blueGreenAlgaeRaw</em> at 42% uptime) at stream sensor location 2</li>
+<li>Intermittent stream failure (<em>turbidityRaw</em> at 42% uptime) at stream sensor location 2</li>
+<li>Intermittent stream failure (<em>wiperPosition</em> at 42% uptime) at stream sensor location 2</li>
+<li>Intermittent stream failure (<em>wiperPosition</em> at 0% uptime) at stream sensor location 2</li>
+<li>Intermittent stream failure (<em>fDOM</em> at 41% uptime) at stream sensor location 2</li>
+</ul>
+
+<p><strong>Specific Conductivity, Temperature, and Elevation of Groundwater</strong>:</p>
+
+<ul>
+<li>Intermittent assembly failure (41.7%) at ground water well 1</li>
+<li>Intermittent assembly failure (41.7%) at ground water well 2</li>
+<li>Intermittent assembly failure (41.7%) at ground water well 3</li>
+<li>Intermittent assembly failure (41.7%) at ground water well 4</li>
 </ul>
 
 <hr/>
@@ -507,11 +563,7 @@ Please provide feedback on the reports on the <a href="https://neon.service-now.
 
 <h3>MART:</h3>
 
-<p><strong>Specific Conductivity, Temperature, and Elevation of Groundwater</strong>:</p>
-
-<ul>
-<li>Intermittent assembly failure (10.8%) at ground water well 4</li>
-</ul>
+<p><em>No alerts</em></p>
 
 <h3>MCRA:</h3>
 
@@ -535,18 +587,7 @@ Please provide feedback on the reports on the <a href="https://neon.service-now.
 
 <h3>TOOK:</h3>
 
-<p><strong>2D Wind Speed and Direction</strong>:</p>
-
-<ul>
-<li>Intermittent assembly failure (62.8%) at on-shore met station</li>
-</ul>
-
-<p><strong>Specific Conductivity, Temperature, and Elevation of Groundwater</strong>:</p>
-
-<ul>
-<li>Assembly failure at lake inlet [2019-09-30*]</li>
-<li>Assembly failure at lake outlet [2019-09-30*]</li>
-</ul>
+<p><em>No alerts</em></p>
 
 <hr/>
 
@@ -557,8 +598,8 @@ Please provide feedback on the reports on the <a href="https://neon.service-now.
 <p><strong>Photosynthetically Active Radiation at Water Surface</strong>:</p>
 
 <ul>
-<li>Stream failure (<em>inPAR</em>) at stream sensor location 1 [2019-10-18*]</li>
-<li>Stream failure (<em>inPAR</em>) at stream sensor location 2 [2019-10-18*]</li>
+<li>Stream failure (<em>inPAR</em>) at stream sensor location 1</li>
+<li>Stream failure (<em>inPAR</em>) at stream sensor location 2</li>
 </ul>
 
 <hr/>
@@ -566,6 +607,8 @@ Please provide feedback on the reports on the <a href="https://neon.service-now.
 <h2>D20</h2>
 
 <hr/>
+
+<p>NEON fun fact: Yesterday (2019-12-05), D16 had the highest average uptime! (98%)</p>
 
 <p><em>To unsubscribe from these reports, please email Robert Lee at <a href="mailto:rlee@battelleecology.org">rlee@battelleecology.org</a>. Please specify if you&#39;d like to modify your subscription or completely unsubscribe.</em></p>
 
