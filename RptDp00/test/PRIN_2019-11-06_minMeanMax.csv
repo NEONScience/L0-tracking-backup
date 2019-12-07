@@ -131,7 +131,7 @@
 "NEON.D11.PRIN.DP0.20016.001.01378.132.100.000",12.8551483,13.2678607893676,14.2984467,"PRIN","Elevation of surface water","surfaceWaterTemperature","Stream sensor location 2"
 "NEON.D11.PRIN.DP0.20016.001.01379.110.100.000",5.96493292,5.98675913679639,6.00268507,"PRIN","Elevation of surface water","surfaceWaterPressure","Staff gauge"
 "NEON.D11.PRIN.DP0.20016.001.01379.132.100.000",7.4464817,7.47898313387769,7.50012875,"PRIN","Elevation of surface water","surfaceWaterPressure","Stream sensor location 2"
-"NEON.D11.PRIN.DP0.20033.001.02242.102.100.000",30,301.331960297767,316.02,"PRIN","Nitrate in surface water","rawNitrateSingleCompressedStream","Stream sensor location 2"
+"NEON.D11.PRIN.DP0.20033.001.02242.102.100.000",0,14.1954838709677,16.02,"PRIN","Nitrate in surface water","rawNitrateSingleCompressedStream","Stream sensor location 2"
 "NEON.D11.PRIN.DP0.20042.001.01320.111.100.000",1.66874306e-05,0.000358149469437321,0.00385509711,"PRIN","Photosynthetically active radiation at water surface","inPAR","Stream sensor location 1"
 "NEON.D11.PRIN.DP0.20042.001.01320.112.100.000",-2.16061608e-06,0.00024419560432642,0.00263142632,"PRIN","Photosynthetically active radiation at water surface","inPAR","Stream sensor location 2"
 "NEON.D11.PRIN.DP0.20053.001.01325.101.100.000",104.685226,104.948306503819,105.330833,"PRIN","Temperature (PRT) in surface water","PRTResistance","Stream sensor location 1"

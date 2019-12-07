@@ -119,7 +119,7 @@
 "NEON.D06.KING.DP0.20016.001.01377.132.100.000",0,0,0,"KING","Elevation of surface water","pressureDataQualityID","Stream sensor location 2"
 "NEON.D06.KING.DP0.20016.001.01378.132.100.000",11.1087341,11.8118446895139,13.5636902,"KING","Elevation of surface water","surfaceWaterTemperature","Stream sensor location 2"
 "NEON.D06.KING.DP0.20016.001.01379.132.100.000",10.2523861,10.2884050731944,10.3144798,"KING","Elevation of surface water","surfaceWaterPressure","Stream sensor location 2"
-"NEON.D06.KING.DP0.20033.001.02242.102.100.000",30,31.3347718253968,32.93,"KING","Nitrate in surface water","rawNitrateSingleCompressedStream","Stream sensor location 2"
+"NEON.D06.KING.DP0.20033.001.02242.102.100.000",0,1.33477182539683,2.93,"KING","Nitrate in surface water","rawNitrateSingleCompressedStream","Stream sensor location 2"
 "NEON.D06.KING.DP0.20042.001.01320.111.100.000",-7.49918991e-06,0.00104902755052409,0.00924368016,"KING","Photosynthetically active radiation at water surface","inPAR","Stream sensor location 1"
 "NEON.D06.KING.DP0.20042.001.01320.112.100.000",-6.4515838e-08,0.000625668624774784,0.00583639881,"KING","Photosynthetically active radiation at water surface","inPAR","Stream sensor location 2"
 "NEON.D06.KING.DP0.20053.001.01325.101.100.000",103.183731,103.500636977454,104.53376,"KING","Temperature (PRT) in surface water","PRTResistance","Stream sensor location 1"

@@ -115,6 +115,6 @@
 "NEON.D11.BLUE.DP0.20016.001.01377.110.100.000",0,0,0,"BLUE","Elevation of surface water","pressureDataQualityID","Staff gauge"
 "NEON.D11.BLUE.DP0.20016.001.01378.110.100.000",12.388916,14.7736218926421,15.7768097,"BLUE","Elevation of surface water","surfaceWaterTemperature","Staff gauge"
 "NEON.D11.BLUE.DP0.20016.001.01379.110.100.000",8.13160992,8.18307807365385,8.24615288,"BLUE","Elevation of surface water","surfaceWaterPressure","Staff gauge"
-"NEON.D11.BLUE.DP0.20033.001.02242.112.100.000",30,322.021911764706,337.55,"BLUE","Nitrate in surface water","rawNitrateSingleCompressedStream","Stream sensor location 2"
+"NEON.D11.BLUE.DP0.20033.001.02242.112.100.000",0,34.8790546218487,37.55,"BLUE","Nitrate in surface water","rawNitrateSingleCompressedStream","Stream sensor location 2"
 "NEON.D11.BLUE.DP0.20042.001.01320.112.100.000",-2.68017516e-06,0.000107101765978942,0.00124163169,"BLUE","Photosynthetically active radiation at water surface","inPAR","Stream sensor location 2"
 "NEON.D11.BLUE.DP0.20053.001.01325.112.100.000",104.809464,105.712376252512,106.112114,"BLUE","Temperature (PRT) in surface water","PRTResistance","Stream sensor location 2"

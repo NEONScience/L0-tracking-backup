@@ -111,7 +111,7 @@
 "NEON.D04.GUIL.DP0.20016.001.01378.131.100.000",94.7916647708334,"GUIL","Elevation of surface water","surfaceWaterTemperature","Stream sensor location 1"
 "NEON.D04.GUIL.DP0.20016.001.01379.110.100.000",0,"GUIL","Elevation of surface water","surfaceWaterPressure","Staff gauge"
 "NEON.D04.GUIL.DP0.20016.001.01379.131.100.000",94.7916647708334,"GUIL","Elevation of surface water","surfaceWaterPressure","Stream sensor location 1"
-"NEON.D04.GUIL.DP0.20033.001.02242.102.100.000",88.4259259259259,"GUIL","Nitrate in surface water","rawNitrateSingleCompressedStream","Stream sensor location 2"
+"NEON.D04.GUIL.DP0.20033.001.02242.102.100.000",94.8776029248132,"GUIL","Nitrate in surface water","rawNitrateSingleCompressedStream","Stream sensor location 2"
 "NEON.D04.GUIL.DP0.20042.001.01320.111.100.000",94.8668981481482,"GUIL","Photosynthetically active radiation at water surface","inPAR","Stream sensor location 1"
 "NEON.D04.GUIL.DP0.20042.001.01320.112.100.000",94.8645833333333,"GUIL","Photosynthetically active radiation at water surface","inPAR","Stream sensor location 2"
 "NEON.D04.GUIL.DP0.20053.001.01325.101.100.000",94.8784722222222,"GUIL","Temperature (PRT) in surface water","PRTResistance","Stream sensor location 1"

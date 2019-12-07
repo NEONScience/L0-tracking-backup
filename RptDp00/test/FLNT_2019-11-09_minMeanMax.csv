@@ -12,7 +12,7 @@
 "NEON.D03.FLNT.DP0.00004.001.01312.200.000.000",0,0,0,"FLNT","Barometric Pressure","sensorStatus","On-shore MET station"
 "NEON.D03.FLNT.DP0.00023.001.01314.200.000.000",102.229797,105.138844619734,108.776764,"FLNT","Shortwave/Longwave Net Radiation","sensorResistance","On-shore MET station"
 "NEON.D03.FLNT.DP0.00023.001.01315.200.000.000",-6.69840229e-05,0.00242019292276646,0.0148614869,"FLNT","Shortwave/Longwave Net Radiation","inNetRadPyranometer","On-shore MET station"
-"NEON.D03.FLNT.DP0.00023.001.01316.200.000.000",-7.00464511e-07,0.00041162913890046,0.00209762249,"FLNT","Shortwave/Longwave Net Radiation","outNetRadPyranometer","On-shore MET station"
+"NEON.D03.FLNT.DP0.00023.001.01316.200.000.000",-7.00464511e-07,0.000411629138900459,0.00209762249,"FLNT","Shortwave/Longwave Net Radiation","outNetRadPyranometer","On-shore MET station"
 "NEON.D03.FLNT.DP0.00023.001.01317.200.000.000",-0.00100444537,-0.000529965991718484,-7.95534506e-05,"FLNT","Shortwave/Longwave Net Radiation","inNetRadPyrgeometer","On-shore MET station"
 "NEON.D03.FLNT.DP0.00023.001.01318.200.000.000",-0.000189268467,3.99734235769857e-06,0.000281446992,"FLNT","Shortwave/Longwave Net Radiation","outNetRadPyrgeometer","On-shore MET station"
 "NEON.D03.FLNT.DP0.00024.001.01320.200.000.000",-8.80586867e-06,0.00118860416066338,0.00671351887,"FLNT","Photosynthetically Active Radiation","inPAR","On-shore MET station"

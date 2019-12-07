@@ -131,7 +131,7 @@
 "NEON.D10.ARIK.DP0.20016.001.01378.102.100.000",3.91542053,5.56985961069444,7.48831177,"ARIK","Elevation of surface water","surfaceWaterTemperature","Stream sensor location 2"
 "NEON.D10.ARIK.DP0.20016.001.01379.101.100.000",5.77416897,6.01724195704861,6.20742369,"ARIK","Elevation of surface water","surfaceWaterPressure","Stream sensor location 1"
 "NEON.D10.ARIK.DP0.20016.001.01379.102.100.000",8.93937397,8.98974182221528,9.05541801,"ARIK","Elevation of surface water","surfaceWaterPressure","Stream sensor location 2"
-"NEON.D10.ARIK.DP0.20033.001.02242.102.100.000",30,36.3966865079365,38.42,"ARIK","Nitrate in surface water","rawNitrateSingleCompressedStream","Stream sensor location 2"
+"NEON.D10.ARIK.DP0.20033.001.02242.102.100.000",0,6.39668650793651,8.42,"ARIK","Nitrate in surface water","rawNitrateSingleCompressedStream","Stream sensor location 2"
 "NEON.D10.ARIK.DP0.20042.001.01320.101.100.000",-2.89727905e-06,0.0010444929880452,0.00535821076,"ARIK","Photosynthetically active radiation at water surface","inPAR","Stream sensor location 1"
 "NEON.D10.ARIK.DP0.20042.001.01320.102.100.000",-2.20727702e-06,0.000690317966878579,0.00484590791,"ARIK","Photosynthetically active radiation at water surface","inPAR","Stream sensor location 2"
 "NEON.D10.ARIK.DP0.20053.001.01325.101.100.000",101.605858,102.060767996366,102.980919,"ARIK","Temperature (PRT) in surface water","PRTResistance","Stream sensor location 1"

@@ -1,5 +1,5 @@
 "streams","minimum","mean","maximum","site","dp.name","term.name","location"
-"NEON.D19.CARI.DP0.00001.001.01306.200.000.000",-1.71000004,-0.0598093639076447,0.959999979,"CARI","2D Wind Speed and Direction","uVectorComponent","On-shore MET station"
+"NEON.D19.CARI.DP0.00001.001.01306.200.000.000",-1.71000004,-0.0598093639076446,0.959999979,"CARI","2D Wind Speed and Direction","uVectorComponent","On-shore MET station"
 "NEON.D19.CARI.DP0.00001.001.01307.200.000.000",-1.71000004,0.0256744024690021,1.41999996,"CARI","2D Wind Speed and Direction","vVectorComponent","On-shore MET station"
 "NEON.D19.CARI.DP0.00001.001.01310.200.000.000",60,60,60,"CARI","2D Wind Speed and Direction","2dWindSensorStatus","On-shore MET station"
 "NEON.D19.CARI.DP0.00002.001.01325.200.000.000",92.9237823,96.0810956994942,98.047699,"CARI","Single Aspirated Air Temperature","PRTResistance","On-shore MET station"

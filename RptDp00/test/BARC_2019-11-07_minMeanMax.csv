@@ -138,5 +138,5 @@
 "NEON.D03.BARC.DP0.20264.001.02896.103.100.000",NA,NA,NA,"BARC","Temperature at specific depth in lakes","depth9WaterTemp","Buoy"
 "NEON.D03.BARC.DP0.20271.001.01309.103.100.000",20.6280003,21.1554563464945,22.7080002,"BARC","Relative Humidity of the air above lakes on buoy","sensorTemp","Buoy"
 "NEON.D03.BARC.DP0.20271.001.01357.103.100.000",84.2699966,93.3462287275523,95.9830017,"BARC","Relative Humidity of the air above lakes on buoy","RH","Buoy"
-"NEON.D03.BARC.DP0.20271.001.01358.103.100.000",19.6310005,19.9829458645757,20.7000008,"BARC","Relative Humidity of the air above lakes on buoy","dewPoint","Buoy"
+"NEON.D03.BARC.DP0.20271.001.01358.103.100.000",19.6310005,19.9829458645756,20.7000008,"BARC","Relative Humidity of the air above lakes on buoy","dewPoint","Buoy"
 "NEON.D03.BARC.DP0.20271.001.01359.103.100.000",-1,-1,-1,"BARC","Relative Humidity of the air above lakes on buoy","RHStatus","Buoy"

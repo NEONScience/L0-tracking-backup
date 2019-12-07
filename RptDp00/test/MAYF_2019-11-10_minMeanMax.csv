@@ -129,7 +129,7 @@
 "NEON.D08.MAYF.DP0.20016.001.01379.110.100.000",3.59989381,3.62152314075694,3.66343141,"MAYF","Elevation of surface water","surfaceWaterPressure","Staff gauge"
 "NEON.D08.MAYF.DP0.20016.001.01379.131.100.000",2.73100686,2.74963507013889,2.78757381,"MAYF","Elevation of surface water","surfaceWaterPressure","Stream sensor location 1"
 "NEON.D08.MAYF.DP0.20016.001.01379.132.100.000",4.72058868,4.73786497417361,4.76701546,"MAYF","Elevation of surface water","surfaceWaterPressure","Stream sensor location 2"
-"NEON.D08.MAYF.DP0.20033.001.02242.102.100.000",30,30.0129896907216,31.26,"MAYF","Nitrate in surface water","rawNitrateSingleCompressedStream","Stream sensor location 2"
+"NEON.D08.MAYF.DP0.20033.001.02242.102.100.000",-1.81,-1.38832341269841,1.26,"MAYF","Nitrate in surface water","rawNitrateSingleCompressedStream","Stream sensor location 2"
 "NEON.D08.MAYF.DP0.20042.001.01320.111.100.000",-4.54448445e-06,3.9715910884876e-05,0.00157619966,"MAYF","Photosynthetically active radiation at water surface","inPAR","Stream sensor location 1"
 "NEON.D08.MAYF.DP0.20042.001.01320.112.100.000",-0.00444837706,0.00355909674901419,0.0459924601,"MAYF","Photosynthetically active radiation at water surface","inPAR","Stream sensor location 2"
 "NEON.D08.MAYF.DP0.20053.001.01325.101.100.000",103.621193,104.115377064271,104.669571,"MAYF","Temperature (PRT) in surface water","PRTResistance","Stream sensor location 1"
