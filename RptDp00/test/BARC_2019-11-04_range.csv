@@ -32,7 +32,7 @@
 "NEON.D03.BARC.DP0.20005.001.01647.103.100.000",NA,"BARC","Water Quality","sensorVoltage","Buoy"
 "NEON.D03.BARC.DP0.20005.001.01657.103.100.000",100,"BARC","Water Quality","pH","Buoy"
 "NEON.D03.BARC.DP0.20005.001.01658.103.100.000",NA,"BARC","Water Quality","pHvoltage","Buoy"
-"NEON.D03.BARC.DP0.20005.001.01659.103.100.000",90,"BARC","Water Quality","blueGreenAlgaePhycocyanin","Buoy"
+"NEON.D03.BARC.DP0.20005.001.01659.103.100.000",100,"BARC","Water Quality","blueGreenAlgaePhycocyanin","Buoy"
 "NEON.D03.BARC.DP0.20005.001.01660.103.100.000",100,"BARC","Water Quality","chlorophyll","Buoy"
 "NEON.D03.BARC.DP0.20005.001.01661.103.100.000",100,"BARC","Water Quality","fDOM","Buoy"
 "NEON.D03.BARC.DP0.20005.001.01662.103.100.000",0,"BARC","Water Quality","turbidity","Buoy"

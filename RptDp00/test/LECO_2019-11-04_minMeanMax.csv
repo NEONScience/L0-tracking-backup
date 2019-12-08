@@ -22,7 +22,7 @@
 "NEON.D07.LECO.DP0.00098.001.01359.200.000.000",0,0,0,"LECO","Relative Humidity","RHStatus","On-shore MET station"
 "NEON.D07.LECO.DP0.20005.001.01093.101.100.000",NA,NA,NA,"LECO","Water Quality","specificConductance","Stream sensor location 1"
 "NEON.D07.LECO.DP0.20005.001.01093.102.100.000",16.0799999,16.2079582555556,16.8500004,"LECO","Water Quality","specificConductance","Stream sensor location 2"
-"NEON.D07.LECO.DP0.20005.001.01093.112.100.000",16.5,16.6343980467649,17.0599995,"LECO","Water Quality","specificConductance","Stream sensor location 2"
+"NEON.D07.LECO.DP0.20005.001.01093.112.100.000",16.5,16.634398046765,17.0599995,"LECO","Water Quality","specificConductance","Stream sensor location 2"
 "NEON.D07.LECO.DP0.20005.001.01151.101.100.000",NA,NA,NA,"LECO","Water Quality","dissolvedOxygen","Stream sensor location 1"
 "NEON.D07.LECO.DP0.20005.001.01151.102.100.000",NA,NA,NA,"LECO","Water Quality","dissolvedOxygen","Stream sensor location 2"
 "NEON.D07.LECO.DP0.20005.001.01151.112.100.000",11.3000002,11.8583450451991,17.0499992,"LECO","Water Quality","dissolvedOxygen","Stream sensor location 2"

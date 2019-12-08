@@ -124,7 +124,7 @@
 "NEON.D13.WLOU.DP0.20016.001.01378.102.100.000",0.313842773,0.412445667183602,0.490234375,"WLOU","Elevation of surface water","surfaceWaterTemperature","Stream sensor location 2"
 "NEON.D13.WLOU.DP0.20016.001.01379.101.100.000",2.24729776,2.26777449195042,2.28355742,"WLOU","Elevation of surface water","surfaceWaterPressure","Stream sensor location 1"
 "NEON.D13.WLOU.DP0.20016.001.01379.102.100.000",3.2576654,3.29621568016118,3.31050825,"WLOU","Elevation of surface water","surfaceWaterPressure","Stream sensor location 2"
-"NEON.D13.WLOU.DP0.20033.001.02242.102.100.000",30,2106.87731560462,4134751,"WLOU","Nitrate in surface water","rawNitrateSingleCompressedStream","Stream sensor location 2"
+"NEON.D13.WLOU.DP0.20033.001.02242.102.100.000",0,2.25677208835341,2.75,"WLOU","Nitrate in surface water","rawNitrateSingleCompressedStream","Stream sensor location 2"
 "NEON.D13.WLOU.DP0.20042.001.01320.101.100.000",-2.78653647e-06,8.88697907513633e-05,0.00115950895,"WLOU","Photosynthetically active radiation at water surface","inPAR","Stream sensor location 1"
 "NEON.D13.WLOU.DP0.20042.001.01320.102.100.000",-1.90781475e-06,3.12025216945861e-05,0.000473337772,"WLOU","Photosynthetically active radiation at water surface","inPAR","Stream sensor location 2"
 "NEON.D13.WLOU.DP0.20053.001.01325.101.100.000",100.078735,100.137362767642,100.181381,"WLOU","Temperature (PRT) in surface water","PRTResistance","Stream sensor location 1"

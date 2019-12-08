@@ -104,7 +104,7 @@
 "NEON.D03.SUGG.DP0.20032.001.01316.103.100.000",-0.00976736378,-0.00435744640806979,0.00465338677,"SUGG","Shortwave/Longwave Net Radiation","outNetRadPyranometer","Buoy"
 "NEON.D03.SUGG.DP0.20032.001.01317.103.100.000",-0.00807607453,-0.00579059482055107,0.00228037778,"SUGG","Shortwave/Longwave Net Radiation","inNetRadPyrgeometer","Buoy"
 "NEON.D03.SUGG.DP0.20032.001.01318.103.100.000",-0.00807704963,-0.00574814349241144,0.00504851155,"SUGG","Shortwave/Longwave Net Radiation","outNetRadPyrgeometer","Buoy"
-"NEON.D03.SUGG.DP0.20033.001.02242.103.100.000",30,75.3143137254902,3283.35,"SUGG","Nitrate in surface water","rawNitrateSingleCompressedStream","Buoy"
+"NEON.D03.SUGG.DP0.20033.001.02242.103.100.000",-2459.85,-9.58931547619048,283.35,"SUGG","Nitrate in surface water","rawNitrateSingleCompressedStream","Buoy"
 "NEON.D03.SUGG.DP0.20042.001.01320.103.100.000",-0.0119424555,-0.00725559560781863,0.00184475759,"SUGG","Photosynthetically active radiation at water surface","inPAR","Buoy"
 "NEON.D03.SUGG.DP0.20054.001.01371.130.100.000",50.621685,68.5860814845455,84.7845306,"SUGG","c(""Specific Conductivity, Temperature, and Elevation of Surface Water"", ""Temperature (digital thermistor) of surface water"")","conductance","Lake inlet"
 "NEON.D03.SUGG.DP0.20054.001.01371.140.100.000",65.4084167,66.5775642066667,69.3915482,"SUGG","c(""Specific Conductivity, Temperature, and Elevation of Surface Water"", ""Temperature (digital thermistor) of surface water"")","conductance","Lake outlet"

@@ -35,7 +35,7 @@
 "NEON.D03.SUGG.DP0.20005.001.01659.103.100.000",0,"SUGG","Water Quality","blueGreenAlgaePhycocyanin","Buoy"
 "NEON.D03.SUGG.DP0.20005.001.01660.103.100.000",100,"SUGG","Water Quality","chlorophyll","Buoy"
 "NEON.D03.SUGG.DP0.20005.001.01661.103.100.000",100,"SUGG","Water Quality","fDOM","Buoy"
-"NEON.D03.SUGG.DP0.20005.001.01662.103.100.000",15,"SUGG","Water Quality","turbidity","Buoy"
+"NEON.D03.SUGG.DP0.20005.001.01662.103.100.000",20,"SUGG","Water Quality","turbidity","Buoy"
 "NEON.D03.SUGG.DP0.20005.001.01663.103.100.000",0,"SUGG","Water Quality","sondeSurfaceWaterPressure","Buoy"
 "NEON.D03.SUGG.DP0.20005.001.01664.103.100.000",100,"SUGG","Water Quality","sensorDepth","Buoy"
 "NEON.D03.SUGG.DP0.20005.001.01666.103.100.000",NA,"SUGG","Water Quality","chlorophyllRaw","Buoy"

@@ -124,7 +124,7 @@
 "NEON.D12.BLDE.DP0.20016.001.01378.102.100.000",0.189346313,0.200380929304167,0.221115112,"BLDE","Elevation of surface water","surfaceWaterTemperature","Stream sensor location 2"
 "NEON.D12.BLDE.DP0.20016.001.01379.101.100.000",4.25266886,4.45925075311111,4.76987267,"BLDE","Elevation of surface water","surfaceWaterPressure","Stream sensor location 1"
 "NEON.D12.BLDE.DP0.20016.001.01379.102.100.000",3.34130812,3.73555711165278,4.1744709,"BLDE","Elevation of surface water","surfaceWaterPressure","Stream sensor location 2"
-"NEON.D12.BLDE.DP0.20033.001.02242.102.100.000",30,35.0464863523573,35.82,"BLDE","Nitrate in surface water","rawNitrateSingleCompressedStream","Stream sensor location 2"
+"NEON.D12.BLDE.DP0.20033.001.02242.102.100.000",0,5.04648635235732,5.82,"BLDE","Nitrate in surface water","rawNitrateSingleCompressedStream","Stream sensor location 2"
 "NEON.D12.BLDE.DP0.20042.001.01320.101.100.000",-5.68029054e-06,0.000654752383011764,0.0053176675,"BLDE","Photosynthetically active radiation at water surface","inPAR","Stream sensor location 1"
 "NEON.D12.BLDE.DP0.20042.001.01320.102.100.000",-5.28073815e-06,0.00075665153240653,0.00627393275,"BLDE","Photosynthetically active radiation at water surface","inPAR","Stream sensor location 2"
 "NEON.D12.BLDE.DP0.20053.001.01325.101.100.000",100.119751,100.126344662371,100.130035,"BLDE","Temperature (PRT) in surface water","PRTResistance","Stream sensor location 1"

@@ -21,7 +21,7 @@
 "NEON.D13.COMO.DP0.00098.001.01358.200.000.000",-18.6369991,-13.7294475009718,-8.56799984,"COMO","Relative Humidity","dewPoint","On-shore MET station"
 "NEON.D13.COMO.DP0.00098.001.01359.200.000.000",0,0,0,"COMO","Relative Humidity","RHStatus","On-shore MET station"
 "NEON.D13.COMO.DP0.20005.001.01093.101.100.000",34.5699997,34.8282221640972,35.0499992,"COMO","Water Quality","specificConductance","Stream sensor location 1"
-"NEON.D13.COMO.DP0.20005.001.01093.102.100.000",34.3100014,34.6366666711806,35.4300003,"COMO","Water Quality","specificConductance","Stream sensor location 2"
+"NEON.D13.COMO.DP0.20005.001.01093.102.100.000",34.3100014,34.6366666711805,35.4300003,"COMO","Water Quality","specificConductance","Stream sensor location 2"
 "NEON.D13.COMO.DP0.20005.001.01151.101.100.000",9.96000004,10.0078263552917,10.0600004,"COMO","Water Quality","dissolvedOxygen","Stream sensor location 1"
 "NEON.D13.COMO.DP0.20005.001.01151.102.100.000",10.1199999,10.1586666003472,10.1999998,"COMO","Water Quality","dissolvedOxygen","Stream sensor location 2"
 "NEON.D13.COMO.DP0.20005.001.01360.101.100.000",68.6200027,68.8801528160417,69.2300034,"COMO","Water Quality","dissolvedOxygenSaturation","Stream sensor location 1"

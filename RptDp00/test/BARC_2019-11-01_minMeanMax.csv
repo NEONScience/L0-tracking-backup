@@ -104,7 +104,7 @@
 "NEON.D03.BARC.DP0.20032.001.01316.103.100.000",-7.97439352e-05,0.000244660474579647,0.00108370825,"BARC","Shortwave/Longwave Net Radiation","outNetRadPyranometer","Buoy"
 "NEON.D03.BARC.DP0.20032.001.01317.103.100.000",-0.000690597459,-0.000254581583577917,1.09325138e-05,"BARC","Shortwave/Longwave Net Radiation","inNetRadPyrgeometer","Buoy"
 "NEON.D03.BARC.DP0.20032.001.01318.103.100.000",4.76671958e-05,0.000303323438532291,0.000503913325,"BARC","Shortwave/Longwave Net Radiation","outNetRadPyrgeometer","Buoy"
-"NEON.D03.BARC.DP0.20033.001.02242.103.100.000",32.46,33.7123674911661,34.15,"BARC","Nitrate in surface water","rawNitrateSingleCompressedStream","Buoy"
+"NEON.D03.BARC.DP0.20033.001.02242.103.100.000",2.46,3.71236749116608,4.15,"BARC","Nitrate in surface water","rawNitrateSingleCompressedStream","Buoy"
 "NEON.D03.BARC.DP0.20042.001.01320.103.100.000",-6.71702264e-06,0.00154553970576347,0.00811752025,"BARC","Photosynthetically active radiation at water surface","inPAR","Buoy"
 "NEON.D03.BARC.DP0.20054.001.01371.130.100.000",28.093874,28.5133767221682,28.9806557,"BARC","c(""Specific Conductivity, Temperature, and Elevation of Surface Water"", ""Temperature (digital thermistor) of surface water"")","conductance","Lake inlet"
 "NEON.D03.BARC.DP0.20054.001.01371.140.100.000",27.4502468,28.2556651017361,29.3169327,"BARC","c(""Specific Conductivity, Temperature, and Elevation of Surface Water"", ""Temperature (digital thermistor) of surface water"")","conductance","Lake outlet"
