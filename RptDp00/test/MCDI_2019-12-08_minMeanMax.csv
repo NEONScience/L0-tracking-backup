@@ -21,7 +21,7 @@
 "NEON.D06.MCDI.DP0.00098.001.01358.200.000.000",-3.55800009,0.759138410531406,4.67500019,"MCDI","Relative Humidity","dewPoint","On-shore MET station"
 "NEON.D06.MCDI.DP0.00098.001.01359.200.000.000",0,0,0,"MCDI","Relative Humidity","RHStatus","On-shore MET station"
 "NEON.D06.MCDI.DP0.20005.001.01093.101.100.000",605.73999,615.916574239161,624.150024,"MCDI","Water Quality","specificConductance","Stream sensor location 1"
-"NEON.D06.MCDI.DP0.20005.001.01093.102.100.000",608.090027,612.964094661076,619.049988,"MCDI","Water Quality","specificConductance","Stream sensor location 2"
+"NEON.D06.MCDI.DP0.20005.001.01093.102.100.000",608.090027,612.964094661077,619.049988,"MCDI","Water Quality","specificConductance","Stream sensor location 2"
 "NEON.D06.MCDI.DP0.20005.001.01151.101.100.000",10.2200003,11.3785035034266,12.9499998,"MCDI","Water Quality","dissolvedOxygen","Stream sensor location 1"
 "NEON.D06.MCDI.DP0.20005.001.01151.102.100.000",9.55000019,11.1021872727533,13.6700001,"MCDI","Water Quality","dissolvedOxygen","Stream sensor location 2"
 "NEON.D06.MCDI.DP0.20005.001.01360.101.100.000",80.4599991,90.7519580139161,105.610001,"MCDI","Water Quality","dissolvedOxygenSaturation","Stream sensor location 1"
