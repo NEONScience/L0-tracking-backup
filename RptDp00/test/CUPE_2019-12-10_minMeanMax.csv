@@ -7,7 +7,7 @@
 "NEON.D04.CUPE.DP0.00002.001.01325.200.000.000",107.486061,110.133169205805,112.243813,"CUPE","Single Aspirated Air Temperature","PRTResistance","On-shore MET station"
 "NEON.D04.CUPE.DP0.00002.001.01326.200.000.000",0,4091.17465334954,4110.08936,"CUPE","Single Aspirated Air Temperature","fanSpeed","On-shore MET station"
 "NEON.D04.CUPE.DP0.00002.001.01330.200.000.000",630,745.506249715914,780.050293,"CUPE","Single Aspirated Air Temperature","turbineSpeed","On-shore MET station"
-"NEON.D04.CUPE.DP0.00004.001.01309.200.000.000",20.4899998,29.9274285718629,36.0999985,"CUPE","Barometric Pressure","sensorTemp","On-shore MET station"
+"NEON.D04.CUPE.DP0.00004.001.01309.200.000.000",20.4899998,29.9274285718628,36.0999985,"CUPE","Barometric Pressure","sensorTemp","On-shore MET station"
 "NEON.D04.CUPE.DP0.00004.001.01311.200.000.000",99.5199966,99.6813642389944,99.8899994,"CUPE","Barometric Pressure","rawBarometricPressure","On-shore MET station"
 "NEON.D04.CUPE.DP0.00004.001.01312.200.000.000",0,0,0,"CUPE","Barometric Pressure","sensorStatus","On-shore MET station"
 "NEON.D04.CUPE.DP0.00013.001.01818.210.000.000",18.5782166,22.3401319394907,27.2137756,"CUPE","Wet deposition","chamberTemperature","On-shore MET station"

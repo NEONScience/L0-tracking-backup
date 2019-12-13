@@ -6,7 +6,7 @@
 "NEON.D18.TOOK.DP0.00002.001.01326.200.000.000",0.00225704121191235,"TOOK","Single Aspirated Air Temperature","fanSpeed","On-shore MET station"
 "NEON.D18.TOOK.DP0.00002.001.01330.200.000.000",0.207805475877718,"TOOK","Single Aspirated Air Temperature","turbineSpeed","On-shore MET station"
 "NEON.D18.TOOK.DP0.00004.001.01309.200.000.000",0.469010600792279,"TOOK","Barometric Pressure","sensorTemp","On-shore MET station"
-"NEON.D18.TOOK.DP0.00004.001.01311.200.000.000",0.00207421234955939,"TOOK","Barometric Pressure","rawBarometricPressure","On-shore MET station"
+"NEON.D18.TOOK.DP0.00004.001.01311.200.000.000",0.00207421234955945,"TOOK","Barometric Pressure","rawBarometricPressure","On-shore MET station"
 "NEON.D18.TOOK.DP0.00004.001.01312.200.000.000",NA,"TOOK","Barometric Pressure","sensorStatus","On-shore MET station"
 "NEON.D18.TOOK.DP0.00023.001.01314.200.000.000",0.00447869160856365,"TOOK","Shortwave/Longwave Net Radiation","sensorResistance","On-shore MET station"
 "NEON.D18.TOOK.DP0.00023.001.01315.200.000.000",-0.644935531108199,"TOOK","Shortwave/Longwave Net Radiation","inNetRadPyranometer","On-shore MET station"
