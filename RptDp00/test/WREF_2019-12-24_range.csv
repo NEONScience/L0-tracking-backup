@@ -54,7 +54,7 @@
 "NEON.D16.WREF.DP0.00002.001.01330.000.040.000",75,"WREF","Single Aspirated Air Temperature","turbineSpeed","Meas. Level 4"
 "NEON.D16.WREF.DP0.00002.001.01330.000.050.000",55,"WREF","Single Aspirated Air Temperature","turbineSpeed","Meas. Level 5"
 "NEON.D16.WREF.DP0.00002.001.01330.000.060.000",50,"WREF","Single Aspirated Air Temperature","turbineSpeed","Meas. Level 6"
-"NEON.D16.WREF.DP0.00002.001.01330.000.070.000",45,"WREF","Single Aspirated Air Temperature","turbineSpeed","Meas. Level 7"
+"NEON.D16.WREF.DP0.00002.001.01330.000.070.000",50,"WREF","Single Aspirated Air Temperature","turbineSpeed","Meas. Level 7"
 "NEON.D16.WREF.DP0.00003.001.01325.000.080.101",100,"WREF","Triple Aspirated Air Temperature","PRTResistance","Meas. Level 8"
 "NEON.D16.WREF.DP0.00003.001.01325.000.080.102",100,"WREF","Triple Aspirated Air Temperature","PRTResistance","Meas. Level 8"
 "NEON.D16.WREF.DP0.00003.001.01325.000.080.103",100,"WREF","Triple Aspirated Air Temperature","PRTResistance","Meas. Level 8"

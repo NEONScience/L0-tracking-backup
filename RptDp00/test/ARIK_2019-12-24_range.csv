@@ -66,7 +66,7 @@
 "NEON.D10.ARIK.DP0.20005.001.01661.102.100.000",100,"ARIK","Water Quality","fDOM","Stream sensor location 2"
 "NEON.D10.ARIK.DP0.20005.001.01662.101.100.000",100,"ARIK","Water Quality","turbidity","Stream sensor location 1"
 "NEON.D10.ARIK.DP0.20005.001.01662.102.100.000",100,"ARIK","Water Quality","turbidity","Stream sensor location 2"
-"NEON.D10.ARIK.DP0.20005.001.01663.101.100.000",35,"ARIK","Water Quality","sondeSurfaceWaterPressure","Stream sensor location 1"
+"NEON.D10.ARIK.DP0.20005.001.01663.101.100.000",30,"ARIK","Water Quality","sondeSurfaceWaterPressure","Stream sensor location 1"
 "NEON.D10.ARIK.DP0.20005.001.01663.102.100.000",100,"ARIK","Water Quality","sondeSurfaceWaterPressure","Stream sensor location 2"
 "NEON.D10.ARIK.DP0.20005.001.01664.101.100.000",40,"ARIK","Water Quality","sensorDepth","Stream sensor location 1"
 "NEON.D10.ARIK.DP0.20005.001.01664.102.100.000",100,"ARIK","Water Quality","sensorDepth","Stream sensor location 2"

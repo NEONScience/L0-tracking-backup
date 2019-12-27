@@ -228,7 +228,7 @@
 "NEON.D19.DEJU.DP0.00095.001.01731.005.502.000",NA,"DEJU","Soil CO2 concentration","errorStatus","Soil Plot 5, depth 2"
 "NEON.D19.DEJU.DP0.00095.001.01731.005.503.000",NA,"DEJU","Soil CO2 concentration","errorStatus","Soil Plot 5, depth 3"
 "NEON.D19.DEJU.DP0.00098.001.01309.000.050.000",100,"DEJU","Relative Humidity","sensorTemp","Meas. Level 5"
-"NEON.D19.DEJU.DP0.00098.001.01309.003.000.000",65,"DEJU","Relative Humidity","sensorTemp","Soil Plot 3"
+"NEON.D19.DEJU.DP0.00098.001.01309.003.000.000",70,"DEJU","Relative Humidity","sensorTemp","Soil Plot 3"
 "NEON.D19.DEJU.DP0.00098.001.01357.000.050.000",100,"DEJU","Relative Humidity","RH","Meas. Level 5"
 "NEON.D19.DEJU.DP0.00098.001.01357.003.000.000",100,"DEJU","Relative Humidity","RH","Soil Plot 3"
 "NEON.D19.DEJU.DP0.00098.001.01358.000.050.000",100,"DEJU","Relative Humidity","dewPoint","Meas. Level 5"
