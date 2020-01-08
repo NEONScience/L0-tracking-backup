@@ -145,7 +145,7 @@
 "NEON.D02.SERC.DP0.00041.001.01728.005.509.000",100,"SERC","Soil temperature","soilPRTResistance","Soil Plot 5, depth 9"
 "NEON.D02.SERC.DP0.00066.001.01329.001.000.000",100,"SERC","Photosynthetically active radiation (Quantum Line)","linePAR","Soil Plot 1"
 "NEON.D02.SERC.DP0.00066.001.01329.003.000.000",100,"SERC","Photosynthetically active radiation (Quantum Line)","linePAR","Soil Plot 3"
-"NEON.D02.SERC.DP0.00066.001.01329.005.000.000",NA,"SERC","Photosynthetically active radiation (Quantum Line)","linePAR","Soil Plot 5"
+"NEON.D02.SERC.DP0.00066.001.01329.005.000.000",100,"SERC","Photosynthetically active radiation (Quantum Line)","linePAR","Soil Plot 5"
 "NEON.D02.SERC.DP0.00094.001.02081.001.501.000",100,"SERC","Soil water and salinity","rawVSWC0","Soil Plot 1, depth 1"
 "NEON.D02.SERC.DP0.00094.001.02081.002.501.000",100,"SERC","Soil water and salinity","rawVSWC0","Soil Plot 2, depth 1"
 "NEON.D02.SERC.DP0.00094.001.02081.003.501.000",100,"SERC","Soil water and salinity","rawVSWC0","Soil Plot 3, depth 1"

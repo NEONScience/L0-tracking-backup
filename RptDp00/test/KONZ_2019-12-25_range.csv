@@ -20,7 +20,7 @@
 "NEON.D06.KONZ.DP0.00002.001.01326.000.010.000",100,"KONZ","Single Aspirated Air Temperature","fanSpeed","Meas. Level 1"
 "NEON.D06.KONZ.DP0.00002.001.01326.000.020.000",100,"KONZ","Single Aspirated Air Temperature","fanSpeed","Meas. Level 2"
 "NEON.D06.KONZ.DP0.00002.001.01326.000.030.000",100,"KONZ","Single Aspirated Air Temperature","fanSpeed","Meas. Level 3"
-"NEON.D06.KONZ.DP0.00002.001.01330.000.010.000",5,"KONZ","Single Aspirated Air Temperature","turbineSpeed","Meas. Level 1"
+"NEON.D06.KONZ.DP0.00002.001.01330.000.010.000",0,"KONZ","Single Aspirated Air Temperature","turbineSpeed","Meas. Level 1"
 "NEON.D06.KONZ.DP0.00002.001.01330.000.020.000",100,"KONZ","Single Aspirated Air Temperature","turbineSpeed","Meas. Level 2"
 "NEON.D06.KONZ.DP0.00002.001.01330.000.030.000",100,"KONZ","Single Aspirated Air Temperature","turbineSpeed","Meas. Level 3"
 "NEON.D06.KONZ.DP0.00003.001.01325.000.040.101",100,"KONZ","Triple Aspirated Air Temperature","PRTResistance","Meas. Level 4"

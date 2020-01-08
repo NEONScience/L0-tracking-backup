@@ -84,7 +84,7 @@
 "NEON.D10.CPER.DP0.00017.001.01943.000.040.000",100,"CPER","Dust and Particulate Size Distribution","particulateMass15","Meas. Level 4"
 "NEON.D10.CPER.DP0.00017.001.01944.000.040.000",NA,"CPER","Dust and Particulate Size Distribution","pressureFM","Meas. Level 4"
 "NEON.D10.CPER.DP0.00017.001.01945.000.040.000",NA,"CPER","Dust and Particulate Size Distribution","tempFM","Meas. Level 4"
-"NEON.D10.CPER.DP0.00017.001.01946.000.040.000",15,"CPER","Dust and Particulate Size Distribution","flowRateVolFM","Meas. Level 4"
+"NEON.D10.CPER.DP0.00017.001.01946.000.040.000",25,"CPER","Dust and Particulate Size Distribution","flowRateVolFM","Meas. Level 4"
 "NEON.D10.CPER.DP0.00017.001.01947.000.040.000",NA,"CPER","Dust and Particulate Size Distribution","flowRateMassFM","Meas. Level 4"
 "NEON.D10.CPER.DP0.00017.001.01948.000.040.000",100,"CPER","Dust and Particulate Size Distribution","presAtm","Meas. Level 4"
 "NEON.D10.CPER.DP0.00017.001.01949.000.040.000",100,"CPER","Dust and Particulate Size Distribution","temp","Meas. Level 4"
