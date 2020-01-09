@@ -73,7 +73,7 @@
 "NEON.D08.DELA.DP0.00016.001.01931.000.060.000",NA,"DELA","ECTE Infrared Gas Analzer (Turbulent CO2 & H2O)","diag","Meas. Level 6"
 "NEON.D08.DELA.DP0.00016.001.02181.000.060.000",NA,"DELA","ECTE Infrared Gas Analzer (Turbulent CO2 & H2O)","presGageCell","Meas. Level 6"
 "NEON.D08.DELA.DP0.00016.001.02185.000.060.000",NA,"DELA","ECTE Infrared Gas Analzer (Turbulent CO2 & H2O)","rhoMoleH2O","Meas. Level 6"
-"NEON.D08.DELA.DP0.00016.001.02186.000.060.000",NA,"DELA","ECTE Infrared Gas Analzer (Turbulent CO2 & H2O)","fdMoleH2O","Meas. Level 6"
+"NEON.D08.DELA.DP0.00016.001.02186.000.060.000",100,"DELA","ECTE Infrared Gas Analzer (Turbulent CO2 & H2O)","fdMoleH2O","Meas. Level 6"
 "NEON.D08.DELA.DP0.00016.001.02191.000.060.000",NA,"DELA","ECTE Infrared Gas Analzer (Turbulent CO2 & H2O)","fdMoleCO2","Meas. Level 6"
 "NEON.D08.DELA.DP0.00016.001.02194.000.060.000",NA,"DELA","ECTE Infrared Gas Analzer (Turbulent CO2 & H2O)","ssiCO2","Meas. Level 6"
 "NEON.D08.DELA.DP0.00016.001.02195.000.060.000",NA,"DELA","ECTE Infrared Gas Analzer (Turbulent CO2 & H2O)","ssiH2O","Meas. Level 6"
