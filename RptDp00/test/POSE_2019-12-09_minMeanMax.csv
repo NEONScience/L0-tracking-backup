@@ -123,7 +123,7 @@
 "NEON.D02.POSE.DP0.20016.001.01378.110.100.000",1.74684143,2.74546853300986,4.43722534,"POSE","Elevation of surface water","surfaceWaterTemperature","Staff gauge"
 "NEON.D02.POSE.DP0.20016.001.01378.132.100.000",2.38523865,3.23341687388521,4.82977295,"POSE","Elevation of surface water","surfaceWaterTemperature","Stream sensor location 2"
 "NEON.D02.POSE.DP0.20016.001.01379.110.100.000",1.51649487,1.64341061097801,1.94116318,"POSE","Elevation of surface water","surfaceWaterPressure","Staff gauge"
-"NEON.D02.POSE.DP0.20016.001.01379.132.100.000",3.48297739,3.60151960984547,3.90242243,"POSE","Elevation of surface water","surfaceWaterPressure","Stream sensor location 2"
+"NEON.D02.POSE.DP0.20016.001.01379.132.100.000",3.48297739,3.60151960984548,3.90242243,"POSE","Elevation of surface water","surfaceWaterPressure","Stream sensor location 2"
 "NEON.D02.POSE.DP0.20033.001.02242.102.100.000",0,17.0837143514259,18.7,"POSE","Nitrate in surface water","rawNitrateSingleCompressedStream","Stream sensor location 2"
 "NEON.D02.POSE.DP0.20042.001.01320.101.100.000",-2.54816268e-06,9.11715536250331e-05,0.000652112009,"POSE","Photosynthetically active radiation at water surface","inPAR","Stream sensor location 1"
 "NEON.D02.POSE.DP0.20042.001.01320.102.100.000",-1.85138379e-06,0.000110772476333443,0.000758435403,"POSE","Photosynthetically active radiation at water surface","inPAR","Stream sensor location 2"

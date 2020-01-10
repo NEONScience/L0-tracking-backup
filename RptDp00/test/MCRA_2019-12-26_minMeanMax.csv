@@ -45,7 +45,7 @@
 "NEON.D16.MCRA.DP0.20005.001.01661.102.100.000",-1.57000005,-1.46213195384028,-1.20000005,"MCRA","Water Quality","fDOM","Stream sensor location 2"
 "NEON.D16.MCRA.DP0.20005.001.01662.101.100.000",0.25,0.504638889011111,1.5,"MCRA","Water Quality","turbidity","Stream sensor location 1"
 "NEON.D16.MCRA.DP0.20005.001.01662.102.100.000",-0.230000004,0.133374999942472,1.38,"MCRA","Water Quality","turbidity","Stream sensor location 2"
-"NEON.D16.MCRA.DP0.20005.001.01663.101.100.000",13.4099998,13.4530554739584,13.4899998,"MCRA","Water Quality","sondeSurfaceWaterPressure","Stream sensor location 1"
+"NEON.D16.MCRA.DP0.20005.001.01663.101.100.000",13.4099998,13.4530554739583,13.4899998,"MCRA","Water Quality","sondeSurfaceWaterPressure","Stream sensor location 1"
 "NEON.D16.MCRA.DP0.20005.001.01663.102.100.000",13.46,13.5047847984722,13.54,"MCRA","Water Quality","sondeSurfaceWaterPressure","Stream sensor location 2"
 "NEON.D16.MCRA.DP0.20005.001.01664.101.100.000",9.43000031,9.45797911685416,9.47999954,"MCRA","Water Quality","sensorDepth","Stream sensor location 1"
 "NEON.D16.MCRA.DP0.20005.001.01664.102.100.000",9.46000004,9.49525695002084,9.52000046,"MCRA","Water Quality","sensorDepth","Stream sensor location 2"

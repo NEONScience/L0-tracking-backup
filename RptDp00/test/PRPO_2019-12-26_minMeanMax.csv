@@ -18,7 +18,7 @@
 "NEON.D09.PRPO.DP0.00024.001.01320.200.000.000",-6.19583659e-07,0.000446928244306637,0.00223079324,"PRPO","Photosynthetically Active Radiation","inPAR","On-shore MET station"
 "NEON.D09.PRPO.DP0.00098.001.01309.200.000.000",-9.30300045,-7.37841587452174,-4.97300005,"PRPO","Relative Humidity","sensorTemp","On-shore MET station"
 "NEON.D09.PRPO.DP0.00098.001.01357.200.000.000",90.7779999,92.5111913215823,94.6070023,"PRPO","Relative Humidity","RH","On-shore MET station"
-"NEON.D09.PRPO.DP0.00098.001.01358.200.000.000",-9.41300011,-7.4912155794505,-5.09899998,"PRPO","Relative Humidity","dewPoint","On-shore MET station"
+"NEON.D09.PRPO.DP0.00098.001.01358.200.000.000",-9.41300011,-7.49121557945051,-5.09899998,"PRPO","Relative Humidity","dewPoint","On-shore MET station"
 "NEON.D09.PRPO.DP0.00098.001.01359.200.000.000",0,0,0,"PRPO","Relative Humidity","RHStatus","On-shore MET station"
 "NEON.D09.PRPO.DP0.20015.001.01371.301.000.000",6602.04443,6603.83051743056,6605.75586,"PRPO","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Ground water well 1"
 "NEON.D09.PRPO.DP0.20015.001.01371.302.000.000",463.208191,463.318704996528,463.434753,"PRPO","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Ground water well 2"

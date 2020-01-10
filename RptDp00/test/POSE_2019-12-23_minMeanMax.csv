@@ -58,7 +58,7 @@
 "NEON.D02.POSE.DP0.20005.001.01669.102.100.000",0.0700000003,0.0982629502918726,0.159999996,"POSE","Water Quality","turbidityRaw","Stream sensor location 2"
 "NEON.D02.POSE.DP0.20005.001.01670.101.100.000",1.15999997,1.20224477799838,1.22000003,"POSE","Water Quality","wiperPosition","Stream sensor location 1"
 "NEON.D02.POSE.DP0.20005.001.01670.102.100.000",1.19000006,1.22358568378486,1.25,"POSE","Water Quality","wiperPosition","Stream sensor location 2"
-"NEON.D02.POSE.DP0.20015.001.01371.301.000.000",71.6666107,72.1639020975709,72.7664948,"POSE","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Ground water well 1"
+"NEON.D02.POSE.DP0.20015.001.01371.301.000.000",71.6666107,72.1639020975708,72.7664948,"POSE","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Ground water well 1"
 "NEON.D02.POSE.DP0.20015.001.01371.302.000.000",52.9794807,53.0476463756614,53.1778526,"POSE","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Ground water well 2"
 "NEON.D02.POSE.DP0.20015.001.01371.303.000.000",79.2311401,79.3942973,79.5076599,"POSE","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Ground water well 3"
 "NEON.D02.POSE.DP0.20015.001.01371.304.000.000",0,53.0238135323887,79.4728394,"POSE","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Ground water well 4"

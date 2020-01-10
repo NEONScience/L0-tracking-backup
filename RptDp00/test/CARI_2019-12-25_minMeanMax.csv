@@ -12,7 +12,7 @@
 "NEON.D19.CARI.DP0.00023.001.01315.200.000.000",-5.64618495e-05,1.05712213885025e-05,7.44840072e-05,"CARI","Shortwave/Longwave Net Radiation","inNetRadPyranometer","On-shore MET station"
 "NEON.D19.CARI.DP0.00023.001.01316.200.000.000",-4.44800171e-05,1.24572048626215e-05,0.000111195652,"CARI","Shortwave/Longwave Net Radiation","outNetRadPyranometer","On-shore MET station"
 "NEON.D19.CARI.DP0.00023.001.01317.200.000.000",-1.57507984e-05,2.94553335982032e-07,9.872183e-06,"CARI","Shortwave/Longwave Net Radiation","inNetRadPyrgeometer","On-shore MET station"
-"NEON.D19.CARI.DP0.00023.001.01318.200.000.000",-4.57997558e-05,-2.83325399643795e-07,1.98969301e-05,"CARI","Shortwave/Longwave Net Radiation","outNetRadPyrgeometer","On-shore MET station"
+"NEON.D19.CARI.DP0.00023.001.01318.200.000.000",-4.57997558e-05,-2.83325399643796e-07,1.98969301e-05,"CARI","Shortwave/Longwave Net Radiation","outNetRadPyrgeometer","On-shore MET station"
 "NEON.D19.CARI.DP0.00024.001.01320.200.000.000",-2.89754621e-06,5.86063890400536e-06,4.8497659e-05,"CARI","Photosynthetically Active Radiation","inPAR","On-shore MET station"
 "NEON.D19.CARI.DP0.00098.001.01309.200.000.000",-31.6970005,-24.5895164673665,-22.0189991,"CARI","Relative Humidity","sensorTemp","On-shore MET station"
 "NEON.D19.CARI.DP0.00098.001.01357.200.000.000",72.6679993,77.1890637233878,79.3779984,"CARI","Relative Humidity","RH","On-shore MET station"

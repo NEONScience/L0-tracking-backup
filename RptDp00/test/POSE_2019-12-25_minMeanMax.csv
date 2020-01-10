@@ -29,7 +29,7 @@
 "NEON.D02.POSE.DP0.20005.001.01371.101.100.000",29.9599991,31.6477222503472,34.8499985,"POSE","Water Quality","conductance","Stream sensor location 1"
 "NEON.D02.POSE.DP0.20005.001.01371.102.100.000",61.8100014,64.0056666319445,66.9700012,"POSE","Water Quality","conductance","Stream sensor location 2"
 "NEON.D02.POSE.DP0.20005.001.01372.101.100.000",5.82000017,5.82927773183333,5.84000015,"POSE","Water Quality","batteryVoltage","Stream sensor location 1"
-"NEON.D02.POSE.DP0.20005.001.01372.102.100.000",5.69000006,5.70279154520834,5.71000004,"POSE","Water Quality","batteryVoltage","Stream sensor location 2"
+"NEON.D02.POSE.DP0.20005.001.01372.102.100.000",5.69000006,5.70279154520833,5.71000004,"POSE","Water Quality","batteryVoltage","Stream sensor location 2"
 "NEON.D02.POSE.DP0.20005.001.01378.101.100.000",0.300000012,1.69934721979861,3.6400001,"POSE","Water Quality","surfaceWaterTemperature","Stream sensor location 1"
 "NEON.D02.POSE.DP0.20005.001.01378.102.100.000",0.439999998,1.65722916562431,3.29999995,"POSE","Water Quality","surfaceWaterTemperature","Stream sensor location 2"
 "NEON.D02.POSE.DP0.20005.001.01647.101.100.000",11.8199997,11.8451044486111,11.8599997,"POSE","Water Quality","sensorVoltage","Stream sensor location 1"

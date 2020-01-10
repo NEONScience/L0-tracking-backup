@@ -38,7 +38,7 @@
 "NEON.D16.MCRA.DP0.20005.001.01657.102.100.000",100,"MCRA","Water Quality","pH","Stream sensor location 2"
 "NEON.D16.MCRA.DP0.20005.001.01658.101.100.000",NA,"MCRA","Water Quality","pHvoltage","Stream sensor location 1"
 "NEON.D16.MCRA.DP0.20005.001.01658.102.100.000",NA,"MCRA","Water Quality","pHvoltage","Stream sensor location 2"
-"NEON.D16.MCRA.DP0.20005.001.01659.101.100.000",0,"MCRA","Water Quality","blueGreenAlgaePhycocyanin","Stream sensor location 1"
+"NEON.D16.MCRA.DP0.20005.001.01659.101.100.000",100,"MCRA","Water Quality","blueGreenAlgaePhycocyanin","Stream sensor location 1"
 "NEON.D16.MCRA.DP0.20005.001.01659.102.100.000",100,"MCRA","Water Quality","blueGreenAlgaePhycocyanin","Stream sensor location 2"
 "NEON.D16.MCRA.DP0.20005.001.01660.101.100.000",100,"MCRA","Water Quality","chlorophyll","Stream sensor location 1"
 "NEON.D16.MCRA.DP0.20005.001.01660.102.100.000",100,"MCRA","Water Quality","chlorophyll","Stream sensor location 2"

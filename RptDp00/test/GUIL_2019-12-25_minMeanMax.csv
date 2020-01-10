@@ -13,7 +13,7 @@
 "NEON.D04.GUIL.DP0.00013.001.01818.210.000.000",22.2047119,23.9399359347569,28.765625,"GUIL","Wet deposition","chamberTemperature","On-shore MET station"
 "NEON.D04.GUIL.DP0.00023.001.01314.200.000.000",108.327705,109.010488585266,110.945282,"GUIL","Shortwave/Longwave Net Radiation","sensorResistance","On-shore MET station"
 "NEON.D04.GUIL.DP0.00023.001.01315.200.000.000",-0.000107848799,0.00193671886841837,0.0210734736,"GUIL","Shortwave/Longwave Net Radiation","inNetRadPyranometer","On-shore MET station"
-"NEON.D04.GUIL.DP0.00023.001.01316.200.000.000",-1.03050215e-05,0.000381745657879159,0.00412233174,"GUIL","Shortwave/Longwave Net Radiation","outNetRadPyranometer","On-shore MET station"
+"NEON.D04.GUIL.DP0.00023.001.01316.200.000.000",-1.03050215e-05,0.000381745657879158,0.00412233174,"GUIL","Shortwave/Longwave Net Radiation","outNetRadPyranometer","On-shore MET station"
 "NEON.D04.GUIL.DP0.00023.001.01317.200.000.000",-0.000982924132,-0.000311798368230526,5.38739141e-06,"GUIL","Shortwave/Longwave Net Radiation","inNetRadPyrgeometer","On-shore MET station"
 "NEON.D04.GUIL.DP0.00023.001.01318.200.000.000",-0.000130254106,-2.60568742537015e-05,0.000255446648,"GUIL","Shortwave/Longwave Net Radiation","outNetRadPyrgeometer","On-shore MET station"
 "NEON.D04.GUIL.DP0.00024.001.01320.200.000.000",-4.90242584e-08,0.00119998434440164,0.0129584586,"GUIL","Photosynthetically Active Radiation","inPAR","On-shore MET station"

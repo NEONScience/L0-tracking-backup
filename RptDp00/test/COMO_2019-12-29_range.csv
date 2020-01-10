@@ -44,7 +44,7 @@
 "NEON.D13.COMO.DP0.20005.001.01660.102.100.000",100,"COMO","Water Quality","chlorophyll","Stream sensor location 2"
 "NEON.D13.COMO.DP0.20005.001.01661.102.100.000",100,"COMO","Water Quality","fDOM","Stream sensor location 2"
 "NEON.D13.COMO.DP0.20005.001.01662.101.100.000",100,"COMO","Water Quality","turbidity","Stream sensor location 1"
-"NEON.D13.COMO.DP0.20005.001.01662.102.100.000",20,"COMO","Water Quality","turbidity","Stream sensor location 2"
+"NEON.D13.COMO.DP0.20005.001.01662.102.100.000",15,"COMO","Water Quality","turbidity","Stream sensor location 2"
 "NEON.D13.COMO.DP0.20005.001.01663.101.100.000",100,"COMO","Water Quality","sondeSurfaceWaterPressure","Stream sensor location 1"
 "NEON.D13.COMO.DP0.20005.001.01663.102.100.000",100,"COMO","Water Quality","sondeSurfaceWaterPressure","Stream sensor location 2"
 "NEON.D13.COMO.DP0.20005.001.01664.101.100.000",100,"COMO","Water Quality","sensorDepth","Stream sensor location 1"

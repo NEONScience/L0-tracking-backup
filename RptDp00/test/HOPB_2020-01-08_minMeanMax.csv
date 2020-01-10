@@ -8,7 +8,7 @@
 "NEON.D01.HOPB.DP0.00002.001.01326.200.000.000",0,4121.69377525832,4140.06299,"HOPB","Single Aspirated Air Temperature","fanSpeed","On-shore MET station"
 "NEON.D01.HOPB.DP0.00002.001.01330.200.000.000",300,412.778189092638,480.003662,"HOPB","Single Aspirated Air Temperature","turbineSpeed","On-shore MET station"
 "NEON.D01.HOPB.DP0.00004.001.01309.200.000.000",-2.56999993,0.391107239790172,5.23999977,"HOPB","Barometric Pressure","sensorTemp","On-shore MET station"
-"NEON.D01.HOPB.DP0.00004.001.01311.200.000.000",98.2300034,98.4966540345068,99.0999985,"HOPB","Barometric Pressure","rawBarometricPressure","On-shore MET station"
+"NEON.D01.HOPB.DP0.00004.001.01311.200.000.000",98.2300034,98.4966540345067,99.0999985,"HOPB","Barometric Pressure","rawBarometricPressure","On-shore MET station"
 "NEON.D01.HOPB.DP0.00004.001.01312.200.000.000",0,0,0,"HOPB","Barometric Pressure","sensorStatus","On-shore MET station"
 "NEON.D01.HOPB.DP0.00023.001.01314.200.000.000",98.1733017,99.4976405441724,101.467453,"HOPB","Shortwave/Longwave Net Radiation","sensorResistance","On-shore MET station"
 "NEON.D01.HOPB.DP0.00023.001.01315.200.000.000",-0.00013142619,0.00024095870890632,0.00400537578,"HOPB","Shortwave/Longwave Net Radiation","inNetRadPyranometer","On-shore MET station"

@@ -13,7 +13,7 @@
 "NEON.D06.MCDI.DP0.00023.001.01314.200.000.000",103.353821,104.956397345069,107.559906,"MCDI","Shortwave/Longwave Net Radiation","sensorResistance","On-shore MET station"
 "NEON.D06.MCDI.DP0.00023.001.01315.200.000.000",-0.000112877358,0.00185655125926736,0.0099762883,"MCDI","Shortwave/Longwave Net Radiation","inNetRadPyranometer","On-shore MET station"
 "NEON.D06.MCDI.DP0.00023.001.01316.200.000.000",-1.36061417e-05,0.000415019836895914,0.00208264426,"MCDI","Shortwave/Longwave Net Radiation","outNetRadPyranometer","On-shore MET station"
-"NEON.D06.MCDI.DP0.00023.001.01317.200.000.000",-0.00136416766,-0.000981795212877223,-0.000450546708,"MCDI","Shortwave/Longwave Net Radiation","inNetRadPyrgeometer","On-shore MET station"
+"NEON.D06.MCDI.DP0.00023.001.01317.200.000.000",-0.00136416766,-0.000981795212877222,-0.000450546708,"MCDI","Shortwave/Longwave Net Radiation","inNetRadPyrgeometer","On-shore MET station"
 "NEON.D06.MCDI.DP0.00023.001.01318.200.000.000",-0.00038413296,-9.96593075585541e-05,0.000264163449,"MCDI","Shortwave/Longwave Net Radiation","outNetRadPyrgeometer","On-shore MET station"
 "NEON.D06.MCDI.DP0.00024.001.01320.200.000.000",-2.67509722e-06,0.00100864655878845,0.0052443482,"MCDI","Photosynthetically Active Radiation","inPAR","On-shore MET station"
 "NEON.D06.MCDI.DP0.00098.001.01309.200.000.000",8.92099953,12.7338955107964,18.8250008,"MCDI","Relative Humidity","sensorTemp","On-shore MET station"

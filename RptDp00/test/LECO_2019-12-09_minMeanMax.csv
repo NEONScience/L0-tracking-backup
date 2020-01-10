@@ -5,7 +5,7 @@
 "NEON.D07.LECO.DP0.00001.001.01309.200.000.000",12.0900002,17.0132126443283,21.5400009,"LECO","2D Wind Speed and Direction","sensorTemp","On-shore MET station"
 "NEON.D07.LECO.DP0.00001.001.01310.200.000.000",65,65,65,"LECO","2D Wind Speed and Direction","2dWindSensorStatus","On-shore MET station"
 "NEON.D07.LECO.DP0.00002.001.01325.200.000.000",103.256783,105.882721043009,107.420853,"LECO","Single Aspirated Air Temperature","PRTResistance","On-shore MET station"
-"NEON.D07.LECO.DP0.00002.001.01326.200.000.000",0,4108.76648929827,4125.20117,"LECO","Single Aspirated Air Temperature","fanSpeed","On-shore MET station"
+"NEON.D07.LECO.DP0.00002.001.01326.200.000.000",0,4108.76648929826,4125.20117,"LECO","Single Aspirated Air Temperature","fanSpeed","On-shore MET station"
 "NEON.D07.LECO.DP0.00002.001.01330.200.000.000",330,428.376387258321,480.025055,"LECO","Single Aspirated Air Temperature","turbineSpeed","On-shore MET station"
 "NEON.D07.LECO.DP0.00004.001.01309.200.000.000",9.77000046,15.4231890380572,19.8500004,"LECO","Barometric Pressure","sensorTemp","On-shore MET station"
 "NEON.D07.LECO.DP0.00004.001.01311.200.000.000",94.3899994,94.9047952645686,95.4499969,"LECO","Barometric Pressure","rawBarometricPressure","On-shore MET station"

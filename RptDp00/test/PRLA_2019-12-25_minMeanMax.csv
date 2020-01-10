@@ -4,7 +4,7 @@
 "NEON.D09.PRLA.DP0.00001.001.01308.200.000.000",324.75,326.149031408628,328.059998,"PRLA","2D Wind Speed and Direction","soundSpeed","On-shore MET station"
 "NEON.D09.PRLA.DP0.00001.001.01309.200.000.000",-11.3100004,-9.05089391027975,-5.94999981,"PRLA","2D Wind Speed and Direction","sensorTemp","On-shore MET station"
 "NEON.D09.PRLA.DP0.00001.001.01310.200.000.000",60,60,60,"PRLA","2D Wind Speed and Direction","2dWindSensorStatus","On-shore MET station"
-"NEON.D09.PRLA.DP0.00002.001.01325.200.000.000",96.3164139,96.7006148502546,97.1190262,"PRLA","Single Aspirated Air Temperature","PRTResistance","On-shore MET station"
+"NEON.D09.PRLA.DP0.00002.001.01325.200.000.000",96.3164139,96.7006148502547,97.1190262,"PRLA","Single Aspirated Air Temperature","PRTResistance","On-shore MET station"
 "NEON.D09.PRLA.DP0.00002.001.01326.200.000.000",3899.91357,3914.56910469999,3930.03857,"PRLA","Single Aspirated Air Temperature","fanSpeed","On-shore MET station"
 "NEON.D09.PRLA.DP0.00002.001.01330.200.000.000",0,0,0,"PRLA","Single Aspirated Air Temperature","turbineSpeed","On-shore MET station"
 "NEON.D09.PRLA.DP0.00004.001.01309.200.000.000",-8.73999977,-7.58359984397709,-6.76999998,"PRLA","Barometric Pressure","sensorTemp","On-shore MET station"
