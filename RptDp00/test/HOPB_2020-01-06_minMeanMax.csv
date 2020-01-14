@@ -2,7 +2,7 @@
 "NEON.D01.HOPB.DP0.00001.001.01306.200.000.000",-2.63000011,-0.164006759695704,1.69000006,"HOPB","2D Wind Speed and Direction","uVectorComponent","On-shore MET station"
 "NEON.D01.HOPB.DP0.00001.001.01307.200.000.000",-2.4000001,-0.0283362271200673,2.04999995,"HOPB","2D Wind Speed and Direction","vVectorComponent","On-shore MET station"
 "NEON.D01.HOPB.DP0.00001.001.01308.200.000.000",327.48999,328.895595054829,331.179993,"HOPB","2D Wind Speed and Direction","soundSpeed","On-shore MET station"
-"NEON.D01.HOPB.DP0.00001.001.01309.200.000.000",-6.88000011,-4.58568348649451,-0.850000024,"HOPB","2D Wind Speed and Direction","sensorTemp","On-shore MET station"
+"NEON.D01.HOPB.DP0.00001.001.01309.200.000.000",-6.88000011,-4.58568348649452,-0.850000024,"HOPB","2D Wind Speed and Direction","sensorTemp","On-shore MET station"
 "NEON.D01.HOPB.DP0.00001.001.01310.200.000.000",65,65,65,"HOPB","2D Wind Speed and Direction","2dWindSensorStatus","On-shore MET station"
 "NEON.D01.HOPB.DP0.00002.001.01325.200.000.000",97.9809952,98.8439208803102,100.070587,"HOPB","Single Aspirated Air Temperature","PRTResistance","On-shore MET station"
 "NEON.D01.HOPB.DP0.00002.001.01326.200.000.000",4109.82129,4116.94391900787,4140.02539,"HOPB","Single Aspirated Air Temperature","fanSpeed","On-shore MET station"
