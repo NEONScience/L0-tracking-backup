@@ -20,7 +20,6 @@
 "NEON.D15.REDB.DP0.00006.001.01906.900.000.000",0,"REDB","Precipitation","internalTemp","DFIR"
 "NEON.D15.REDB.DP0.00006.001.01907.900.000.000",0,"REDB","Precipitation","precipAccumulationRate","DFIR"
 "NEON.D15.REDB.DP0.00006.001.01999.900.000.000",0,"REDB","Precipitation","strainGauge1FreqComp","DFIR"
-"NEON.D15.REDB.DP0.00006.001.02000.900.000.000",0,"REDB","Precipitation","orificeHeaterFlag","DFIR"
 "NEON.D15.REDB.DP0.00006.001.02068.900.000.000",0,"REDB","Precipitation","strainGauge2Stability","DFIR"
 "NEON.D15.REDB.DP0.00006.001.02069.900.000.000",0,"REDB","Precipitation","strainGauge3Stability","DFIR"
 "NEON.D15.REDB.DP0.00006.001.02070.900.000.000",0,"REDB","Precipitation","strainGauge2Temp","DFIR"
