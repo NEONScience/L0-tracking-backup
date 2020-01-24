@@ -25,7 +25,7 @@
 "NEON.D08.BLWA.DP0.20015.001.01371.301.000.000",0.00122238550259762,"BLWA","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Ground water well 1"
 "NEON.D08.BLWA.DP0.20015.001.01371.302.000.000",NA,"BLWA","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Ground water well 2"
 "NEON.D08.BLWA.DP0.20015.001.01371.303.000.000",NA,"BLWA","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Ground water well 3"
-"NEON.D08.BLWA.DP0.20015.001.01372.301.000.000",0,"BLWA","Specific Conductivity, Temperature, and Elevation of groundwater","batteryVoltage","Ground water well 1"
+"NEON.D08.BLWA.DP0.20015.001.01372.301.000.000",7.04962511319727e-18,"BLWA","Specific Conductivity, Temperature, and Elevation of groundwater","batteryVoltage","Ground water well 1"
 "NEON.D08.BLWA.DP0.20015.001.01372.302.000.000",NA,"BLWA","Specific Conductivity, Temperature, and Elevation of groundwater","batteryVoltage","Ground water well 2"
 "NEON.D08.BLWA.DP0.20015.001.01372.303.000.000",NA,"BLWA","Specific Conductivity, Temperature, and Elevation of groundwater","batteryVoltage","Ground water well 3"
 "NEON.D08.BLWA.DP0.20015.001.01373.301.000.000",NA,"BLWA","Specific Conductivity, Temperature, and Elevation of groundwater","conductanceDataQualityID","Ground water well 1"

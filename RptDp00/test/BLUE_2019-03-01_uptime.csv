@@ -30,7 +30,7 @@
 "NEON.D11.BLUE.DP0.00006.001.02075.900.000.000",100,"BLUE","Precipitation","strainGauge3Weight","DFIR"
 "NEON.D11.BLUE.DP0.00006.001.02076.900.000.000",100,"BLUE","Precipitation","strainGauge2FreqComp","DFIR"
 "NEON.D11.BLUE.DP0.00006.001.02077.900.000.000",100,"BLUE","Precipitation","strainGauge3FreqComp","DFIR"
-"NEON.D11.BLUE.DP0.00013.001.01818.210.000.000",99.9768518518518,"BLUE","Wet deposition","chamberTemperature","On-shore MET station"
+"NEON.D11.BLUE.DP0.00013.001.01818.210.000.000",99.9768518518519,"BLUE","Wet deposition","chamberTemperature","On-shore MET station"
 "NEON.D11.BLUE.DP0.00023.001.01314.200.000.000",100,"BLUE","Shortwave/Longwave Net Radiation","sensorResistance","On-shore MET station"
 "NEON.D11.BLUE.DP0.00023.001.01315.200.000.000",100,"BLUE","Shortwave/Longwave Net Radiation","inNetRadPyranometer","On-shore MET station"
 "NEON.D11.BLUE.DP0.00023.001.01316.200.000.000",100,"BLUE","Shortwave/Longwave Net Radiation","outNetRadPyranometer","On-shore MET station"
