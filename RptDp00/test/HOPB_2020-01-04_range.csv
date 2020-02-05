@@ -17,7 +17,7 @@
 "NEON.D01.HOPB.DP0.00023.001.01318.200.000.000",100,"HOPB","Shortwave/Longwave Net Radiation","outNetRadPyrgeometer","On-shore MET station"
 "NEON.D01.HOPB.DP0.00024.001.01320.200.000.000",100,"HOPB","Photosynthetically Active Radiation","inPAR","On-shore MET station"
 "NEON.D01.HOPB.DP0.00098.001.01309.200.000.000",100,"HOPB","Relative Humidity","sensorTemp","On-shore MET station"
-"NEON.D01.HOPB.DP0.00098.001.01357.200.000.000",60,"HOPB","Relative Humidity","RH","On-shore MET station"
+"NEON.D01.HOPB.DP0.00098.001.01357.200.000.000",100,"HOPB","Relative Humidity","RH","On-shore MET station"
 "NEON.D01.HOPB.DP0.00098.001.01358.200.000.000",100,"HOPB","Relative Humidity","dewPoint","On-shore MET station"
 "NEON.D01.HOPB.DP0.00098.001.01359.200.000.000",NA,"HOPB","Relative Humidity","RHStatus","On-shore MET station"
 "NEON.D01.HOPB.DP0.20005.001.01093.111.100.000",NA,"HOPB","Water Quality","specificConductance","Stream sensor location 1"

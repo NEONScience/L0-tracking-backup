@@ -59,7 +59,7 @@
 "NEON.D04.GUIL.DP0.20005.001.01669.102.100.000",0.0700000003,0.152489239263271,1.19000006,"GUIL","Water Quality","turbidityRaw","Stream sensor location 2"
 "NEON.D04.GUIL.DP0.20005.001.01670.101.100.000",1.19000006,1.1970556085,1.21000004,"GUIL","Water Quality","wiperPosition","Stream sensor location 1"
 "NEON.D04.GUIL.DP0.20005.001.01670.102.100.000",1.19000006,1.19000006,1.19000006,"GUIL","Water Quality","wiperPosition","Stream sensor location 2"
-"NEON.D04.GUIL.DP0.20015.001.01371.301.000.000",371.369171,380.676475524305,383.879852,"GUIL","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Ground water well 1"
+"NEON.D04.GUIL.DP0.20015.001.01371.301.000.000",371.369171,380.676475524306,383.879852,"GUIL","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Ground water well 1"
 "NEON.D04.GUIL.DP0.20015.001.01371.302.000.000",423.963409,428.464614013889,446.206818,"GUIL","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Ground water well 2"
 "NEON.D04.GUIL.DP0.20015.001.01371.303.000.000",483.517242,484.274636145833,485.255676,"GUIL","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Ground water well 3"
 "NEON.D04.GUIL.DP0.20015.001.01371.304.000.000",262.092987,266.195980621528,268.94458,"GUIL","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Ground water well 4"
