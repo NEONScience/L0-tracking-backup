@@ -130,7 +130,7 @@
 "NEON.D05.CRAM.DP0.20264.001.02888.103.100.000",25.1560001,25.3141958472917,25.6000004,"CRAM","Temperature at specific depth in lakes","depth1WaterTemp","Buoy"
 "NEON.D05.CRAM.DP0.20264.001.02889.103.100.000",14.8900003,15.9001444448611,17.0359993,"CRAM","Temperature at specific depth in lakes","depth2WaterTemp","Buoy"
 "NEON.D05.CRAM.DP0.20264.001.02890.103.100.000",8.42300034,8.75771457530556,9.06599998,"CRAM","Temperature at specific depth in lakes","depth3WaterTemp","Buoy"
-"NEON.D05.CRAM.DP0.20264.001.02891.103.100.000",6.49599981,6.76461458500694,6.92399979,"CRAM","Temperature at specific depth in lakes","depth4WaterTemp","Buoy"
+"NEON.D05.CRAM.DP0.20264.001.02891.103.100.000",6.49599981,6.76461458500695,6.92399979,"CRAM","Temperature at specific depth in lakes","depth4WaterTemp","Buoy"
 "NEON.D05.CRAM.DP0.20264.001.02892.103.100.000",5.72599983,5.91958125225,6.11399984,"CRAM","Temperature at specific depth in lakes","depth5WaterTemp","Buoy"
 "NEON.D05.CRAM.DP0.20264.001.02893.103.100.000",5.50099993,5.56985623990278,5.67799997,"CRAM","Temperature at specific depth in lakes","depth6WaterTemp","Buoy"
 "NEON.D05.CRAM.DP0.20271.001.01309.103.100.000",17.8789997,20.3432729090278,23.8840008,"CRAM","Relative Humidity of the air above lakes on buoy","sensorTemp","Buoy"

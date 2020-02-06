@@ -116,7 +116,7 @@
 "NEON.D05.LIRO.DP0.20059.001.00340.103.100.000",100,"LIRO","Windspeed and direction on lakes on-buoy","windSpeedMean","Buoy"
 "NEON.D05.LIRO.DP0.20059.001.00380.103.100.000",100,"LIRO","Windspeed and direction on lakes on-buoy","windDirMean","Buoy"
 "NEON.D05.LIRO.DP0.20059.001.03551.103.100.000",107.501618122977,"LIRO","Windspeed and direction on lakes on-buoy","vectorAverageHeading","Buoy"
-"NEON.D05.LIRO.DP0.20261.001.01320.103.100.000",998.263888888889,"LIRO","Photosynthetically Active Radiation","inPAR","Buoy"
+"NEON.D05.LIRO.DP0.20261.001.01320.103.100.000",100,"LIRO","Photosynthetically Active Radiation","inPAR","Buoy"
 "NEON.D05.LIRO.DP0.20261.001.01320.130.100.000",88.6469907407407,"LIRO","Photosynthetically Active Radiation","inPAR","Lake inlet"
 "NEON.D05.LIRO.DP0.20261.001.01320.140.100.000",0,"LIRO","Photosynthetically Active Radiation","inPAR","Lake outlet"
 "NEON.D05.LIRO.DP0.20264.001.02887.103.100.000",100,"LIRO","Temperature at specific depth in lakes","depth0WaterTemp","Buoy"

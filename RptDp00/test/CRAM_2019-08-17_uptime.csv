@@ -123,7 +123,7 @@
 "NEON.D05.CRAM.DP0.20059.001.00340.103.100.000",100,"CRAM","Windspeed and direction on lakes on-buoy","windSpeedMean","Buoy"
 "NEON.D05.CRAM.DP0.20059.001.00380.103.100.000",100,"CRAM","Windspeed and direction on lakes on-buoy","windDirMean","Buoy"
 "NEON.D05.CRAM.DP0.20059.001.03551.103.100.000",99.3592233009709,"CRAM","Windspeed and direction on lakes on-buoy","vectorAverageHeading","Buoy"
-"NEON.D05.CRAM.DP0.20261.001.01320.103.100.000",1000,"CRAM","Photosynthetically Active Radiation","inPAR","Buoy"
+"NEON.D05.CRAM.DP0.20261.001.01320.103.100.000",100,"CRAM","Photosynthetically Active Radiation","inPAR","Buoy"
 "NEON.D05.CRAM.DP0.20261.001.01320.130.100.000",99.9918981481482,"CRAM","Photosynthetically Active Radiation","inPAR","Lake inlet"
 "NEON.D05.CRAM.DP0.20261.001.01320.140.100.000",40.4467592592593,"CRAM","Photosynthetically Active Radiation","inPAR","Lake outlet"
 "NEON.D05.CRAM.DP0.20264.001.02887.103.100.000",100,"CRAM","Temperature at specific depth in lakes","depth0WaterTemp","Buoy"

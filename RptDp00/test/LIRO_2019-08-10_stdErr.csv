@@ -1,7 +1,7 @@
 "streams","stndErr","site","dp.name","term.name","location"
 "NEON.D05.LIRO.DP0.00001.001.01306.200.000.000",2.47471112164214,"LIRO","2D Wind Speed and Direction","uVectorComponent","On-shore MET station"
 "NEON.D05.LIRO.DP0.00001.001.01307.200.000.000",-5.07090120109681,"LIRO","2D Wind Speed and Direction","vVectorComponent","On-shore MET station"
-"NEON.D05.LIRO.DP0.00001.001.01308.200.000.000",0.0044361828506551,"LIRO","2D Wind Speed and Direction","soundSpeed","On-shore MET station"
+"NEON.D05.LIRO.DP0.00001.001.01308.200.000.000",0.00443618285065514,"LIRO","2D Wind Speed and Direction","soundSpeed","On-shore MET station"
 "NEON.D05.LIRO.DP0.00001.001.01309.200.000.000",0.146159676106698,"LIRO","2D Wind Speed and Direction","sensorTemp","On-shore MET station"
 "NEON.D05.LIRO.DP0.00001.001.01310.200.000.000",0,"LIRO","2D Wind Speed and Direction","2dWindSensorStatus","On-shore MET station"
 "NEON.D05.LIRO.DP0.00002.001.01325.200.000.000",0.0179765426355663,"LIRO","Single Aspirated Air Temperature","PRTResistance","On-shore MET station"

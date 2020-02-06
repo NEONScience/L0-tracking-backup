@@ -21,7 +21,7 @@
 "NEON.D05.LIRO.DP0.00098.001.01358.200.000.000",15.0249996,16.6278195291066,20.0219994,"LIRO","Relative Humidity","dewPoint","On-shore MET station"
 "NEON.D05.LIRO.DP0.00098.001.01359.200.000.000",0,0,0,"LIRO","Relative Humidity","RHStatus","On-shore MET station"
 "NEON.D05.LIRO.DP0.20004.001.01309.103.100.000",18.1100006,24.3990000227083,31.2800007,"LIRO","Barometric pressure at lakes on-buoy","sensorTemp","Buoy"
-"NEON.D05.LIRO.DP0.20004.001.01311.103.100.000",96.0699997,96.2819858488195,96.3700027,"LIRO","Barometric pressure at lakes on-buoy","rawBarometricPressure","Buoy"
+"NEON.D05.LIRO.DP0.20004.001.01311.103.100.000",96.0699997,96.2819858488194,96.3700027,"LIRO","Barometric pressure at lakes on-buoy","rawBarometricPressure","Buoy"
 "NEON.D05.LIRO.DP0.20004.001.01312.103.100.000",-1,-1,-1,"LIRO","Barometric pressure at lakes on-buoy","sensorStatus","Buoy"
 "NEON.D05.LIRO.DP0.20005.001.01093.103.100.000",0,10.0605319169149,12.6400003,"LIRO","Water Quality","specificConductance","Buoy"
 "NEON.D05.LIRO.DP0.20005.001.01151.103.100.000",1.12,7.54858154751773,8.39999962,"LIRO","Water Quality","dissolvedOxygen","Buoy"

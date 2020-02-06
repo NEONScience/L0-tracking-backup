@@ -12,7 +12,7 @@
 "NEON.D05.LIRO.DP0.00004.001.01312.200.000.000",0,0,0,"LIRO","Barometric Pressure","sensorStatus","On-shore MET station"
 "NEON.D05.LIRO.DP0.00023.001.01314.200.000.000",104.64225,106.071560019039,108.638115,"LIRO","Shortwave/Longwave Net Radiation","sensorResistance","On-shore MET station"
 "NEON.D05.LIRO.DP0.00023.001.01315.200.000.000",-7.52130072e-05,0.000215190918185634,0.0011533451,"LIRO","Shortwave/Longwave Net Radiation","inNetRadPyranometer","On-shore MET station"
-"NEON.D05.LIRO.DP0.00023.001.01316.200.000.000",-6.39414211e-05,6.41150792281036e-05,0.000299292937,"LIRO","Shortwave/Longwave Net Radiation","outNetRadPyranometer","On-shore MET station"
+"NEON.D05.LIRO.DP0.00023.001.01316.200.000.000",-6.39414211e-05,6.41150792281037e-05,0.000299292937,"LIRO","Shortwave/Longwave Net Radiation","outNetRadPyranometer","On-shore MET station"
 "NEON.D05.LIRO.DP0.00023.001.01317.200.000.000",-0.000126705301,-1.52729308469433e-05,1.51333534e-05,"LIRO","Shortwave/Longwave Net Radiation","inNetRadPyrgeometer","On-shore MET station"
 "NEON.D05.LIRO.DP0.00023.001.01318.200.000.000",-0.000124914979,4.59109115813853e-06,5.58088577e-05,"LIRO","Shortwave/Longwave Net Radiation","outNetRadPyrgeometer","On-shore MET station"
 "NEON.D05.LIRO.DP0.00024.001.01320.200.000.000",5.5160001e-09,6.10729295422075e-05,0.000356236153,"LIRO","Photosynthetically Active Radiation","inPAR","On-shore MET station"

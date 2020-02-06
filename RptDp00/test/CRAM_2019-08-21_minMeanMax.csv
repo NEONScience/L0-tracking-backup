@@ -100,7 +100,7 @@
 "NEON.D05.CRAM.DP0.20015.001.01377.307.000.000",0,0,0,"CRAM","Specific Conductivity, Temperature, and Elevation of groundwater","pressureDataQualityID","Ground water well 7"
 "NEON.D05.CRAM.DP0.20015.001.01377.308.000.000",0,0,0,"CRAM","Specific Conductivity, Temperature, and Elevation of groundwater","pressureDataQualityID","Ground water well 8"
 "NEON.D05.CRAM.DP0.20032.001.01314.103.100.000",105.708328,107.149776101042,108.650848,"CRAM","Shortwave/Longwave Net Radiation","sensorResistance","Buoy"
-"NEON.D05.CRAM.DP0.20032.001.01315.103.100.000",-0.000120636047,0.00550154027562926,0.0244393703,"CRAM","Shortwave/Longwave Net Radiation","inNetRadPyranometer","Buoy"
+"NEON.D05.CRAM.DP0.20032.001.01315.103.100.000",-0.000120636047,0.00550154027562925,0.0244393703,"CRAM","Shortwave/Longwave Net Radiation","inNetRadPyranometer","Buoy"
 "NEON.D05.CRAM.DP0.20032.001.01316.103.100.000",1.22286838e-05,0.000426390107391215,0.00163103337,"CRAM","Shortwave/Longwave Net Radiation","outNetRadPyranometer","Buoy"
 "NEON.D05.CRAM.DP0.20032.001.01317.103.100.000",-0.00134056411,-0.000840101590505208,-0.000122900252,"CRAM","Shortwave/Longwave Net Radiation","inNetRadPyrgeometer","Buoy"
 "NEON.D05.CRAM.DP0.20032.001.01318.103.100.000",0,0.000123024838854271,0.000281486311,"CRAM","Shortwave/Longwave Net Radiation","outNetRadPyrgeometer","Buoy"

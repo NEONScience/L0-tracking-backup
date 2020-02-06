@@ -76,7 +76,7 @@
 "NEON.D05.CRAM.DP0.20015.001.01377.306.000.000",0,0,0,"CRAM","Specific Conductivity, Temperature, and Elevation of groundwater","pressureDataQualityID","Ground water well 6"
 "NEON.D05.CRAM.DP0.20015.001.01377.307.000.000",0,0,0,"CRAM","Specific Conductivity, Temperature, and Elevation of groundwater","pressureDataQualityID","Ground water well 7"
 "NEON.D05.CRAM.DP0.20015.001.01377.308.000.000",0,0,0,"CRAM","Specific Conductivity, Temperature, and Elevation of groundwater","pressureDataQualityID","Ground water well 8"
-"NEON.D05.CRAM.DP0.20054.001.01371.130.100.000",8.71632576,8.88673836845834,9.02012062,"CRAM","c(""Specific Conductivity, Temperature, and Elevation of Surface Water"", ""Temperature (digital thermistor) of surface water"")","conductance","Lake inlet"
+"NEON.D05.CRAM.DP0.20054.001.01371.130.100.000",8.71632576,8.88673836845833,9.02012062,"CRAM","c(""Specific Conductivity, Temperature, and Elevation of Surface Water"", ""Temperature (digital thermistor) of surface water"")","conductance","Lake inlet"
 "NEON.D05.CRAM.DP0.20054.001.01371.140.100.000",NA,NA,NA,"CRAM","c(""Specific Conductivity, Temperature, and Elevation of Surface Water"", ""Temperature (digital thermistor) of surface water"")","conductance","Lake outlet"
 "NEON.D05.CRAM.DP0.20054.001.01372.130.100.000",3.44899988,3.4513367970625,3.45600009,"CRAM","c(""Specific Conductivity, Temperature, and Elevation of Surface Water"", ""Temperature (digital thermistor) of surface water"")","batteryVoltage","Lake inlet"
 "NEON.D05.CRAM.DP0.20054.001.01372.140.100.000",NA,NA,NA,"CRAM","c(""Specific Conductivity, Temperature, and Elevation of Surface Water"", ""Temperature (digital thermistor) of surface water"")","batteryVoltage","Lake outlet"

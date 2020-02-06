@@ -18,7 +18,7 @@
 "NEON.D05.LIRO.DP0.00024.001.01320.200.000.000",1.54495453e-07,8.06105136001039e-05,0.00368223526,"LIRO","Photosynthetically Active Radiation","inPAR","On-shore MET station"
 "NEON.D05.LIRO.DP0.00098.001.01309.200.000.000",1.84099996,10.3027170887507,15.5579996,"LIRO","Relative Humidity","sensorTemp","On-shore MET station"
 "NEON.D05.LIRO.DP0.00098.001.01357.200.000.000",59.9570007,87.154553297157,96.8000031,"LIRO","Relative Humidity","RH","On-shore MET station"
-"NEON.D05.LIRO.DP0.00098.001.01358.200.000.000",-4.52899981,8.22572630307385,14.7220001,"LIRO","Relative Humidity","dewPoint","On-shore MET station"
+"NEON.D05.LIRO.DP0.00098.001.01358.200.000.000",-4.52899981,8.22572630307384,14.7220001,"LIRO","Relative Humidity","dewPoint","On-shore MET station"
 "NEON.D05.LIRO.DP0.00098.001.01359.200.000.000",0,0,0,"LIRO","Relative Humidity","RHStatus","On-shore MET station"
 "NEON.D05.LIRO.DP0.20015.001.01371.301.000.000",41.961441,45.9826016309028,47.4116821,"LIRO","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Ground water well 1"
 "NEON.D05.LIRO.DP0.20015.001.01371.302.000.000",38.9190788,39.5344944163195,39.9488449,"LIRO","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Ground water well 2"

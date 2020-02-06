@@ -8,7 +8,7 @@
 "NEON.D05.LIRO.DP0.00002.001.01326.200.000.000",0,4072.60989387951,4095.03345,"LIRO","Single Aspirated Air Temperature","fanSpeed","On-shore MET station"
 "NEON.D05.LIRO.DP0.00002.001.01330.200.000.000",480,623.633681380625,660.027222,"LIRO","Single Aspirated Air Temperature","turbineSpeed","On-shore MET station"
 "NEON.D05.LIRO.DP0.00004.001.01309.200.000.000",11.9399996,14.0551943920736,18.2199993,"LIRO","Barometric Pressure","sensorTemp","On-shore MET station"
-"NEON.D05.LIRO.DP0.00004.001.01311.200.000.000",94.6100006,94.8546750145683,95.1900024,"LIRO","Barometric Pressure","rawBarometricPressure","On-shore MET station"
+"NEON.D05.LIRO.DP0.00004.001.01311.200.000.000",94.6100006,94.8546750145684,95.1900024,"LIRO","Barometric Pressure","rawBarometricPressure","On-shore MET station"
 "NEON.D05.LIRO.DP0.00004.001.01312.200.000.000",0,0,0,"LIRO","Barometric Pressure","sensorStatus","On-shore MET station"
 "NEON.D05.LIRO.DP0.00023.001.01314.200.000.000",104.112633,104.95032281919,106.598373,"LIRO","Shortwave/Longwave Net Radiation","sensorResistance","On-shore MET station"
 "NEON.D05.LIRO.DP0.00023.001.01315.200.000.000",-5.16703185e-05,0.000217263029313389,0.0078725135,"LIRO","Shortwave/Longwave Net Radiation","inNetRadPyranometer","On-shore MET station"

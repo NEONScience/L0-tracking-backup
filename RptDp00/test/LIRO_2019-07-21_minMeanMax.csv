@@ -130,6 +130,6 @@
 "NEON.D05.LIRO.DP0.20264.001.02895.103.100.000",16.0319996,16.3239687317361,16.927,"LIRO","Temperature at specific depth in lakes","depth8WaterTemp","Buoy"
 "NEON.D05.LIRO.DP0.20264.001.02896.103.100.000",13.7379999,13.9937347215972,14.6079998,"LIRO","Temperature at specific depth in lakes","depth9WaterTemp","Buoy"
 "NEON.D05.LIRO.DP0.20271.001.01309.103.100.000",13.0010004,17.5072222263889,21.9470005,"LIRO","Relative Humidity of the air above lakes on buoy","sensorTemp","Buoy"
-"NEON.D05.LIRO.DP0.20271.001.01357.103.100.000",51.769001,78.4237167180555,97.9660034,"LIRO","Relative Humidity of the air above lakes on buoy","RH","Buoy"
+"NEON.D05.LIRO.DP0.20271.001.01357.103.100.000",51.769001,78.4237167180556,97.9660034,"LIRO","Relative Humidity of the air above lakes on buoy","RH","Buoy"
 "NEON.D05.LIRO.DP0.20271.001.01358.103.100.000",10.7869997,13.310164579375,16.5060005,"LIRO","Relative Humidity of the air above lakes on buoy","dewPoint","Buoy"
 "NEON.D05.LIRO.DP0.20271.001.01359.103.100.000",-1,-1,-1,"LIRO","Relative Humidity of the air above lakes on buoy","RHStatus","Buoy"

@@ -96,7 +96,7 @@
 "NEON.D05.LIRO.DP0.20032.001.01315.103.100.000",-0.000125721621,0.00561140832420689,0.0210787393,"LIRO","Shortwave/Longwave Net Radiation","inNetRadPyranometer","Buoy"
 "NEON.D05.LIRO.DP0.20032.001.01316.103.100.000",1.99455226e-05,0.000513910762158819,0.0017602318,"LIRO","Shortwave/Longwave Net Radiation","outNetRadPyranometer","Buoy"
 "NEON.D05.LIRO.DP0.20032.001.01317.103.100.000",-0.0014343966,-0.000986052530311458,-0.000460558076,"LIRO","Shortwave/Longwave Net Radiation","inNetRadPyrgeometer","Buoy"
-"NEON.D05.LIRO.DP0.20032.001.01318.103.100.000",-0.000206599929,0.000176541243454497,0.000466542406,"LIRO","Shortwave/Longwave Net Radiation","outNetRadPyrgeometer","Buoy"
+"NEON.D05.LIRO.DP0.20032.001.01318.103.100.000",-0.000206599929,0.000176541243454496,0.000466542406,"LIRO","Shortwave/Longwave Net Radiation","outNetRadPyrgeometer","Buoy"
 "NEON.D05.LIRO.DP0.20033.001.02242.103.100.000",0,5.21415861718353,5.84,"LIRO","Nitrate in surface water","rawNitrateSingleCompressedStream","Buoy"
 "NEON.D05.LIRO.DP0.20042.001.01320.103.100.000",0,0.00330996398170627,0.0127407731,"LIRO","Photosynthetically active radiation at water surface","inPAR","Buoy"
 "NEON.D05.LIRO.DP0.20054.001.01371.130.100.000",40.5151787,41.2294707490223,42.4865799,"LIRO","c(""Specific Conductivity, Temperature, and Elevation of Surface Water"", ""Temperature (digital thermistor) of surface water"")","conductance","Lake inlet"

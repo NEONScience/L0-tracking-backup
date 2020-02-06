@@ -42,7 +42,7 @@
 "NEON.D05.LIRO.DP0.20005.001.01667.103.100.000",-1.44000006,-1.31661971119366,-0.730000019,"LIRO","Water Quality","blueGreenAlgaeRaw","Buoy"
 "NEON.D05.LIRO.DP0.20005.001.01668.103.100.000",2,3.54570422288732,7.21999979,"LIRO","Water Quality","fDOMRaw","Buoy"
 "NEON.D05.LIRO.DP0.20005.001.01669.103.100.000",0.0199999996,0.0312676049285211,0.140000001,"LIRO","Water Quality","turbidityRaw","Buoy"
-"NEON.D05.LIRO.DP0.20005.001.01670.103.100.000",1.20000005,1.22038735707747,1.52999997,"LIRO","Water Quality","wiperPosition","Buoy"
+"NEON.D05.LIRO.DP0.20005.001.01670.103.100.000",1.20000005,1.22038735707746,1.52999997,"LIRO","Water Quality","wiperPosition","Buoy"
 "NEON.D05.LIRO.DP0.20015.001.01371.301.000.000",35.9745369,36.1344972197917,36.3723831,"LIRO","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Ground water well 1"
 "NEON.D05.LIRO.DP0.20015.001.01371.302.000.000",26.8128033,26.9101923118056,27.0093079,"LIRO","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Ground water well 2"
 "NEON.D05.LIRO.DP0.20015.001.01371.303.000.000",151.900085,159.588314815972,166.22998,"LIRO","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Ground water well 3"

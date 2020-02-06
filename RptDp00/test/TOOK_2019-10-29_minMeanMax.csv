@@ -46,5 +46,5 @@
 "NEON.D18.TOOK.DP0.20054.001.01377.140.100.000",NA,NA,NA,"TOOK","c(""Specific Conductivity, Temperature, and Elevation of Surface Water"", ""Temperature (digital thermistor) of surface water"")","pressureDataQualityID","Lake outlet"
 "NEON.D18.TOOK.DP0.20054.001.01377.150.100.000",0,0,0,"TOOK","c(""Specific Conductivity, Temperature, and Elevation of Surface Water"", ""Temperature (digital thermistor) of surface water"")","pressureDataQualityID","Inflow"
 "NEON.D18.TOOK.DP0.20054.001.01377.160.100.000",0,0,0,"TOOK","c(""Specific Conductivity, Temperature, and Elevation of Surface Water"", ""Temperature (digital thermistor) of surface water"")","pressureDataQualityID","Outflow"
-"NEON.D18.TOOK.DP0.20261.001.01320.130.100.000",-9.32032151e-07,9.53431928419047e-06,5.01638569e-05,"TOOK","Photosynthetically Active Radiation","inPAR","Lake inlet"
+"NEON.D18.TOOK.DP0.20261.001.01320.130.100.000",-9.32032151e-07,9.53431928419048e-06,5.01638569e-05,"TOOK","Photosynthetically Active Radiation","inPAR","Lake inlet"
 "NEON.D18.TOOK.DP0.20261.001.01320.140.100.000",NA,NA,NA,"TOOK","Photosynthetically Active Radiation","inPAR","Lake outlet"
