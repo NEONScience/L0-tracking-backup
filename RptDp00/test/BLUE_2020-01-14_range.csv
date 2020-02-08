@@ -38,7 +38,7 @@
 "NEON.D11.BLUE.DP0.00023.001.01318.200.000.000",100,"BLUE","Shortwave/Longwave Net Radiation","outNetRadPyrgeometer","On-shore MET station"
 "NEON.D11.BLUE.DP0.00024.001.01320.200.000.000",100,"BLUE","Photosynthetically Active Radiation","inPAR","On-shore MET station"
 "NEON.D11.BLUE.DP0.00098.001.01309.200.000.000",100,"BLUE","Relative Humidity","sensorTemp","On-shore MET station"
-"NEON.D11.BLUE.DP0.00098.001.01357.200.000.000",85,"BLUE","Relative Humidity","RH","On-shore MET station"
+"NEON.D11.BLUE.DP0.00098.001.01357.200.000.000",100,"BLUE","Relative Humidity","RH","On-shore MET station"
 "NEON.D11.BLUE.DP0.00098.001.01358.200.000.000",100,"BLUE","Relative Humidity","dewPoint","On-shore MET station"
 "NEON.D11.BLUE.DP0.00098.001.01359.200.000.000",NA,"BLUE","Relative Humidity","RHStatus","On-shore MET station"
 "NEON.D11.BLUE.DP0.20005.001.01093.112.100.000",NA,"BLUE","Water Quality","specificConductance","Stream sensor location 2"
