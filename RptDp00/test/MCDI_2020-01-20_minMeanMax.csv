@@ -44,7 +44,7 @@
 "NEON.D06.MCDI.DP0.20005.001.01660.102.100.000",4.25,5.54274115641221,607.130005,"MCDI","Water Quality","chlorophyll","Stream sensor location 2"
 "NEON.D06.MCDI.DP0.20005.001.01661.102.100.000",42.0499992,46.1592158186676,57.4199982,"MCDI","Water Quality","fDOM","Stream sensor location 2"
 "NEON.D06.MCDI.DP0.20005.001.01662.101.100.000",7.19999981,8.43142361533333,11.96,"MCDI","Water Quality","turbidity","Stream sensor location 1"
-"NEON.D06.MCDI.DP0.20005.001.01662.102.100.000",7.28999996,9.15700901378904,878.849976,"MCDI","Water Quality","turbidity","Stream sensor location 2"
+"NEON.D06.MCDI.DP0.20005.001.01662.102.100.000",7.28999996,9.15700901378903,878.849976,"MCDI","Water Quality","turbidity","Stream sensor location 2"
 "NEON.D06.MCDI.DP0.20005.001.01663.101.100.000",14.5900002,14.608416725,14.6300001,"MCDI","Water Quality","sondeSurfaceWaterPressure","Stream sensor location 1"
 "NEON.D06.MCDI.DP0.20005.001.01663.102.100.000",14.7799997,14.7973491920194,14.8199997,"MCDI","Water Quality","sondeSurfaceWaterPressure","Stream sensor location 2"
 "NEON.D06.MCDI.DP0.20005.001.01664.101.100.000",10.2600002,10.2696807847222,10.2799997,"MCDI","Water Quality","sensorDepth","Stream sensor location 1"

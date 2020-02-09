@@ -30,7 +30,7 @@
 "NEON.D13.WLOU.DP0.20005.001.01371.102.100.000",0,"WLOU","Water Quality","conductance","Stream sensor location 2"
 "NEON.D13.WLOU.DP0.20005.001.01372.101.100.000",NA,"WLOU","Water Quality","batteryVoltage","Stream sensor location 1"
 "NEON.D13.WLOU.DP0.20005.001.01372.102.100.000",NA,"WLOU","Water Quality","batteryVoltage","Stream sensor location 2"
-"NEON.D13.WLOU.DP0.20005.001.01378.101.100.000",100,"WLOU","Water Quality","surfaceWaterTemperature","Stream sensor location 1"
+"NEON.D13.WLOU.DP0.20005.001.01378.101.100.000",65,"WLOU","Water Quality","surfaceWaterTemperature","Stream sensor location 1"
 "NEON.D13.WLOU.DP0.20005.001.01378.102.100.000",0,"WLOU","Water Quality","surfaceWaterTemperature","Stream sensor location 2"
 "NEON.D13.WLOU.DP0.20005.001.01647.101.100.000",NA,"WLOU","Water Quality","sensorVoltage","Stream sensor location 1"
 "NEON.D13.WLOU.DP0.20005.001.01647.102.100.000",NA,"WLOU","Water Quality","sensorVoltage","Stream sensor location 2"

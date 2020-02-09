@@ -30,3 +30,5 @@
 "NEON.D19.CARI.DP0.20016.001.01379.102.100.000",100,"CARI","Elevation of surface water","surfaceWaterPressure","Stream sensor location 2"
 "NEON.D19.CARI.DP0.20053.001.01325.101.100.000",100,"CARI","Temperature (PRT) in surface water","PRTResistance","Stream sensor location 1"
 "NEON.D19.CARI.DP0.20053.001.01325.102.100.000",100,"CARI","Temperature (PRT) in surface water","PRTResistance","Stream sensor location 2"
+"NEON.D19.CARI.DP0.20054.001.01371.131.100.000",100,"CARI","c(""Specific Conductivity, Temperature, and Elevation of Surface Water"", ""Temperature (digital thermistor) of surface water"")","conductance","Stream sensor location 1"
+"NEON.D19.CARI.DP0.20054.001.01371.132.100.000",100,"CARI","c(""Specific Conductivity, Temperature, and Elevation of Surface Water"", ""Temperature (digital thermistor) of surface water"")","conductance","Stream sensor location 2"

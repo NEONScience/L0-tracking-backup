@@ -92,5 +92,5 @@
 "NEON.D07.WALK.DP0.20033.001.02242.102.100.000",0,42.3154910714286,45.26,"WALK","Nitrate in surface water","rawNitrateSingleCompressedStream","Stream sensor location 2"
 "NEON.D07.WALK.DP0.20042.001.01320.101.100.000",-2.40602253e-06,6.78012216333512e-05,0.000718871481,"WALK","Photosynthetically active radiation at water surface","inPAR","Stream sensor location 1"
 "NEON.D07.WALK.DP0.20042.001.01320.102.100.000",-1.57189129e-06,6.72000605025539e-05,0.000656347314,"WALK","Photosynthetically active radiation at water surface","inPAR","Stream sensor location 2"
-"NEON.D07.WALK.DP0.20053.001.01325.101.100.000",104.391922,104.475527683225,104.618179,"WALK","Temperature (PRT) in surface water","PRTResistance","Stream sensor location 1"
+"NEON.D07.WALK.DP0.20053.001.01325.101.100.000",104.391922,104.475527683226,104.618179,"WALK","Temperature (PRT) in surface water","PRTResistance","Stream sensor location 1"
 "NEON.D07.WALK.DP0.20053.001.01325.102.100.000",104.571632,104.649091030811,104.791107,"WALK","Temperature (PRT) in surface water","PRTResistance","Stream sensor location 2"

@@ -44,7 +44,7 @@
 "NEON.D11.BLUE.DP0.20005.001.01093.112.100.000",308.709991,353.772758461432,490.480011,"BLUE","Water Quality","specificConductance","Stream sensor location 2"
 "NEON.D11.BLUE.DP0.20005.001.01151.112.100.000",10.3699999,10.6066412268564,10.75,"BLUE","Water Quality","dissolvedOxygen","Stream sensor location 2"
 "NEON.D11.BLUE.DP0.20005.001.01360.112.100.000",92.9199982,93.4833726853574,94.6600037,"BLUE","Water Quality","dissolvedOxygenSaturation","Stream sensor location 2"
-"NEON.D11.BLUE.DP0.20005.001.01371.112.100.000",216.860001,250.706326255556,351.269989,"BLUE","Water Quality","conductance","Stream sensor location 2"
+"NEON.D11.BLUE.DP0.20005.001.01371.112.100.000",216.860001,250.706326255555,351.269989,"BLUE","Water Quality","conductance","Stream sensor location 2"
 "NEON.D11.BLUE.DP0.20005.001.01372.112.100.000",6.26000023,6.26448622895834,6.26999998,"BLUE","Water Quality","batteryVoltage","Stream sensor location 2"
 "NEON.D11.BLUE.DP0.20005.001.01378.112.100.000",9.06000042,9.74370574630118,10.8699999,"BLUE","Water Quality","surfaceWaterTemperature","Stream sensor location 2"
 "NEON.D11.BLUE.DP0.20005.001.01647.112.100.000",11.6999998,11.7290066744444,11.7399998,"BLUE","Water Quality","sensorVoltage","Stream sensor location 2"

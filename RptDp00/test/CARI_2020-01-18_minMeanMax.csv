@@ -1,6 +1,6 @@
 "streams","minimum","mean","maximum","site","dp.name","term.name","location"
 "NEON.D19.CARI.DP0.00001.001.01306.200.000.000",-4.21000004,-0.065341806054708,1.70000005,"CARI","2D Wind Speed and Direction","uVectorComponent","On-shore MET station"
-"NEON.D19.CARI.DP0.00001.001.01307.200.000.000",-2.1400001,-0.204182928974057,3.56999993,"CARI","2D Wind Speed and Direction","vVectorComponent","On-shore MET station"
+"NEON.D19.CARI.DP0.00001.001.01307.200.000.000",-2.1400001,-0.204182928974058,3.56999993,"CARI","2D Wind Speed and Direction","vVectorComponent","On-shore MET station"
 "NEON.D19.CARI.DP0.00001.001.01310.200.000.000",60,60,60,"CARI","2D Wind Speed and Direction","2dWindSensorStatus","On-shore MET station"
 "NEON.D19.CARI.DP0.00002.001.01325.200.000.000",87.3489761,90.7333304348101,95.9914093,"CARI","Single Aspirated Air Temperature","PRTResistance","On-shore MET station"
 "NEON.D19.CARI.DP0.00002.001.01326.200.000.000",0,3987.70782480728,4020.07275,"CARI","Single Aspirated Air Temperature","fanSpeed","On-shore MET station"
@@ -30,3 +30,5 @@
 "NEON.D19.CARI.DP0.20016.001.01379.102.100.000",2.96118379,3.2506894916875,4.12177944,"CARI","Elevation of surface water","surfaceWaterPressure","Stream sensor location 2"
 "NEON.D19.CARI.DP0.20053.001.01325.101.100.000",100.098969,100.102706611272,100.107758,"CARI","Temperature (PRT) in surface water","PRTResistance","Stream sensor location 1"
 "NEON.D19.CARI.DP0.20053.001.01325.102.100.000",99.9107742,99.9389455258358,99.9847488,"CARI","Temperature (PRT) in surface water","PRTResistance","Stream sensor location 2"
+"NEON.D19.CARI.DP0.20054.001.01371.131.100.000",58.5291138,58.8304218667361,59.0862923,"CARI","c(""Specific Conductivity, Temperature, and Elevation of Surface Water"", ""Temperature (digital thermistor) of surface water"")","conductance","Stream sensor location 1"
+"NEON.D19.CARI.DP0.20054.001.01371.132.100.000",56.6553993,56.9706271968055,57.2862091,"CARI","c(""Specific Conductivity, Temperature, and Elevation of Surface Water"", ""Temperature (digital thermistor) of surface water"")","conductance","Stream sensor location 2"

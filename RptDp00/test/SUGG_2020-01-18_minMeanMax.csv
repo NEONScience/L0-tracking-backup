@@ -102,7 +102,7 @@
 "NEON.D03.SUGG.DP0.20032.001.01314.103.100.000",104.154839,106.553146431944,109.654915,"SUGG","Shortwave/Longwave Net Radiation","sensorResistance","Buoy"
 "NEON.D03.SUGG.DP0.20032.001.01315.103.100.000",-7.79161783e-05,0.00251497163137908,0.0135655273,"SUGG","Shortwave/Longwave Net Radiation","inNetRadPyranometer","Buoy"
 "NEON.D03.SUGG.DP0.20032.001.01316.103.100.000",-1.65077217e-05,0.000402842056291926,0.00175091624,"SUGG","Shortwave/Longwave Net Radiation","outNetRadPyranometer","Buoy"
-"NEON.D03.SUGG.DP0.20032.001.01317.103.100.000",-0.0010716801,-0.00080391669594618,-0.00013196154,"SUGG","Shortwave/Longwave Net Radiation","inNetRadPyrgeometer","Buoy"
+"NEON.D03.SUGG.DP0.20032.001.01317.103.100.000",-0.0010716801,-0.000803916695946181,-0.00013196154,"SUGG","Shortwave/Longwave Net Radiation","inNetRadPyrgeometer","Buoy"
 "NEON.D03.SUGG.DP0.20032.001.01318.103.100.000",-0.000246853218,4.41572631875097e-05,0.000251012971,"SUGG","Shortwave/Longwave Net Radiation","outNetRadPyrgeometer","Buoy"
 "NEON.D03.SUGG.DP0.20033.001.02242.103.100.000",Inf,NA,-Inf,"SUGG","Nitrate in surface water","rawNitrateSingleCompressedStream","Buoy"
 "NEON.D03.SUGG.DP0.20042.001.01320.103.100.000",0,0.0017987006889479,0.00929390639,"SUGG","Photosynthetically active radiation at water surface","inPAR","Buoy"
