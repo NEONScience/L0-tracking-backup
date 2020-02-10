@@ -26,7 +26,7 @@
 "NEON.D02.POSE.DP0.20005.001.01151.102.100.000",100,"POSE","Water Quality","dissolvedOxygen","Stream sensor location 2"
 "NEON.D02.POSE.DP0.20005.001.01360.101.100.000",100,"POSE","Water Quality","dissolvedOxygenSaturation","Stream sensor location 1"
 "NEON.D02.POSE.DP0.20005.001.01360.102.100.000",100,"POSE","Water Quality","dissolvedOxygenSaturation","Stream sensor location 2"
-"NEON.D02.POSE.DP0.20005.001.01371.101.100.000",5,"POSE","Water Quality","conductance","Stream sensor location 1"
+"NEON.D02.POSE.DP0.20005.001.01371.101.100.000",15,"POSE","Water Quality","conductance","Stream sensor location 1"
 "NEON.D02.POSE.DP0.20005.001.01371.102.100.000",100,"POSE","Water Quality","conductance","Stream sensor location 2"
 "NEON.D02.POSE.DP0.20005.001.01372.101.100.000",100,"POSE","Water Quality","batteryVoltage","Stream sensor location 1"
 "NEON.D02.POSE.DP0.20005.001.01372.102.100.000",100,"POSE","Water Quality","batteryVoltage","Stream sensor location 2"
