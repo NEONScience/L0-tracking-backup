@@ -251,7 +251,7 @@
 "NEON.D10.CPER.DP0.00095.001.01729.003.501.000",100,"CPER","Soil CO2 concentration","rawCO2","Soil Plot 3, depth 1"
 "NEON.D10.CPER.DP0.00095.001.01729.003.502.000",100,"CPER","Soil CO2 concentration","rawCO2","Soil Plot 3, depth 2"
 "NEON.D10.CPER.DP0.00095.001.01729.003.503.000",100,"CPER","Soil CO2 concentration","rawCO2","Soil Plot 3, depth 3"
-"NEON.D10.CPER.DP0.00095.001.01729.004.501.000",5,"CPER","Soil CO2 concentration","rawCO2","Soil Plot 4, depth 1"
+"NEON.D10.CPER.DP0.00095.001.01729.004.501.000",100,"CPER","Soil CO2 concentration","rawCO2","Soil Plot 4, depth 1"
 "NEON.D10.CPER.DP0.00095.001.01729.004.502.000",100,"CPER","Soil CO2 concentration","rawCO2","Soil Plot 4, depth 2"
 "NEON.D10.CPER.DP0.00095.001.01729.004.503.000",100,"CPER","Soil CO2 concentration","rawCO2","Soil Plot 4, depth 3"
 "NEON.D10.CPER.DP0.00095.001.01729.005.501.000",100,"CPER","Soil CO2 concentration","rawCO2","Soil Plot 5, depth 1"

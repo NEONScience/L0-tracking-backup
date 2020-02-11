@@ -43,7 +43,7 @@
 "NEON.D04.GUIL.DP0.20005.001.01659.102.100.000",100,"GUIL","Water Quality","blueGreenAlgaePhycocyanin","Stream sensor location 2"
 "NEON.D04.GUIL.DP0.20005.001.01660.101.100.000",0,"GUIL","Water Quality","chlorophyll","Stream sensor location 1"
 "NEON.D04.GUIL.DP0.20005.001.01660.102.100.000",100,"GUIL","Water Quality","chlorophyll","Stream sensor location 2"
-"NEON.D04.GUIL.DP0.20005.001.01661.102.100.000",70,"GUIL","Water Quality","fDOM","Stream sensor location 2"
+"NEON.D04.GUIL.DP0.20005.001.01661.102.100.000",65,"GUIL","Water Quality","fDOM","Stream sensor location 2"
 "NEON.D04.GUIL.DP0.20005.001.01662.101.100.000",100,"GUIL","Water Quality","turbidity","Stream sensor location 1"
 "NEON.D04.GUIL.DP0.20005.001.01662.102.100.000",100,"GUIL","Water Quality","turbidity","Stream sensor location 2"
 "NEON.D04.GUIL.DP0.20005.001.01663.101.100.000",100,"GUIL","Water Quality","sondeSurfaceWaterPressure","Stream sensor location 1"

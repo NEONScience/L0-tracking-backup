@@ -275,7 +275,7 @@
 "NEON.D19.BONA.DP0.00095.001.01731.005.501.000",NA,"BONA","Soil CO2 concentration","errorStatus","Soil Plot 5, depth 1"
 "NEON.D19.BONA.DP0.00095.001.01731.005.502.000",NA,"BONA","Soil CO2 concentration","errorStatus","Soil Plot 5, depth 2"
 "NEON.D19.BONA.DP0.00095.001.01731.005.503.000",NA,"BONA","Soil CO2 concentration","errorStatus","Soil Plot 5, depth 3"
-"NEON.D19.BONA.DP0.00098.001.01309.000.050.000",50,"BONA","Relative Humidity","sensorTemp","Meas. Level 5"
+"NEON.D19.BONA.DP0.00098.001.01309.000.050.000",45,"BONA","Relative Humidity","sensorTemp","Meas. Level 5"
 "NEON.D19.BONA.DP0.00098.001.01309.003.000.000",40,"BONA","Relative Humidity","sensorTemp","Soil Plot 3"
 "NEON.D19.BONA.DP0.00098.001.01357.000.050.000",100,"BONA","Relative Humidity","RH","Meas. Level 5"
 "NEON.D19.BONA.DP0.00098.001.01357.003.000.000",100,"BONA","Relative Humidity","RH","Soil Plot 3"
