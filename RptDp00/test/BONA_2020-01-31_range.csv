@@ -35,7 +35,7 @@
 "NEON.D19.BONA.DP0.00005.001.01313.000.020.000",100,"BONA","IR Biological Temperature","infraredThermopileOutput","Meas. Level 2"
 "NEON.D19.BONA.DP0.00005.001.01313.000.030.000",100,"BONA","IR Biological Temperature","infraredThermopileOutput","Meas. Level 3"
 "NEON.D19.BONA.DP0.00005.001.01313.003.000.000",100,"BONA","IR Biological Temperature","infraredThermopileOutput","Soil Plot 3"
-"NEON.D19.BONA.DP0.00005.001.01314.000.010.000",50,"BONA","IR Biological Temperature","sensorResistance","Meas. Level 1"
+"NEON.D19.BONA.DP0.00005.001.01314.000.010.000",55,"BONA","IR Biological Temperature","sensorResistance","Meas. Level 1"
 "NEON.D19.BONA.DP0.00005.001.01314.000.020.000",55,"BONA","IR Biological Temperature","sensorResistance","Meas. Level 2"
 "NEON.D19.BONA.DP0.00005.001.01314.000.030.000",60,"BONA","IR Biological Temperature","sensorResistance","Meas. Level 3"
 "NEON.D19.BONA.DP0.00005.001.01314.003.000.000",100,"BONA","IR Biological Temperature","sensorResistance","Soil Plot 3"

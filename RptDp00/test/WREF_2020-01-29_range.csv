@@ -218,7 +218,7 @@
 "NEON.D16.WREF.DP0.00094.001.02085.005.501.000",100,"WREF","Soil water and salinity","rawVSWC2","Soil Plot 5, depth 1"
 "NEON.D16.WREF.DP0.00094.001.02086.001.501.000",100,"WREF","Soil water and salinity","rawVSIC2","Soil Plot 1, depth 1"
 "NEON.D16.WREF.DP0.00094.001.02086.002.501.000",NA,"WREF","Soil water and salinity","rawVSIC2","Soil Plot 2, depth 1"
-"NEON.D16.WREF.DP0.00094.001.02086.003.501.000",85,"WREF","Soil water and salinity","rawVSIC2","Soil Plot 3, depth 1"
+"NEON.D16.WREF.DP0.00094.001.02086.003.501.000",90,"WREF","Soil water and salinity","rawVSIC2","Soil Plot 3, depth 1"
 "NEON.D16.WREF.DP0.00094.001.02086.004.501.000",100,"WREF","Soil water and salinity","rawVSIC2","Soil Plot 4, depth 1"
 "NEON.D16.WREF.DP0.00094.001.02086.005.501.000",100,"WREF","Soil water and salinity","rawVSIC2","Soil Plot 5, depth 1"
 "NEON.D16.WREF.DP0.00094.001.02087.001.501.000",100,"WREF","Soil water and salinity","rawVSWC3","Soil Plot 1, depth 1"

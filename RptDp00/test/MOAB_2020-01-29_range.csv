@@ -219,7 +219,7 @@
 "NEON.D13.MOAB.DP0.00094.001.02096.003.501.000",100,"MOAB","Soil water and salinity","rawVSIC7","Soil Plot 3, depth 1"
 "NEON.D13.MOAB.DP0.00094.001.02096.004.501.000",100,"MOAB","Soil water and salinity","rawVSIC7","Soil Plot 4, depth 1"
 "NEON.D13.MOAB.DP0.00094.001.02096.005.501.000",100,"MOAB","Soil water and salinity","rawVSIC7","Soil Plot 5, depth 1"
-"NEON.D13.MOAB.DP0.00095.001.01729.001.501.000",80,"MOAB","Soil CO2 concentration","rawCO2","Soil Plot 1, depth 1"
+"NEON.D13.MOAB.DP0.00095.001.01729.001.501.000",100,"MOAB","Soil CO2 concentration","rawCO2","Soil Plot 1, depth 1"
 "NEON.D13.MOAB.DP0.00095.001.01729.001.502.000",100,"MOAB","Soil CO2 concentration","rawCO2","Soil Plot 1, depth 2"
 "NEON.D13.MOAB.DP0.00095.001.01729.001.503.000",100,"MOAB","Soil CO2 concentration","rawCO2","Soil Plot 1, depth 3"
 "NEON.D13.MOAB.DP0.00095.001.01729.002.501.000",100,"MOAB","Soil CO2 concentration","rawCO2","Soil Plot 2, depth 1"

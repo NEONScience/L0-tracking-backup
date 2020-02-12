@@ -6,7 +6,7 @@
 "NEON.D18.BARR.DP0.00001.001.01310.000.020.000",NA,"BARR","2D Wind Speed and Direction","2dWindSensorStatus","Meas. Level 2"
 "NEON.D18.BARR.DP0.00001.001.01310.000.030.000",NA,"BARR","2D Wind Speed and Direction","2dWindSensorStatus","Meas. Level 3"
 "NEON.D18.BARR.DP0.00002.001.01325.000.020.000",NA,"BARR","Single Aspirated Air Temperature","PRTResistance","Meas. Level 2"
-"NEON.D18.BARR.DP0.00002.001.01325.000.030.000",25,"BARR","Single Aspirated Air Temperature","PRTResistance","Meas. Level 3"
+"NEON.D18.BARR.DP0.00002.001.01325.000.030.000",30,"BARR","Single Aspirated Air Temperature","PRTResistance","Meas. Level 3"
 "NEON.D18.BARR.DP0.00002.001.01326.000.020.000",NA,"BARR","Single Aspirated Air Temperature","fanSpeed","Meas. Level 2"
 "NEON.D18.BARR.DP0.00002.001.01326.000.030.000",100,"BARR","Single Aspirated Air Temperature","fanSpeed","Meas. Level 3"
 "NEON.D18.BARR.DP0.00002.001.01330.000.020.000",NA,"BARR","Single Aspirated Air Temperature","turbineSpeed","Meas. Level 2"

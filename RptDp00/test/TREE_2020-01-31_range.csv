@@ -30,7 +30,7 @@
 "NEON.D05.TREE.DP0.00002.001.01330.000.020.000",100,"TREE","Single Aspirated Air Temperature","turbineSpeed","Meas. Level 2"
 "NEON.D05.TREE.DP0.00002.001.01330.000.030.000",100,"TREE","Single Aspirated Air Temperature","turbineSpeed","Meas. Level 3"
 "NEON.D05.TREE.DP0.00002.001.01330.000.040.000",100,"TREE","Single Aspirated Air Temperature","turbineSpeed","Meas. Level 4"
-"NEON.D05.TREE.DP0.00002.001.01330.000.050.000",80,"TREE","Single Aspirated Air Temperature","turbineSpeed","Meas. Level 5"
+"NEON.D05.TREE.DP0.00002.001.01330.000.050.000",75,"TREE","Single Aspirated Air Temperature","turbineSpeed","Meas. Level 5"
 "NEON.D05.TREE.DP0.00003.001.01325.000.060.101",100,"TREE","Triple Aspirated Air Temperature","PRTResistance","Meas. Level 6"
 "NEON.D05.TREE.DP0.00003.001.01325.000.060.102",100,"TREE","Triple Aspirated Air Temperature","PRTResistance","Meas. Level 6"
 "NEON.D05.TREE.DP0.00003.001.01325.000.060.103",100,"TREE","Triple Aspirated Air Temperature","PRTResistance","Meas. Level 6"

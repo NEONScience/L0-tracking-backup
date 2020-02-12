@@ -27,7 +27,7 @@
 "NEON.D13.COMO.DP0.20005.001.01360.101.100.000",100,"COMO","Water Quality","dissolvedOxygenSaturation","Stream sensor location 1"
 "NEON.D13.COMO.DP0.20005.001.01360.102.100.000",100,"COMO","Water Quality","dissolvedOxygenSaturation","Stream sensor location 2"
 "NEON.D13.COMO.DP0.20005.001.01371.101.100.000",100,"COMO","Water Quality","conductance","Stream sensor location 1"
-"NEON.D13.COMO.DP0.20005.001.01371.102.100.000",50,"COMO","Water Quality","conductance","Stream sensor location 2"
+"NEON.D13.COMO.DP0.20005.001.01371.102.100.000",45,"COMO","Water Quality","conductance","Stream sensor location 2"
 "NEON.D13.COMO.DP0.20005.001.01372.101.100.000",100,"COMO","Water Quality","batteryVoltage","Stream sensor location 1"
 "NEON.D13.COMO.DP0.20005.001.01372.102.100.000",100,"COMO","Water Quality","batteryVoltage","Stream sensor location 2"
 "NEON.D13.COMO.DP0.20005.001.01378.101.100.000",100,"COMO","Water Quality","surfaceWaterTemperature","Stream sensor location 1"
