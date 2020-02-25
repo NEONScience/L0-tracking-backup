@@ -126,6 +126,7 @@
 "NEON.D05.CRAM.DP0.20261.001.01320.103.100.000",100,"CRAM","Photosynthetically Active Radiation","inPAR","Buoy"
 "NEON.D05.CRAM.DP0.20261.001.01320.130.100.000",99.9988425925926,"CRAM","Photosynthetically Active Radiation","inPAR","Lake inlet"
 "NEON.D05.CRAM.DP0.20261.001.01320.140.100.000",58.6585648148148,"CRAM","Photosynthetically Active Radiation","inPAR","Lake outlet"
+"NEON.D05.CRAM.DP0.20261.001.01321.103.100.000",3.33333333333333,"CRAM","Photosynthetically Active Radiation","outPAR","Buoy"
 "NEON.D05.CRAM.DP0.20264.001.02887.103.100.000",100,"CRAM","Temperature at specific depth in lakes","depth0WaterTemp","Buoy"
 "NEON.D05.CRAM.DP0.20264.001.02888.103.100.000",100,"CRAM","Temperature at specific depth in lakes","depth1WaterTemp","Buoy"
 "NEON.D05.CRAM.DP0.20264.001.02889.103.100.000",100,"CRAM","Temperature at specific depth in lakes","depth2WaterTemp","Buoy"
