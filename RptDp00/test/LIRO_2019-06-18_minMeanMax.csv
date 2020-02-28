@@ -119,6 +119,7 @@
 "NEON.D05.LIRO.DP0.20261.001.01320.103.100.000",-3.37225651e-06,0.00136053621216591,0.0159185436,"LIRO","Photosynthetically Active Radiation","inPAR","Buoy"
 "NEON.D05.LIRO.DP0.20261.001.01320.130.100.000",NA,NA,NA,"LIRO","Photosynthetically Active Radiation","inPAR","Lake inlet"
 "NEON.D05.LIRO.DP0.20261.001.01320.140.100.000",NA,NA,NA,"LIRO","Photosynthetically Active Radiation","inPAR","Lake outlet"
+"NEON.D05.LIRO.DP0.20261.001.01321.103.100.000",0,1.14021889246076e-05,7.41700424e-05,"LIRO","Photosynthetically Active Radiation","outPAR","Buoy"
 "NEON.D05.LIRO.DP0.20264.001.02887.103.100.000",20.6100006,21.1818944229861,21.9769993,"LIRO","Temperature at specific depth in lakes","depth0WaterTemp","Buoy"
 "NEON.D05.LIRO.DP0.20264.001.02888.103.100.000",20.6259995,21.1338055921528,21.9750004,"LIRO","Temperature at specific depth in lakes","depth1WaterTemp","Buoy"
 "NEON.D05.LIRO.DP0.20264.001.02889.103.100.000",20.4769993,20.8319346906944,21.2619991,"LIRO","Temperature at specific depth in lakes","depth2WaterTemp","Buoy"

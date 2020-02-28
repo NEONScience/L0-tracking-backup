@@ -10,7 +10,6 @@
 "NEON.D13.WLOU.DP0.00004.001.01309.200.000.000",0,"WLOU","Barometric Pressure","sensorTemp","On-shore MET station"
 "NEON.D13.WLOU.DP0.00004.001.01311.200.000.000",0,"WLOU","Barometric Pressure","rawBarometricPressure","On-shore MET station"
 "NEON.D13.WLOU.DP0.00004.001.01312.200.000.000",0,"WLOU","Barometric Pressure","sensorStatus","On-shore MET station"
-"NEON.D13.WLOU.DP0.00006.001.01322.220.000.000",0,"WLOU","Precipitation","secPrecipBucketTips","On-shore MET station"
 "NEON.D13.WLOU.DP0.00023.001.01314.200.000.000",0,"WLOU","Shortwave/Longwave Net Radiation","sensorResistance","On-shore MET station"
 "NEON.D13.WLOU.DP0.00023.001.01315.200.000.000",0,"WLOU","Shortwave/Longwave Net Radiation","inNetRadPyranometer","On-shore MET station"
 "NEON.D13.WLOU.DP0.00023.001.01316.200.000.000",0,"WLOU","Shortwave/Longwave Net Radiation","outNetRadPyranometer","On-shore MET station"
