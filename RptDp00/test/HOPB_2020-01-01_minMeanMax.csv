@@ -61,7 +61,7 @@
 "NEON.D01.HOPB.DP0.20005.001.01670.111.100.000",NA,NA,NA,"HOPB","Water Quality","wiperPosition","Stream sensor location 1"
 "NEON.D01.HOPB.DP0.20005.001.01670.112.100.000",1.15999997,1.18770835620833,1.20000005,"HOPB","Water Quality","wiperPosition","Stream sensor location 2"
 "NEON.D01.HOPB.DP0.20015.001.01371.301.000.000",NA,NA,NA,"HOPB","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Ground water well 1"
-"NEON.D01.HOPB.DP0.20015.001.01371.302.000.000",31.9773064,32.2478326218056,32.5728912,"HOPB","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Ground water well 2"
+"NEON.D01.HOPB.DP0.20015.001.01371.302.000.000",31.9773064,32.2478326218055,32.5728912,"HOPB","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Ground water well 2"
 "NEON.D01.HOPB.DP0.20015.001.01371.303.000.000",53.1242828,53.2797072347222,53.4153214,"HOPB","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Ground water well 3"
 "NEON.D01.HOPB.DP0.20015.001.01371.304.000.000",NA,NA,NA,"HOPB","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Ground water well 4"
 "NEON.D01.HOPB.DP0.20015.001.01372.301.000.000",NA,NA,NA,"HOPB","Specific Conductivity, Temperature, and Elevation of groundwater","batteryVoltage","Ground water well 1"

@@ -55,7 +55,7 @@
 "NEON.D06.KING.DP0.20005.001.01667.102.100.000",-0.0599999987,0.0309179416987761,14.3400002,"KING","Water Quality","blueGreenAlgaeRaw","Stream sensor location 2"
 "NEON.D06.KING.DP0.20005.001.01668.102.100.000",0.0199999996,1.24018776042879,1.92999995,"KING","Water Quality","fDOMRaw","Stream sensor location 2"
 "NEON.D06.KING.DP0.20005.001.01669.101.100.000",0.0299999993,0.0425468417823039,0.379999995,"KING","Water Quality","turbidityRaw","Stream sensor location 1"
-"NEON.D06.KING.DP0.20005.001.01669.102.100.000",-67.2699966,-0.0086161315965925,0.159999996,"KING","Water Quality","turbidityRaw","Stream sensor location 2"
+"NEON.D06.KING.DP0.20005.001.01669.102.100.000",-67.2699966,-0.00861613159659249,0.159999996,"KING","Water Quality","turbidityRaw","Stream sensor location 2"
 "NEON.D06.KING.DP0.20005.001.01670.101.100.000",1.17999995,1.19936854356697,1.21000004,"KING","Water Quality","wiperPosition","Stream sensor location 1"
 "NEON.D06.KING.DP0.20005.001.01670.102.100.000",0.620000005,1.20929072177677,1.22000003,"KING","Water Quality","wiperPosition","Stream sensor location 2"
 "NEON.D06.KING.DP0.20015.001.01371.301.000.000",484.982178,486.799823430555,489.171478,"KING","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Ground water well 1"

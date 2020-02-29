@@ -58,7 +58,7 @@
 "NEON.D06.KING.DP0.20005.001.01669.102.100.000",-64.8799973,-0.0129603878095205,0.209999993,"KING","Water Quality","turbidityRaw","Stream sensor location 2"
 "NEON.D06.KING.DP0.20005.001.01670.101.100.000",1.17999995,1.20030560475,1.21000004,"KING","Water Quality","wiperPosition","Stream sensor location 1"
 "NEON.D06.KING.DP0.20005.001.01670.102.100.000",0.25999999,1.20845035357192,1.22000003,"KING","Water Quality","wiperPosition","Stream sensor location 2"
-"NEON.D06.KING.DP0.20015.001.01371.301.000.000",486.13092,488.818901416667,490.835114,"KING","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Ground water well 1"
+"NEON.D06.KING.DP0.20015.001.01371.301.000.000",486.13092,488.818901416666,490.835114,"KING","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Ground water well 1"
 "NEON.D06.KING.DP0.20015.001.01371.302.000.000",1.13084786e-42,513.610070118056,515.853516,"KING","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Ground water well 2"
 "NEON.D06.KING.DP0.20015.001.01371.303.000.000",0,164.684102378472,579.068848,"KING","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Ground water well 3"
 "NEON.D06.KING.DP0.20015.001.01371.304.000.000",0,477.074929340278,575.307373,"KING","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Ground water well 4"

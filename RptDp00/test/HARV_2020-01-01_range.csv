@@ -35,7 +35,7 @@
 "NEON.D01.HARV.DP0.00003.001.01325.000.060.102",100,"HARV","Triple Aspirated Air Temperature","PRTResistance","Meas. Level 6"
 "NEON.D01.HARV.DP0.00003.001.01325.000.060.103",100,"HARV","Triple Aspirated Air Temperature","PRTResistance","Meas. Level 6"
 "NEON.D01.HARV.DP0.00003.001.01326.000.060.000",100,"HARV","Triple Aspirated Air Temperature","fanSpeed","Meas. Level 6"
-"NEON.D01.HARV.DP0.00003.001.01330.000.060.000",60,"HARV","Triple Aspirated Air Temperature","turbineSpeed","Meas. Level 6"
+"NEON.D01.HARV.DP0.00003.001.01330.000.060.000",65,"HARV","Triple Aspirated Air Temperature","turbineSpeed","Meas. Level 6"
 "NEON.D01.HARV.DP0.00004.001.01309.000.025.000",100,"HARV","Barometric Pressure","sensorTemp","Meas. Level 2.5"
 "NEON.D01.HARV.DP0.00004.001.01311.000.025.000",100,"HARV","Barometric Pressure","rawBarometricPressure","Meas. Level 2.5"
 "NEON.D01.HARV.DP0.00004.001.01312.000.025.000",NA,"HARV","Barometric Pressure","sensorStatus","Meas. Level 2.5"

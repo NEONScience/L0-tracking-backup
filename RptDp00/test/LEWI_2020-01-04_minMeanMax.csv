@@ -8,7 +8,7 @@
 "NEON.D02.LEWI.DP0.00002.001.01326.200.000.000",3989.91895,4005.05973462441,4020.10767,"LEWI","Single Aspirated Air Temperature","fanSpeed","On-shore MET station"
 "NEON.D02.LEWI.DP0.00002.001.01330.200.000.000",269.998169,319.509375455278,390.005524,"LEWI","Single Aspirated Air Temperature","turbineSpeed","On-shore MET station"
 "NEON.D02.LEWI.DP0.00004.001.01309.200.000.000",8.86999989,11.0711467392641,17.7700005,"LEWI","Barometric Pressure","sensorTemp","On-shore MET station"
-"NEON.D02.LEWI.DP0.00004.001.01311.200.000.000",98.5699997,99.0199989464707,99.5299988,"LEWI","Barometric Pressure","rawBarometricPressure","On-shore MET station"
+"NEON.D02.LEWI.DP0.00004.001.01311.200.000.000",98.5699997,99.0199989464708,99.5299988,"LEWI","Barometric Pressure","rawBarometricPressure","On-shore MET station"
 "NEON.D02.LEWI.DP0.00004.001.01312.200.000.000",0,0,0,"LEWI","Barometric Pressure","sensorStatus","On-shore MET station"
 "NEON.D02.LEWI.DP0.00023.001.01314.200.000.000",102.699799,103.670678011285,106.046593,"LEWI","Shortwave/Longwave Net Radiation","sensorResistance","On-shore MET station"
 "NEON.D02.LEWI.DP0.00023.001.01315.200.000.000",-2.15330329e-05,0.000367778509645181,0.00417450303,"LEWI","Shortwave/Longwave Net Radiation","inNetRadPyranometer","On-shore MET station"

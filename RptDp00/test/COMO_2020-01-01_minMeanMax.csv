@@ -93,7 +93,7 @@
 "NEON.D13.COMO.DP0.20016.001.01377.101.100.000",0,0,0,"COMO","Elevation of surface water","pressureDataQualityID","Stream sensor location 1"
 "NEON.D13.COMO.DP0.20016.001.01377.102.100.000",0,0,0,"COMO","Elevation of surface water","pressureDataQualityID","Stream sensor location 2"
 "NEON.D13.COMO.DP0.20016.001.01378.101.100.000",0.209213257,0.2182293997875,0.231048584,"COMO","Elevation of surface water","surfaceWaterTemperature","Stream sensor location 1"
-"NEON.D13.COMO.DP0.20016.001.01378.102.100.000",-0.232254028,-0.0967711660252559,0.0143280029,"COMO","Elevation of surface water","surfaceWaterTemperature","Stream sensor location 2"
+"NEON.D13.COMO.DP0.20016.001.01378.102.100.000",-0.232254028,-0.0967711660252558,0.0143280029,"COMO","Elevation of surface water","surfaceWaterTemperature","Stream sensor location 2"
 "NEON.D13.COMO.DP0.20016.001.01379.101.100.000",1.6969012,1.70762957894444,1.72359383,"COMO","Elevation of surface water","surfaceWaterPressure","Stream sensor location 1"
 "NEON.D13.COMO.DP0.20016.001.01379.102.100.000",1.89164162,1.90842701843056,1.93556058,"COMO","Elevation of surface water","surfaceWaterPressure","Stream sensor location 2"
 "NEON.D13.COMO.DP0.20033.001.02242.102.100.000",Inf,NA,-Inf,"COMO","Nitrate in surface water","rawNitrateSingleCompressedStream","Stream sensor location 2"

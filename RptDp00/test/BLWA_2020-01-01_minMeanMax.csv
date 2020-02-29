@@ -59,6 +59,7 @@
 "NEON.D08.BLWA.DP0.20059.001.00380.103.100.000",0,97.2579666523593,359.949463,"BLWA","Windspeed and direction on lakes on-buoy","windDirMean","Buoy"
 "NEON.D08.BLWA.DP0.20059.001.03551.103.100.000",0.100000001,97.3005273189895,101.900002,"BLWA","Windspeed and direction on lakes on-buoy","vectorAverageHeading","Buoy"
 "NEON.D08.BLWA.DP0.20261.001.01320.103.100.000",0,1.30281304122604e-05,0.000103978018,"BLWA","Photosynthetically Active Radiation","inPAR","Buoy"
+"NEON.D08.BLWA.DP0.20261.001.01321.103.100.000",0,9.58054987836806e-06,8.38375345e-05,"BLWA","Photosynthetically Active Radiation","outPAR","Buoy"
 "NEON.D08.BLWA.DP0.20264.001.02887.103.100.000",NA,NA,NA,"BLWA","Temperature at specific depth in lakes","depth0WaterTemp","Buoy"
 "NEON.D08.BLWA.DP0.20264.001.02888.103.100.000",NA,NA,NA,"BLWA","Temperature at specific depth in lakes","depth1WaterTemp","Buoy"
 "NEON.D08.BLWA.DP0.20264.001.02889.103.100.000",NA,NA,NA,"BLWA","Temperature at specific depth in lakes","depth2WaterTemp","Buoy"
