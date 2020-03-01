@@ -110,7 +110,7 @@
 "NEON.D11.BLUE.DP0.20015.001.01377.306.000.000",0,0,0,"BLUE","Specific Conductivity, Temperature, and Elevation of groundwater","pressureDataQualityID","Ground water well 6"
 "NEON.D11.BLUE.DP0.20015.001.01377.307.000.000",0,0,0,"BLUE","Specific Conductivity, Temperature, and Elevation of groundwater","pressureDataQualityID","Ground water well 7"
 "NEON.D11.BLUE.DP0.20015.001.01377.308.000.000",0,0,0,"BLUE","Specific Conductivity, Temperature, and Elevation of groundwater","pressureDataQualityID","Ground water well 8"
-"NEON.D11.BLUE.DP0.20016.001.01372.110.100.000",3.71300006,3.72542187735964,3.72799993,"BLUE","Elevation of surface water","batteryVoltage","Staff gauge"
+"NEON.D11.BLUE.DP0.20016.001.01372.110.100.000",3.71300006,3.72542187735963,3.72799993,"BLUE","Elevation of surface water","batteryVoltage","Staff gauge"
 "NEON.D11.BLUE.DP0.20016.001.01375.110.100.000",0,0,0,"BLUE","Elevation of surface water","tempDataQualityID","Staff gauge"
 "NEON.D11.BLUE.DP0.20016.001.01377.110.100.000",0,0,0,"BLUE","Elevation of surface water","pressureDataQualityID","Staff gauge"
 "NEON.D11.BLUE.DP0.20016.001.01378.110.100.000",10.5119019,11.4572711765554,11.9876556,"BLUE","Elevation of surface water","surfaceWaterTemperature","Staff gauge"

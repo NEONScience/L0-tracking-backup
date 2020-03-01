@@ -45,7 +45,7 @@
 "NEON.D02.POSE.DP0.20005.001.01661.102.100.000",23.6399994,32.1279374529861,47.7700005,"POSE","Water Quality","fDOM","Stream sensor location 2"
 "NEON.D02.POSE.DP0.20005.001.01662.101.100.000",5.90999985,8.88465278621528,24.6200008,"POSE","Water Quality","turbidity","Stream sensor location 1"
 "NEON.D02.POSE.DP0.20005.001.01662.102.100.000",5.5999999,9.231020844125,24.1100006,"POSE","Water Quality","turbidity","Stream sensor location 2"
-"NEON.D02.POSE.DP0.20005.001.01663.101.100.000",14.0299997,14.1471457680556,14.2200003,"POSE","Water Quality","sondeSurfaceWaterPressure","Stream sensor location 1"
+"NEON.D02.POSE.DP0.20005.001.01663.101.100.000",14.0299997,14.1471457680555,14.2200003,"POSE","Water Quality","sondeSurfaceWaterPressure","Stream sensor location 1"
 "NEON.D02.POSE.DP0.20005.001.01663.102.100.000",14.0799999,14.1810832045833,14.2600002,"POSE","Water Quality","sondeSurfaceWaterPressure","Stream sensor location 2"
 "NEON.D02.POSE.DP0.20005.001.01664.101.100.000",9.86999989,9.94714565577083,10,"POSE","Water Quality","sensorDepth","Stream sensor location 1"
 "NEON.D02.POSE.DP0.20005.001.01664.102.100.000",9.89999962,9.97059027477778,10.0200005,"POSE","Water Quality","sensorDepth","Stream sensor location 2"

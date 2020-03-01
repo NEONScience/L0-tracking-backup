@@ -61,7 +61,7 @@
 "NEON.D11.BLUE.DP0.20005.001.01668.112.100.000",1.37,1.56598611176389,1.69000006,"BLUE","Water Quality","fDOMRaw","Stream sensor location 2"
 "NEON.D11.BLUE.DP0.20005.001.01669.112.100.000",0.0799999982,0.116076389072639,0.620000005,"BLUE","Water Quality","turbidityRaw","Stream sensor location 2"
 "NEON.D11.BLUE.DP0.20005.001.01670.112.100.000",NA,NA,NA,"BLUE","Water Quality","wiperPosition","Stream sensor location 2"
-"NEON.D11.BLUE.DP0.20015.001.01371.302.000.000",812.687683,814.952979833333,816.755676,"BLUE","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Ground water well 2"
+"NEON.D11.BLUE.DP0.20015.001.01371.302.000.000",812.687683,814.952979833334,816.755676,"BLUE","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Ground water well 2"
 "NEON.D11.BLUE.DP0.20015.001.01371.303.000.000",572.395142,574.760190760417,576.932373,"BLUE","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Ground water well 3"
 "NEON.D11.BLUE.DP0.20015.001.01371.304.000.000",652.812073,653.972505548611,654.910522,"BLUE","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Ground water well 4"
 "NEON.D11.BLUE.DP0.20015.001.01371.305.000.000",554.983215,556.569002788194,558.080811,"BLUE","Specific Conductivity, Temperature, and Elevation of groundwater","conductance","Ground water well 5"

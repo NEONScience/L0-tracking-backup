@@ -60,6 +60,7 @@
 "NEON.D08.TOMB.DP0.20059.001.00380.103.100.000",NA,NA,NA,"TOMB","Windspeed and direction on lakes on-buoy","windDirMean","Buoy"
 "NEON.D08.TOMB.DP0.20059.001.03551.103.100.000",NA,NA,NA,"TOMB","Windspeed and direction on lakes on-buoy","vectorAverageHeading","Buoy"
 "NEON.D08.TOMB.DP0.20261.001.01320.103.100.000",NA,NA,NA,"TOMB","Photosynthetically Active Radiation","inPAR","Buoy"
+"NEON.D08.TOMB.DP0.20261.001.01321.103.100.000",NA,NA,NA,"TOMB","Photosynthetically Active Radiation","outPAR","Buoy"
 "NEON.D08.TOMB.DP0.20264.001.02887.103.100.000",NA,NA,NA,"TOMB","Temperature at specific depth in lakes","depth0WaterTemp","Buoy"
 "NEON.D08.TOMB.DP0.20264.001.02888.103.100.000",NA,NA,NA,"TOMB","Temperature at specific depth in lakes","depth1WaterTemp","Buoy"
 "NEON.D08.TOMB.DP0.20264.001.02889.103.100.000",NA,NA,NA,"TOMB","Temperature at specific depth in lakes","depth2WaterTemp","Buoy"

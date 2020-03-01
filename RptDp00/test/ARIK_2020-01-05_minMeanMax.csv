@@ -7,7 +7,7 @@
 "NEON.D10.ARIK.DP0.00002.001.01325.200.000.000",97.9200974,101.163015825911,102.767311,"ARIK","Single Aspirated Air Temperature","PRTResistance","On-shore MET station"
 "NEON.D10.ARIK.DP0.00002.001.01326.200.000.000",0,4070.99357384375,4095.10889,"ARIK","Single Aspirated Air Temperature","fanSpeed","On-shore MET station"
 "NEON.D10.ARIK.DP0.00002.001.01330.200.000.000",419.997467,625.856250544769,720.005371,"ARIK","Single Aspirated Air Temperature","turbineSpeed","On-shore MET station"
-"NEON.D10.ARIK.DP0.00004.001.01309.200.000.000",-3.88000011,4.01375723511131,7.78999996,"ARIK","Barometric Pressure","sensorTemp","On-shore MET station"
+"NEON.D10.ARIK.DP0.00004.001.01309.200.000.000",-3.88000011,4.0137572351113,7.78999996,"ARIK","Barometric Pressure","sensorTemp","On-shore MET station"
 "NEON.D10.ARIK.DP0.00004.001.01311.200.000.000",87.9199982,88.6397257175191,89.1699982,"ARIK","Barometric Pressure","rawBarometricPressure","On-shore MET station"
 "NEON.D10.ARIK.DP0.00004.001.01312.200.000.000",0,0,0,"ARIK","Barometric Pressure","sensorStatus","On-shore MET station"
 "NEON.D10.ARIK.DP0.00006.001.01897.900.000.000",1,1,1,"ARIK","Precipitation","strainGauge1Stability","DFIR"

@@ -46,7 +46,7 @@
 "NEON.D11.PRIN.DP0.20005.001.01151.101.100.000",10.6899996,12.2229027813194,14.79,"PRIN","Water Quality","dissolvedOxygen","Stream sensor location 1"
 "NEON.D11.PRIN.DP0.20005.001.01151.102.100.000",11.0699997,12.17293750625,13.5799999,"PRIN","Water Quality","dissolvedOxygen","Stream sensor location 2"
 "NEON.D11.PRIN.DP0.20005.001.01360.101.100.000",83.5,97.7199306564583,126.650002,"PRIN","Water Quality","dissolvedOxygenSaturation","Stream sensor location 1"
-"NEON.D11.PRIN.DP0.20005.001.01360.102.100.000",85.7699966,96.9541111399305,110.959999,"PRIN","Water Quality","dissolvedOxygenSaturation","Stream sensor location 2"
+"NEON.D11.PRIN.DP0.20005.001.01360.102.100.000",85.7699966,96.9541111399306,110.959999,"PRIN","Water Quality","dissolvedOxygenSaturation","Stream sensor location 2"
 "NEON.D11.PRIN.DP0.20005.001.01371.101.100.000",481.450012,513.308194581945,554.98999,"PRIN","Water Quality","conductance","Stream sensor location 1"
 "NEON.D11.PRIN.DP0.20005.001.01371.102.100.000",528.5,560.880201897151,593.799988,"PRIN","Water Quality","conductance","Stream sensor location 2"
 "NEON.D11.PRIN.DP0.20005.001.01372.101.100.000",5.61000013,5.63636808060417,5.6500001,"PRIN","Water Quality","batteryVoltage","Stream sensor location 1"

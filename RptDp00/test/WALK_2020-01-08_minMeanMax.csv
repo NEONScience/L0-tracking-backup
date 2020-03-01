@@ -29,7 +29,7 @@
 "NEON.D07.WALK.DP0.20005.001.01371.101.100.000",89.8099976,94.0104930465278,99.1900024,"WALK","Water Quality","conductance","Stream sensor location 1"
 "NEON.D07.WALK.DP0.20005.001.01371.102.100.000",92.5599976,95.7644771439112,100.260002,"WALK","Water Quality","conductance","Stream sensor location 2"
 "NEON.D07.WALK.DP0.20005.001.01372.101.100.000",6.05000019,6.0578333275,6.05999994,"WALK","Water Quality","batteryVoltage","Stream sensor location 1"
-"NEON.D07.WALK.DP0.20005.001.01372.102.100.000",0.0500000007,6.3539587352878,6.38999987,"WALK","Water Quality","batteryVoltage","Stream sensor location 2"
+"NEON.D07.WALK.DP0.20005.001.01372.102.100.000",0.0500000007,6.35395873528781,6.38999987,"WALK","Water Quality","batteryVoltage","Stream sensor location 2"
 "NEON.D07.WALK.DP0.20005.001.01378.101.100.000",10.4399996,11.1196944526389,12.1499996,"WALK","Water Quality","surfaceWaterTemperature","Stream sensor location 1"
 "NEON.D07.WALK.DP0.20005.001.01378.102.100.000",10.6800003,11.3406871788117,93.6399994,"WALK","Water Quality","surfaceWaterTemperature","Stream sensor location 2"
 "NEON.D07.WALK.DP0.20005.001.01647.101.100.000",11.96,11.9779857493056,11.9799995,"WALK","Water Quality","sensorVoltage","Stream sensor location 1"

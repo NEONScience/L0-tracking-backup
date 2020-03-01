@@ -126,6 +126,7 @@
 "NEON.D03.BARC.DP0.20261.001.01320.103.100.000",91.3461538461538,"BARC","Photosynthetically Active Radiation","inPAR","Buoy"
 "NEON.D03.BARC.DP0.20261.001.01320.130.100.000",100,"BARC","Photosynthetically Active Radiation","inPAR","Lake inlet"
 "NEON.D03.BARC.DP0.20261.001.01320.140.100.000",100,"BARC","Photosynthetically Active Radiation","inPAR","Lake outlet"
+"NEON.D03.BARC.DP0.20261.001.01321.103.100.000",2.96875,"BARC","Photosynthetically Active Radiation","outPAR","Buoy"
 "NEON.D03.BARC.DP0.20264.001.02887.103.100.000",89.0972222222222,"BARC","Temperature at specific depth in lakes","depth0WaterTemp","Buoy"
 "NEON.D03.BARC.DP0.20264.001.02888.103.100.000",89.0972222222222,"BARC","Temperature at specific depth in lakes","depth1WaterTemp","Buoy"
 "NEON.D03.BARC.DP0.20264.001.02889.103.100.000",89.0972222222222,"BARC","Temperature at specific depth in lakes","depth2WaterTemp","Buoy"
