@@ -116,7 +116,7 @@
 "NEON.D08.MAYF.DP0.20015.001.01377.308.000.000",NA,NA,NA,"MAYF","Specific Conductivity, Temperature, and Elevation of groundwater","pressureDataQualityID","Ground water well 8"
 "NEON.D08.MAYF.DP0.20016.001.01372.110.100.000",3.64899993,3.65498746854861,3.65700006,"MAYF","Elevation of surface water","batteryVoltage","Staff gauge"
 "NEON.D08.MAYF.DP0.20016.001.01372.131.100.000",3.63400006,3.63966669704167,3.64299989,"MAYF","Elevation of surface water","batteryVoltage","Stream sensor location 1"
-"NEON.D08.MAYF.DP0.20016.001.01372.132.100.000",3.71700001,3.72242356486806,3.72399998,"MAYF","Elevation of surface water","batteryVoltage","Stream sensor location 2"
+"NEON.D08.MAYF.DP0.20016.001.01372.132.100.000",3.71700001,3.72242356486805,3.72399998,"MAYF","Elevation of surface water","batteryVoltage","Stream sensor location 2"
 "NEON.D08.MAYF.DP0.20016.001.01375.110.100.000",0,0,0,"MAYF","Elevation of surface water","tempDataQualityID","Staff gauge"
 "NEON.D08.MAYF.DP0.20016.001.01375.131.100.000",0,0,0,"MAYF","Elevation of surface water","tempDataQualityID","Stream sensor location 1"
 "NEON.D08.MAYF.DP0.20016.001.01375.132.100.000",0,0,0,"MAYF","Elevation of surface water","tempDataQualityID","Stream sensor location 2"

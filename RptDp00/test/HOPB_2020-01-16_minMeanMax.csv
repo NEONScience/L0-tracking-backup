@@ -25,7 +25,7 @@
 "NEON.D01.HOPB.DP0.20005.001.01151.111.100.000",12.75,13.1723541545139,13.4099998,"HOPB","Water Quality","dissolvedOxygen","Stream sensor location 1"
 "NEON.D01.HOPB.DP0.20005.001.01151.112.100.000",13.0299997,13.5475782416145,93.9100037,"HOPB","Water Quality","dissolvedOxygen","Stream sensor location 2"
 "NEON.D01.HOPB.DP0.20005.001.01360.111.100.000",94.8000031,95.7408056644445,96.1100006,"HOPB","Water Quality","dissolvedOxygenSaturation","Stream sensor location 1"
-"NEON.D01.HOPB.DP0.20005.001.01360.112.100.000",50.4300003,97.5871606970077,98.0800018,"HOPB","Water Quality","dissolvedOxygenSaturation","Stream sensor location 2"
+"NEON.D01.HOPB.DP0.20005.001.01360.112.100.000",50.4300003,97.5871606970076,98.0800018,"HOPB","Water Quality","dissolvedOxygenSaturation","Stream sensor location 2"
 "NEON.D01.HOPB.DP0.20005.001.01371.111.100.000",49.8699989,53.3753718104239,58.6300011,"HOPB","Water Quality","conductance","Stream sensor location 1"
 "NEON.D01.HOPB.DP0.20005.001.01371.112.100.000",49.5800018,53.0332264608362,58.3699989,"HOPB","Water Quality","conductance","Stream sensor location 2"
 "NEON.D01.HOPB.DP0.20005.001.01372.111.100.000",5.90999985,5.91874310664583,5.92000008,"HOPB","Water Quality","batteryVoltage","Stream sensor location 1"

@@ -6,7 +6,7 @@
 "NEON.D07.WALK.DP0.00001.001.01310.200.000.000",65,65,65,"WALK","2D Wind Speed and Direction","2dWindSensorStatus","On-shore MET station"
 "NEON.D07.WALK.DP0.00002.001.01325.200.000.000",101.8899,103.472162901678,106.412071,"WALK","Single Aspirated Air Temperature","PRTResistance","On-shore MET station"
 "NEON.D07.WALK.DP0.00002.001.01326.200.000.000",0,3901.73039615127,3915.08154,"WALK","Single Aspirated Air Temperature","fanSpeed","On-shore MET station"
-"NEON.D07.WALK.DP0.00002.001.01330.200.000.000",329.996948,373.608333252164,420.006653,"WALK","Single Aspirated Air Temperature","turbineSpeed","On-shore MET station"
+"NEON.D07.WALK.DP0.00002.001.01330.200.000.000",329.996948,373.608333252165,420.006653,"WALK","Single Aspirated Air Temperature","turbineSpeed","On-shore MET station"
 "NEON.D07.WALK.DP0.00004.001.01309.200.000.000",6.8499999,10.614459574691,18.7700005,"WALK","Barometric Pressure","sensorTemp","On-shore MET station"
 "NEON.D07.WALK.DP0.00004.001.01311.200.000.000",98.7900009,99.2944295595927,99.7900009,"WALK","Barometric Pressure","rawBarometricPressure","On-shore MET station"
 "NEON.D07.WALK.DP0.00004.001.01312.200.000.000",0,0,0,"WALK","Barometric Pressure","sensorStatus","On-shore MET station"

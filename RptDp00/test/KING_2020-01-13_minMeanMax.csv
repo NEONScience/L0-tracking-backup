@@ -6,7 +6,7 @@
 "NEON.D06.KING.DP0.00001.001.01310.200.000.000",4,22.3212528792842,65,"KING","2D Wind Speed and Direction","2dWindSensorStatus","On-shore MET station"
 "NEON.D06.KING.DP0.00002.001.01325.200.000.000",98.9954758,100.602886975101,102.534065,"KING","Single Aspirated Air Temperature","PRTResistance","On-shore MET station"
 "NEON.D06.KING.DP0.00002.001.01326.200.000.000",0,3926.1777925684,3945.04541,"KING","Single Aspirated Air Temperature","fanSpeed","On-shore MET station"
-"NEON.D06.KING.DP0.00002.001.01330.200.000.000",210,414.117359171806,480.003998,"KING","Single Aspirated Air Temperature","turbineSpeed","On-shore MET station"
+"NEON.D06.KING.DP0.00002.001.01330.200.000.000",210,414.117359171805,480.003998,"KING","Single Aspirated Air Temperature","turbineSpeed","On-shore MET station"
 "NEON.D06.KING.DP0.00004.001.01309.200.000.000",-3.07999992,0.993921554806591,5.75,"KING","Barometric Pressure","sensorTemp","On-shore MET station"
 "NEON.D06.KING.DP0.00004.001.01311.200.000.000",97.3499985,97.9021753234089,99.4100037,"KING","Barometric Pressure","rawBarometricPressure","On-shore MET station"
 "NEON.D06.KING.DP0.00004.001.01312.200.000.000",0,0,0,"KING","Barometric Pressure","sensorStatus","On-shore MET station"

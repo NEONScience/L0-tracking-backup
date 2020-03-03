@@ -61,7 +61,7 @@
 "NEON.D07.LECO.DP0.20005.001.01670.101.100.000",1.19000006,1.19000006,1.19000006,"LECO","Water Quality","wiperPosition","Stream sensor location 1"
 "NEON.D07.LECO.DP0.20005.001.01670.112.100.000",0.270000011,1.19669636961538,1.57000005,"LECO","Water Quality","wiperPosition","Stream sensor location 2"
 "NEON.D07.LECO.DP0.20016.001.01372.131.100.000",3.64400005,3.64841735208333,3.65100002,"LECO","Elevation of surface water","batteryVoltage","Stream sensor location 1"
-"NEON.D07.LECO.DP0.20016.001.01372.132.100.000",3.42799997,3.53355122063414,3.56900001,"LECO","Elevation of surface water","batteryVoltage","Stream sensor location 2"
+"NEON.D07.LECO.DP0.20016.001.01372.132.100.000",3.42799997,3.53355122063415,3.56900001,"LECO","Elevation of surface water","batteryVoltage","Stream sensor location 2"
 "NEON.D07.LECO.DP0.20016.001.01375.131.100.000",0,0,0,"LECO","Elevation of surface water","tempDataQualityID","Stream sensor location 1"
 "NEON.D07.LECO.DP0.20016.001.01375.132.100.000",0,0,0,"LECO","Elevation of surface water","tempDataQualityID","Stream sensor location 2"
 "NEON.D07.LECO.DP0.20016.001.01377.131.100.000",0,0,0,"LECO","Elevation of surface water","pressureDataQualityID","Stream sensor location 1"

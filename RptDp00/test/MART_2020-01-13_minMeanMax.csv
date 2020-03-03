@@ -20,7 +20,7 @@
 "NEON.D16.MART.DP0.00098.001.01357.200.000.000",88.086998,99.4667599815686,100.378998,"MART","Relative Humidity","RH","On-shore MET station"
 "NEON.D16.MART.DP0.00098.001.01358.200.000.000",-0.51700002,0.310268678363789,0.938000023,"MART","Relative Humidity","dewPoint","On-shore MET station"
 "NEON.D16.MART.DP0.00098.001.01359.200.000.000",0,0,0,"MART","Relative Humidity","RHStatus","On-shore MET station"
-"NEON.D16.MART.DP0.20005.001.01093.101.100.000",34.7000008,35.5933402961805,36.1199989,"MART","Water Quality","specificConductance","Stream sensor location 1"
+"NEON.D16.MART.DP0.20005.001.01093.101.100.000",34.7000008,35.5933402961806,36.1199989,"MART","Water Quality","specificConductance","Stream sensor location 1"
 "NEON.D16.MART.DP0.20005.001.01093.102.100.000",38.4900017,39.2558264033333,39.7900009,"MART","Water Quality","specificConductance","Stream sensor location 2"
 "NEON.D16.MART.DP0.20005.001.01151.101.100.000",11.8900003,12.0226042083333,12.1400003,"MART","Water Quality","dissolvedOxygen","Stream sensor location 1"
 "NEON.D16.MART.DP0.20005.001.01151.102.100.000",11.79,11.9210277322222,12.0500002,"MART","Water Quality","dissolvedOxygen","Stream sensor location 2"

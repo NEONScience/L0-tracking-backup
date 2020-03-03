@@ -123,7 +123,7 @@
 "NEON.D02.LEWI.DP0.20016.001.01378.101.100.000",7.26448059,9.0872993889375,11.862381,"LEWI","Elevation of surface water","surfaceWaterTemperature","Stream sensor location 1"
 "NEON.D02.LEWI.DP0.20016.001.01378.102.100.000",6.30982971,8.21950922028472,10.9155121,"LEWI","Elevation of surface water","surfaceWaterTemperature","Stream sensor location 2"
 "NEON.D02.LEWI.DP0.20016.001.01379.101.100.000",4.15313339,4.69562675517361,5.67063093,"LEWI","Elevation of surface water","surfaceWaterPressure","Stream sensor location 1"
-"NEON.D02.LEWI.DP0.20016.001.01379.102.100.000",-0.391447157,-0.00946433510849998,0.648900986,"LEWI","Elevation of surface water","surfaceWaterPressure","Stream sensor location 2"
+"NEON.D02.LEWI.DP0.20016.001.01379.102.100.000",-0.391447157,-0.00946433510849997,0.648900986,"LEWI","Elevation of surface water","surfaceWaterPressure","Stream sensor location 2"
 "NEON.D02.LEWI.DP0.20033.001.02242.102.100.000",0,150.848963293651,171.45,"LEWI","Nitrate in surface water","rawNitrateSingleCompressedStream","Stream sensor location 2"
 "NEON.D02.LEWI.DP0.20042.001.01320.101.100.000",-9.29784846e-07,0.000328165293791276,0.00303185289,"LEWI","Photosynthetically active radiation at water surface","inPAR","Stream sensor location 1"
 "NEON.D02.LEWI.DP0.20042.001.01320.102.100.000",-1.38886173e-06,0.000352493956632376,0.00217804965,"LEWI","Photosynthetically active radiation at water surface","inPAR","Stream sensor location 2"

@@ -8,7 +8,7 @@
 "NEON.D07.LECO.DP0.00002.001.01326.200.000.000",3914.75317,3925.0813632977,3960.03345,"LECO","Single Aspirated Air Temperature","fanSpeed","On-shore MET station"
 "NEON.D07.LECO.DP0.00002.001.01330.200.000.000",599.999146,716.532259084131,780.010559,"LECO","Single Aspirated Air Temperature","turbineSpeed","On-shore MET station"
 "NEON.D07.LECO.DP0.00004.001.01309.200.000.000",-1.48000002,1.87048132764411,18.4099998,"LECO","Barometric Pressure","sensorTemp","On-shore MET station"
-"NEON.D07.LECO.DP0.00004.001.01311.200.000.000",95.6900024,95.7803982367714,95.8799973,"LECO","Barometric Pressure","rawBarometricPressure","On-shore MET station"
+"NEON.D07.LECO.DP0.00004.001.01311.200.000.000",95.6900024,95.7803982367713,95.8799973,"LECO","Barometric Pressure","rawBarometricPressure","On-shore MET station"
 "NEON.D07.LECO.DP0.00004.001.01312.200.000.000",0,0,0,"LECO","Barometric Pressure","sensorStatus","On-shore MET station"
 "NEON.D07.LECO.DP0.00023.001.01314.200.000.000",98.9155121,100.407665084691,106.731331,"LECO","Shortwave/Longwave Net Radiation","sensorResistance","On-shore MET station"
 "NEON.D07.LECO.DP0.00023.001.01315.200.000.000",-6.13854863e-05,0.00108445063029729,0.0121388342,"LECO","Shortwave/Longwave Net Radiation","inNetRadPyranometer","On-shore MET station"

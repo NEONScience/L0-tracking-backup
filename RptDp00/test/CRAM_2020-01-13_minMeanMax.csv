@@ -1,6 +1,6 @@
 "streams","minimum","mean","maximum","site","dp.name","term.name","location"
 "NEON.D05.CRAM.DP0.00001.001.01306.200.000.000",-1.23000002,0.585834038407161,5.32000017,"CRAM","2D Wind Speed and Direction","uVectorComponent","On-shore MET station"
-"NEON.D05.CRAM.DP0.00001.001.01307.200.000.000",-4.26000023,0.00698661305536898,2.86999989,"CRAM","2D Wind Speed and Direction","vVectorComponent","On-shore MET station"
+"NEON.D05.CRAM.DP0.00001.001.01307.200.000.000",-4.26000023,0.00698661305536899,2.86999989,"CRAM","2D Wind Speed and Direction","vVectorComponent","On-shore MET station"
 "NEON.D05.CRAM.DP0.00001.001.01308.200.000.000",329.040009,332.088599685765,334.609985,"CRAM","2D Wind Speed and Direction","soundSpeed","On-shore MET station"
 "NEON.D05.CRAM.DP0.00001.001.01309.200.000.000",-4.3499999,0.656417132412377,4.82000017,"CRAM","2D Wind Speed and Direction","sensorTemp","On-shore MET station"
 "NEON.D05.CRAM.DP0.00001.001.01310.200.000.000",65,65,65,"CRAM","2D Wind Speed and Direction","2dWindSensorStatus","On-shore MET station"
