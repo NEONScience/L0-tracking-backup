@@ -5,7 +5,7 @@
 "NEON.D06.MCDI.DP0.00001.001.01309.200.000.000",-7.8499999,-3.12632242413543,19.1299992,"MCDI","2D Wind Speed and Direction","sensorTemp","On-shore MET station"
 "NEON.D06.MCDI.DP0.00001.001.01310.200.000.000",1,47.4181193138412,65,"MCDI","2D Wind Speed and Direction","2dWindSensorStatus","On-shore MET station"
 "NEON.D06.MCDI.DP0.00002.001.01325.200.000.000",98.4623413,99.8996971431446,101.379318,"MCDI","Single Aspirated Air Temperature","PRTResistance","On-shore MET station"
-"NEON.D06.MCDI.DP0.00002.001.01326.200.000.000",3944.9707,3976.46511697325,4020.00537,"MCDI","Single Aspirated Air Temperature","fanSpeed","On-shore MET station"
+"NEON.D06.MCDI.DP0.00002.001.01326.200.000.000",3944.9707,3976.46511697326,4020.00537,"MCDI","Single Aspirated Air Temperature","fanSpeed","On-shore MET station"
 "NEON.D06.MCDI.DP0.00002.001.01330.200.000.000",179.998245,282.549306284873,480.000061,"MCDI","Single Aspirated Air Temperature","turbineSpeed","On-shore MET station"
 "NEON.D06.MCDI.DP0.00004.001.01309.200.000.000",-4.19999981,-0.672220541948818,3.03999996,"MCDI","Barometric Pressure","sensorTemp","On-shore MET station"
 "NEON.D06.MCDI.DP0.00004.001.01311.200.000.000",96.4000015,97.9855009096853,99.0699997,"MCDI","Barometric Pressure","rawBarometricPressure","On-shore MET station"
